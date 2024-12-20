@@ -1,0 +1,2001 @@
+Age,Gender,Health_Status,Marital_Status,Current_Insurance,Previous_Policies,Claim_History,Annual_Income,Premium,Sum_Assured,Family_Details
+63,Male,Good,Divorced,Endowment,3,1 Claim,119015.0,4122,61083,Spouse:29;Spouse:48;Parent:78;Child:18
+53,Female,Fair,Divorced,ULIP,2,2 Claims,62047.0,1288,21926,Child:24;Child:9;Spouse:51
+39,Male,Fair,Married,Endowment,1,3+ Claims,67521.0,3017,58265,Spouse:50;Sibling:62;Spouse:32
+67,Female,Excellent,Divorced,None,4,3+ Claims,117373.0,3605,55677,Spouse:44
+32,Male,Good,Widowed,Endowment,4,No Claims,34016.0,1140,12829,Spouse:56
+45,Male,Good,Married,Term Life,1,2 Claims,61832.0,2570,27430,Child:17;Child:16;Spouse:42;Child:7
+63,Male,Excellent,Divorced,ULIP,1,3+ Claims,111840.0,3634,52177,None
+43,Female,Fair,Married,Term Life,1,2 Claims,78168.0,3429,49215,Sibling:77;Child:18;Sibling:48
+47,Male,Good,Widowed,None,1,1 Claim,57697.0,2224,25677,Parent:75;Spouse:52;Child:3
+35,Female,Excellent,Divorced,ULIP,0,No Claims,32383.0,1412,14902,Sibling:67;Parent:51;Parent:45;Child:6
+35,Female,Good,Widowed,Health Insurance,4,No Claims,91746.0,2548,51224,Child:13;Parent:68;Spouse:53;Spouse:56
+48,Female,Poor,Widowed,Whole Life,0,2 Claims,36932.0,722,13352,None
+60,Female,Excellent,Widowed,Endowment,3,3+ Claims,102647.0,3255,55886,Sibling:79
+64,Male,Fair,Divorced,Term Life,3,2 Claims,83339.0,4690,60045,None
+48,Female,Excellent,Single,None,4,1 Claim,98941.0,5044,72879,Spouse:56;Parent:56
+27,Female,Fair,Divorced,Whole Life,3,3+ Claims,36157.0,1310,21272,Parent:70;Parent:47;Spouse:41
+46,Male,Fair,Widowed,Endowment,1,3+ Claims,128295.0,3029,59016,None
+26,Female,Good,Divorced,Whole Life,0,2 Claims,64045.0,1723,17177,Sibling:45;Spouse:42;Sibling:64;Spouse:58
+48,Male,Good,Widowed,Endowment,1,1 Claim,89341.0,2718,48593,Parent:72;Parent:79
+68,Female,Fair,Single,Health Insurance,3,3+ Claims,82539.0,3415,64345,Child:13;Spouse:59;Spouse:56;Child:18
+54,Male,Good,Married,ULIP,0,No Claims,81332.0,3887,39053,Parent:57
+62,Female,Fair,Single,Whole Life,1,1 Claim,89851.0,4602,44312,Spouse:37;Child:15;Spouse:36;Sibling:77
+26,Male,Excellent,Single,Whole Life,4,3+ Claims,91921.0,3987,40709,Parent:47;Sibling:62;Parent:70
+45,Female,Fair,Married,Whole Life,1,2 Claims,83011.0,1796,30236,Child:4
+57,Female,Fair,Divorced,ULIP,3,3+ Claims,97876.0,1944,39737,Parent:72
+36,Male,Poor,Married,None,0,No Claims,76652.0,1665,22724,Parent:69;Child:13;Parent:46
+46,Male,Excellent,Divorced,Endowment,4,1 Claim,88572.0,3388,49482,Spouse:58
+68,Male,Good,Divorced,Health Insurance,0,3+ Claims,70210.0,1985,37595,Child:21;Child:12;Child:5;Sibling:67
+49,Male,Good,Widowed,Whole Life,4,No Claims,119985.0,5788,59594,None
+51,Female,Good,Widowed,ULIP,0,3+ Claims,63450.0,2129,28151,Sibling:46;Parent:71;Child:16
+66,Female,Good,Married,None,3,3+ Claims,95231.0,3055,42551,Parent:66;Spouse:58
+52,Male,Excellent,Single,Endowment,4,1 Claim,112629.0,2537,50077,Child:16;Spouse:30;Parent:67
+40,Female,Fair,Married,ULIP,2,2 Claims,108692.0,2722,39553,Sibling:52
+39,Male,Good,Divorced,Health Insurance,0,2 Claims,85119.0,3415,47850,Parent:66;Spouse:30;Child:22;Parent:76
+68,Male,Excellent,Widowed,Health Insurance,0,No Claims,87906.0,2706,52597,None
+27,Female,Good,Married,Endowment,1,No Claims,59554.0,1661,31250,None
+61,Female,Good,Married,Whole Life,4,No Claims,94339.0,3688,47274,Child:23;Sibling:57;Sibling:76;Sibling:66
+31,Female,Excellent,Widowed,Health Insurance,2,1 Claim,65047.0,2469,42049,Child:6;Parent:58;Child:16;Child:3
+45,Female,Poor,Widowed,None,3,2 Claims,50398.0,1653,18326,None
+33,Female,Poor,Widowed,ULIP,1,No Claims,88202.0,4024,57970,Parent:74;Sibling:74;Sibling:76;Parent:67
+63,Female,Good,Divorced,None,2,No Claims,95691.0,4527,51848,Child:1;Child:3
+42,Female,Excellent,Widowed,Whole Life,4,3+ Claims,57555.0,2729,40565,None
+28,Male,Fair,Single,None,2,3+ Claims,48032.0,1652,20318,Sibling:51;Spouse:27;Spouse:27;Spouse:28
+49,Male,Good,Married,None,0,No Claims,84397.0,2786,53789,Child:14
+38,Male,Good,Widowed,Term Life,0,3+ Claims,39941.0,1964,22071,Child:21;Sibling:46;Spouse:55;Sibling:66
+33,Male,Good,Widowed,None,1,3+ Claims,80568.0,2683,47028,Sibling:74
+50,Male,Good,Divorced,Endowment,4,3+ Claims,84694.0,2965,46688,None
+26,Female,Good,Divorced,ULIP,4,1 Claim,87313.0,4160,77882,Sibling:69;Parent:45
+44,Male,Good,Married,Term Life,2,No Claims,75551.0,3076,63264,None
+52,Male,Good,Single,ULIP,1,No Claims,60294.0,2127,19718,Spouse:41;Spouse:38;Parent:57;Parent:46
+31,Male,Poor,Married,ULIP,4,3+ Claims,37043.0,1087,19749,Spouse:30
+68,Male,Good,Widowed,Whole Life,0,1 Claim,90185.0,3053,33775,None
+32,Male,Fair,Single,Whole Life,2,3+ Claims,56301.0,2410,40625,Parent:62;Sibling:47
+59,Male,Fair,Single,Term Life,3,1 Claim,77654.0,2548,43505,Child:24;Sibling:78;Spouse:48;Parent:72
+38,Male,Good,Single,Health Insurance,0,No Claims,70569.0,1696,17616,None
+41,Female,Good,Single,Whole Life,1,3+ Claims,,1477,26320,Child:16
+60,Female,Good,Married,Whole Life,4,No Claims,95084.0,2490,40657,Spouse:31;Parent:62;Child:6
+64,Male,Good,Divorced,Whole Life,0,1 Claim,83587.0,1501,22612,Child:7
+28,Female,Fair,Divorced,ULIP,3,2 Claims,70634.0,1606,35710,Parent:73
+26,Female,Good,Widowed,Term Life,3,1 Claim,49798.0,1723,33068,Child:14;Spouse:29;Parent:69
+30,Female,Poor,Divorced,ULIP,1,2 Claims,84924.0,2006,17876,Sibling:63;Spouse:35
+66,Female,Excellent,Divorced,Endowment,0,No Claims,109045.0,3031,28842,Spouse:42;Parent:58;Parent:69
+28,Male,Excellent,Divorced,ULIP,2,No Claims,61871.0,2411,53403,Child:1
+53,Female,Good,Divorced,Endowment,0,3+ Claims,78846.0,4037,34752,None
+42,Female,Excellent,Widowed,None,3,2 Claims,41619.0,1361,23662,None
+50,Female,Excellent,Married,None,1,1 Claim,108270.0,2066,43701,Spouse:45;Child:10
+68,Male,Good,Single,Endowment,1,No Claims,84384.0,3336,46446,Spouse:36
+58,Male,Excellent,Divorced,Endowment,2,2 Claims,89814.0,2606,38418,Spouse:56;Sibling:77;Spouse:32
+34,Male,Excellent,Married,ULIP,1,1 Claim,70876.0,1627,21989,Child:10
+60,Male,Poor,Divorced,Endowment,1,2 Claims,86329.0,1873,28185,Child:9
+38,Male,Excellent,Divorced,Term Life,1,1 Claim,95092.0,2270,40591,None
+55,Male,Fair,Single,None,1,1 Claim,60572.0,2125,42498,Sibling:79
+39,Male,Fair,Single,None,1,1 Claim,103678.0,5097,76946,Child:6
+32,Female,Poor,Single,Health Insurance,3,1 Claim,75431.0,3231,46834,Parent:72;Sibling:59;Child:19
+38,Female,Excellent,Divorced,Endowment,0,2 Claims,63071.0,2172,27402,Child:18;Parent:46;Sibling:55
+47,Female,Fair,Divorced,Whole Life,4,2 Claims,72295.0,2311,39663,Parent:69;Sibling:65;Sibling:53
+64,Male,Good,Divorced,Whole Life,1,3+ Claims,49663.0,2305,29340,Spouse:34;Child:14;Child:5
+45,Male,Good,Single,Endowment,4,2 Claims,58035.0,1852,32201,None
+40,Male,Good,Widowed,Term Life,4,2 Claims,62921.0,1543,19733,Spouse:40;Parent:73;Spouse:42;Child:6
+69,Male,Fair,Married,Whole Life,3,3+ Claims,102522.0,4380,74335,Child:18;Spouse:56;Spouse:55;Spouse:35
+42,Male,Good,Widowed,Health Insurance,1,2 Claims,97191.0,4425,63928,Child:19
+48,Female,Fair,Divorced,Endowment,4,1 Claim,118750.0,3179,64763,None
+50,Female,Good,Divorced,Term Life,1,No Claims,85445.0,4729,65983,Spouse:51;Spouse:44;Parent:47;Spouse:40
+49,Male,Fair,Widowed,Term Life,2,No Claims,83112.0,2641,42192,Child:15;Parent:74;Sibling:45
+69,Male,Poor,Divorced,ULIP,2,3+ Claims,89192.0,2749,40129,Child:21;Child:8;Sibling:76;Child:10
+65,Male,Excellent,Married,Term Life,2,2 Claims,60697.0,1285,21825,Sibling:52;Sibling:79
+53,Male,Poor,Divorced,Whole Life,4,2 Claims,70884.0,3397,29538,Child:16;Spouse:49;Spouse:44
+39,Female,Excellent,Married,Whole Life,2,3+ Claims,64889.0,2387,50343,Sibling:61;Parent:67;Sibling:69;Sibling:75
+69,Male,Excellent,Widowed,Endowment,3,No Claims,118507.0,4860,54626,Sibling:48;Spouse:44
+25,Male,Excellent,Widowed,Endowment,3,1 Claim,65390.0,1939,22785,None
+49,Male,Good,Divorced,Term Life,4,2 Claims,83430.0,1952,19594,None
+31,Male,Good,Married,Health Insurance,1,3+ Claims,49383.0,1609,33895,Spouse:50;Spouse:58;Sibling:54;Parent:67
+33,Female,Excellent,Divorced,None,0,1 Claim,23357.0,702,12473,Spouse:48;Child:13
+48,Male,Excellent,Single,ULIP,1,3+ Claims,39564.0,1327,21941,Child:14;Child:11;Sibling:54;Child:7
+25,Male,Poor,Single,None,1,3+ Claims,21725.0,1207,15463,Sibling:68
+68,Female,Fair,Single,Term Life,1,3+ Claims,92159.0,3714,72165,None
+32,Female,Fair,Single,Term Life,1,No Claims,81880.0,2868,29703,Child:13;Parent:78
+48,Female,Fair,Divorced,None,0,No Claims,97341.0,1715,30188,None
+35,Male,Fair,Single,ULIP,2,3+ Claims,80874.0,1455,24529,Sibling:76;Child:3;Spouse:39;Sibling:52
+41,Male,Excellent,Married,None,1,2 Claims,60698.0,2341,26596,Spouse:54
+32,Female,Good,Widowed,Endowment,3,1 Claim,84885.0,4382,44341,None
+59,Female,Fair,Widowed,Whole Life,4,2 Claims,70378.0,2921,35103,None
+59,Female,Excellent,Single,Health Insurance,4,No Claims,,3511,36530,Spouse:46;Spouse:58
+57,Female,Good,Single,Endowment,3,1 Claim,53508.0,1151,14683,None
+29,Female,Excellent,Single,Whole Life,1,3+ Claims,35457.0,1931,17941,Spouse:43
+66,Female,Good,Divorced,Health Insurance,0,2 Claims,129052.0,6009,98381,Child:5
+63,Male,Good,Widowed,Health Insurance,2,2 Claims,88923.0,3466,36931,Child:12
+65,Male,Good,Single,Health Insurance,4,3+ Claims,81380.0,1650,22574,Sibling:71;Sibling:49;Sibling:50
+52,Male,Good,Married,Term Life,2,2 Claims,104055.0,4516,73599,Child:23;Sibling:69;Spouse:28;Child:20
+31,Female,Good,Single,Health Insurance,0,No Claims,,3672,60103,Sibling:59;Spouse:50;Sibling:55
+33,Female,Excellent,Widowed,ULIP,4,3+ Claims,54334.0,2001,27740,None
+32,Female,Excellent,Single,None,2,2 Claims,67569.0,2964,49267,Parent:46;Sibling:71
+36,Female,Fair,Widowed,ULIP,0,3+ Claims,68738.0,1561,19293,Parent:70
+58,Female,Good,Single,None,2,1 Claim,31457.0,753,8166,Sibling:65;Sibling:65;Child:8;Child:1
+57,Female,Excellent,Married,Endowment,1,3+ Claims,59082.0,1439,14245,Parent:57
+47,Male,Fair,Single,Endowment,0,2 Claims,95845.0,4024,89120,None
+48,Male,Excellent,Married,None,2,No Claims,61347.0,2548,37021,Child:6;Spouse:47;Spouse:41
+61,Female,Good,Married,ULIP,1,3+ Claims,101596.0,4841,83099,None
+59,Male,Excellent,Single,None,1,3+ Claims,94260.0,2511,43556,Parent:66;Spouse:36;Spouse:30
+68,Female,Fair,Married,Health Insurance,0,2 Claims,122308.0,5540,114236,Sibling:53;Child:20;Spouse:27
+64,Male,Good,Divorced,Term Life,3,No Claims,66724.0,3102,52140,Spouse:32
+46,Female,Excellent,Single,Endowment,4,No Claims,83884.0,2287,37961,Child:15
+51,Female,Fair,Single,Term Life,0,1 Claim,79691.0,4098,56469,None
+59,Male,Good,Married,Health Insurance,1,1 Claim,73204.0,2279,21793,Spouse:33
+25,Male,Excellent,Married,Health Insurance,1,2 Claims,39064.0,1041,15524,Spouse:51;Child:9;Sibling:76;Spouse:28
+59,Female,Excellent,Single,Endowment,0,No Claims,93549.0,2216,42600,Child:19
+61,Female,Excellent,Divorced,Endowment,3,No Claims,103593.0,5771,92794,None
+38,Male,Excellent,Married,Health Insurance,4,1 Claim,69271.0,3471,46740,Spouse:25;Spouse:35;Sibling:45;Parent:55
+27,Male,Good,Married,Whole Life,2,1 Claim,58894.0,1652,28125,Parent:51;Child:2;Parent:59;Child:8
+25,Female,Fair,Widowed,Term Life,0,2 Claims,45030.0,1928,29901,Parent:70;Sibling:79;Child:20
+29,Male,Good,Divorced,Term Life,4,No Claims,50356.0,1721,24453,None
+50,Female,Excellent,Divorced,Whole Life,4,3+ Claims,,3134,44424,None
+38,Female,Excellent,Single,ULIP,1,1 Claim,57627.0,1420,26558,Parent:52;Sibling:76;Parent:52;Spouse:34
+63,Female,Excellent,Divorced,Term Life,2,2 Claims,104893.0,3621,50180,Spouse:54;Sibling:67;Spouse:29
+51,Female,Good,Single,None,0,No Claims,95128.0,3900,55580,Spouse:30;Child:17;Parent:61;Child:24
+33,Male,Fair,Widowed,Health Insurance,1,No Claims,37482.0,860,8990,Parent:61;Spouse:38;Child:2;Parent:70
+39,Male,Excellent,Divorced,Health Insurance,1,1 Claim,51071.0,1615,22015,Parent:70;Child:3
+39,Male,Fair,Married,Whole Life,3,2 Claims,54792.0,2381,32807,Sibling:72
+50,Male,Fair,Widowed,Term Life,4,3+ Claims,78719.0,2164,31823,Parent:66
+66,Male,Good,Single,ULIP,0,1 Claim,62336.0,3027,46780,Spouse:44;Parent:50;Spouse:33
+37,Male,Fair,Widowed,Term Life,0,2 Claims,49421.0,1042,11843,Child:4;Parent:70;Spouse:52
+56,Male,Good,Single,Health Insurance,0,No Claims,58288.0,2787,32903,Spouse:34;Child:18;Parent:59;Parent:77
+63,Female,Good,Widowed,Endowment,1,3+ Claims,101009.0,2226,36658,Child:5;Parent:66;Child:22;Parent:66
+56,Male,Good,Single,None,3,2 Claims,85406.0,1692,26844,Sibling:59;Parent:61;Spouse:52
+28,Male,Good,Divorced,Whole Life,2,3+ Claims,48749.0,1436,23709,Spouse:46;Sibling:65
+54,Female,Excellent,Married,Endowment,1,2 Claims,62734.0,2666,50051,Parent:61
+61,Male,Good,Single,ULIP,2,2 Claims,82058.0,3439,36848,Spouse:42;Spouse:41;Parent:48;Child:22
+47,Male,Excellent,Widowed,Endowment,3,2 Claims,65706.0,1669,17571,None
+63,Female,Good,Single,Endowment,4,2 Claims,125693.0,2974,44781,Parent:53;Child:19;Sibling:53;Sibling:67
+69,Male,Excellent,Single,ULIP,0,3+ Claims,118940.0,4441,64473,Spouse:55;Spouse:41;Spouse:46
+39,Male,Poor,Single,Endowment,2,1 Claim,55185.0,1805,28461,Child:21;Spouse:50
+67,Male,Fair,Widowed,Whole Life,1,3+ Claims,100303.0,4392,79114,Parent:50
+53,Female,Good,Married,Health Insurance,2,2 Claims,101884.0,2194,38316,Child:24
+60,Male,Excellent,Divorced,Term Life,4,3+ Claims,76179.0,2865,33228,None
+37,Male,Fair,Married,Endowment,0,3+ Claims,38657.0,1453,30754,Sibling:57;Child:6
+56,Female,Fair,Single,Whole Life,2,3+ Claims,50062.0,2144,28230,Spouse:29
+31,Male,Fair,Widowed,Term Life,4,2 Claims,86445.0,4395,57072,Parent:55;Parent:68
+46,Female,Excellent,Married,Term Life,1,3+ Claims,72178.0,1725,34049,Spouse:54;Parent:79;Child:21;Child:23
+52,Female,Good,Single,Endowment,3,No Claims,87826.0,1935,33963,Spouse:26;Parent:78;Sibling:55;Child:4
+26,Male,Excellent,Divorced,Whole Life,1,2 Claims,44515.0,1836,22006,Child:9;Child:6
+66,Female,Excellent,Divorced,Health Insurance,0,3+ Claims,70642.0,2612,32909,Child:15
+69,Female,Fair,Divorced,Endowment,1,No Claims,77373.0,3823,55821,Sibling:76;Spouse:36;Child:13;Parent:76
+30,Male,Fair,Single,ULIP,1,3+ Claims,33179.0,1325,15975,None
+52,Female,Good,Widowed,Term Life,1,1 Claim,98999.0,3576,34066,Sibling:77;Child:11;Parent:53
+52,Female,Fair,Married,Endowment,1,3+ Claims,111851.0,3613,58272,Child:7
+68,Male,Good,Divorced,Term Life,0,3+ Claims,98744.0,3073,43961,Spouse:54;Sibling:64
+68,Male,Good,Single,Whole Life,4,1 Claim,67644.0,1856,29540,None
+44,Male,Good,Single,None,2,2 Claims,83931.0,1904,20748,Spouse:59;Sibling:67;Child:22
+54,Female,Poor,Married,Endowment,3,1 Claim,109299.0,4062,73622,Child:16
+35,Male,Excellent,Divorced,Health Insurance,2,2 Claims,84433.0,2223,26571,Sibling:67
+52,Female,Poor,Single,Endowment,2,1 Claim,81417.0,2365,39224,Parent:63;Parent:74;Child:21
+49,Female,Fair,Married,Term Life,3,3+ Claims,74310.0,1935,24239,Child:19;Spouse:50;Child:1;Sibling:48
+63,Female,Excellent,Widowed,Whole Life,0,3+ Claims,92256.0,2744,33786,None
+57,Female,Good,Widowed,ULIP,3,2 Claims,111504.0,1926,47212,Parent:73
+25,Female,Fair,Widowed,Health Insurance,0,2 Claims,70207.0,3080,34622,Parent:65;Spouse:46
+51,Female,Good,Divorced,Whole Life,2,No Claims,73284.0,2489,28786,None
+37,Female,Poor,Married,Endowment,0,No Claims,58781.0,1973,29735,Parent:70
+65,Male,Poor,Married,ULIP,4,3+ Claims,85366.0,3422,44272,None
+27,Male,Good,Single,Whole Life,3,3+ Claims,35707.0,1939,29772,Parent:49;Sibling:66;Parent:48
+63,Female,Good,Single,None,4,No Claims,120036.0,2427,30898,Spouse:40
+30,Female,Poor,Single,Health Insurance,2,No Claims,44243.0,1503,25375,Spouse:46;Parent:45;Child:15;Parent:68
+32,Male,Good,Married,Term Life,3,2 Claims,71805.0,2136,32804,Spouse:42;Spouse:41;Sibling:51
+51,Female,Excellent,Single,Whole Life,2,1 Claim,67771.0,2075,23841,Parent:54
+33,Male,Excellent,Married,Whole Life,4,2 Claims,53455.0,2509,47734,None
+61,Male,Good,Married,None,2,No Claims,88722.0,3812,47819,Parent:66
+57,Male,Poor,Widowed,Endowment,3,3+ Claims,97904.0,3591,56633,Sibling:79;Spouse:41;Sibling:56;Child:24
+66,Female,Fair,Single,Health Insurance,3,No Claims,90815.0,2753,41986,Parent:74;Spouse:44;Sibling:51
+68,Female,Good,Widowed,Health Insurance,2,3+ Claims,75215.0,2977,46207,Spouse:31
+48,Male,Excellent,Divorced,Term Life,3,3+ Claims,78381.0,1775,23393,Child:17;Parent:74;Sibling:56
+39,Male,Excellent,Divorced,Whole Life,3,3+ Claims,53666.0,2147,30872,None
+56,Male,Fair,Divorced,ULIP,2,3+ Claims,116876.0,3910,52973,Spouse:26
+56,Male,Excellent,Married,Whole Life,4,1 Claim,80801.0,2616,46789,Parent:77;Parent:55;Spouse:58;Parent:60
+48,Male,Excellent,Married,Term Life,3,No Claims,64640.0,1542,29826,Parent:77;Sibling:65
+65,Female,Excellent,Married,Whole Life,3,2 Claims,134496.0,4990,72612,Parent:52;Sibling:70;Parent:77
+36,Male,Good,Single,None,3,3+ Claims,80777.0,1682,29178,Child:5;Child:1;Sibling:55;Sibling:49
+63,Female,Poor,Widowed,Whole Life,3,3+ Claims,75064.0,1844,23619,Child:13
+26,Male,Excellent,Married,Whole Life,2,2 Claims,40181.0,1422,15239,Parent:70
+27,Female,Good,Widowed,ULIP,4,2 Claims,66483.0,1833,22999,None
+61,Female,Good,Widowed,None,4,3+ Claims,91869.0,3729,38661,Sibling:58;Spouse:29;Parent:46
+41,Female,Poor,Widowed,None,0,2 Claims,88803.0,3330,57846,Parent:56;Child:11;Sibling:48
+26,Female,Excellent,Single,Whole Life,3,2 Claims,42746.0,1865,29778,Parent:53;Sibling:54
+26,Female,Good,Single,Health Insurance,3,1 Claim,70022.0,1860,25157,Sibling:50;Sibling:59
+52,Female,Good,Divorced,ULIP,0,2 Claims,37234.0,1516,18773,Child:22
+47,Male,Fair,Divorced,Whole Life,4,No Claims,73911.0,3317,48034,Sibling:50;Child:1;Spouse:53;Parent:65
+61,Female,Good,Widowed,Whole Life,1,No Claims,78656.0,2064,34399,Parent:74;Spouse:45;Child:4
+56,Male,Excellent,Divorced,Term Life,1,No Claims,76899.0,2127,40010,Parent:66
+57,Female,Good,Widowed,Term Life,4,3+ Claims,84942.0,4156,74557,Child:22;Child:20;Child:8
+25,Female,Fair,Single,Health Insurance,3,No Claims,77770.0,1673,23129,Spouse:55;Spouse:37
+43,Male,Excellent,Single,ULIP,1,1 Claim,49919.0,1475,21778,Child:22
+26,Female,Fair,Single,Endowment,2,No Claims,12239.0,262,3466,None
+68,Male,Excellent,Married,Term Life,2,3+ Claims,77238.0,1865,31848,None
+50,Male,Good,Widowed,Endowment,0,1 Claim,100448.0,2152,27220,Sibling:70;Spouse:35;Sibling:57;Sibling:77
+56,Male,Good,Single,None,4,No Claims,53100.0,1792,21970,Child:5
+30,Male,Fair,Widowed,Term Life,4,1 Claim,48561.0,1875,32270,None
+56,Female,Good,Divorced,Term Life,1,1 Claim,102791.0,2958,31416,Sibling:76;Sibling:59
+28,Female,Fair,Divorced,ULIP,3,3+ Claims,56831.0,2703,34332,None
+35,Male,Fair,Single,Health Insurance,4,3+ Claims,87574.0,2503,50920,None
+41,Female,Good,Widowed,Endowment,1,1 Claim,30302.0,1485,17021,Sibling:62;Child:22;Child:4
+62,Female,Fair,Single,Term Life,1,No Claims,85567.0,4655,54996,None
+48,Male,Fair,Divorced,Term Life,4,3+ Claims,104743.0,5321,68662,Spouse:57;Spouse:51
+29,Female,Excellent,Single,ULIP,1,1 Claim,36462.0,1726,25736,Sibling:45;Child:12;Child:9;Sibling:49
+58,Male,Good,Widowed,ULIP,0,2 Claims,108696.0,4498,52330,Spouse:33
+30,Male,Poor,Divorced,Health Insurance,0,2 Claims,55286.0,3164,48418,Child:13;Spouse:48;Sibling:54;Child:10
+46,Female,Excellent,Married,Endowment,4,3+ Claims,84682.0,2554,23819,Sibling:66;Parent:64;Sibling:54
+35,Female,Fair,Divorced,None,3,No Claims,90293.0,2572,46497,Sibling:70
+40,Female,Poor,Married,Health Insurance,0,2 Claims,78596.0,3140,35766,None
+57,Male,Excellent,Single,None,0,2 Claims,75175.0,2695,37355,Sibling:72;Child:13;Sibling:59;Sibling:50
+33,Male,Good,Single,Whole Life,4,2 Claims,74241.0,3010,36109,Parent:56;Child:19;Parent:76
+30,Female,Good,Widowed,Term Life,2,No Claims,46764.0,2402,26087,Sibling:77;Child:2
+40,Female,Good,Married,Endowment,1,No Claims,75467.0,2260,23220,Parent:49;Sibling:59;Spouse:34
+53,Female,Excellent,Single,Health Insurance,0,3+ Claims,57963.0,2725,37063,None
+27,Female,Excellent,Married,Term Life,2,3+ Claims,57581.0,1382,22826,Parent:68
+44,Male,Good,Single,Endowment,3,2 Claims,97785.0,2751,33822,Child:20
+60,Female,Fair,Divorced,Endowment,2,No Claims,84024.0,3423,60107,Parent:47;Parent:49
+43,Male,Fair,Single,Endowment,4,1 Claim,94873.0,2478,30072,Parent:58;Spouse:35;Child:8
+50,Male,Good,Widowed,Term Life,3,2 Claims,141868.0,5084,73309,Child:8;Child:12;Sibling:59;Child:19
+27,Female,Excellent,Divorced,Health Insurance,3,3+ Claims,56421.0,2090,26832,Child:7;Spouse:31;Sibling:74
+43,Female,Good,Widowed,ULIP,2,No Claims,85283.0,2278,32405,Sibling:68
+44,Female,Excellent,Divorced,Term Life,4,3+ Claims,83537.0,3286,62748,Parent:48
+56,Male,Poor,Married,Endowment,0,3+ Claims,90502.0,3325,56187,Sibling:50;Sibling:70
+31,Female,Fair,Widowed,Health Insurance,2,No Claims,76757.0,2126,27603,Spouse:35;Child:20;Sibling:73
+65,Female,Fair,Single,Whole Life,0,2 Claims,90038.0,2632,30706,Sibling:54;Spouse:50;Sibling:71
+57,Male,Poor,Married,None,2,No Claims,73749.0,3116,60266,Sibling:58
+64,Female,Excellent,Single,Endowment,0,2 Claims,63473.0,2358,31977,Spouse:36;Parent:67;Parent:65
+63,Male,Fair,Divorced,Whole Life,2,3+ Claims,86144.0,1860,30906,Sibling:53
+42,Female,Good,Divorced,ULIP,3,No Claims,90028.0,1617,21199,None
+64,Male,Poor,Single,Endowment,1,1 Claim,75204.0,3771,39501,None
+25,Female,Excellent,Single,Whole Life,3,2 Claims,59933.0,2309,27210,Sibling:73
+35,Female,Fair,Married,Endowment,0,1 Claim,62537.0,1512,26261,Child:3;Sibling:65;Child:8
+52,Male,Fair,Single,Term Life,4,2 Claims,69585.0,2757,47518,Parent:60
+49,Male,Excellent,Widowed,Health Insurance,3,No Claims,41939.0,1415,21715,Sibling:75
+47,Female,Good,Widowed,Whole Life,1,1 Claim,104257.0,4473,52264,Sibling:64;Spouse:28
+55,Male,Fair,Single,Health Insurance,0,No Claims,95343.0,2766,37366,Sibling:75;Parent:64;Sibling:55
+54,Male,Good,Widowed,Term Life,3,2 Claims,137305.0,4679,68699,Child:1
+66,Male,Excellent,Single,Term Life,2,2 Claims,117588.0,3308,48482,Sibling:62;Child:7;Spouse:57
+59,Male,Excellent,Married,Health Insurance,4,2 Claims,115810.0,5992,58707,Sibling:62;Spouse:55;Spouse:59
+31,Female,Excellent,Widowed,Whole Life,0,2 Claims,26012.0,1057,21927,None
+40,Female,Fair,Widowed,Health Insurance,3,3+ Claims,34663.0,1386,22889,Sibling:57
+50,Male,Good,Single,Health Insurance,0,2 Claims,80846.0,3051,64993,Child:13;Sibling:48;Child:7;Spouse:36
+26,Male,Excellent,Widowed,None,2,1 Claim,33037.0,1211,11812,Parent:57;Sibling:60
+25,Male,Good,Divorced,Whole Life,1,2 Claims,41374.0,1893,26164,Parent:75;Child:4
+36,Male,Good,Married,None,3,No Claims,116525.0,2379,27272,Sibling:79;Parent:54;Parent:61;Sibling:74
+29,Female,Excellent,Married,Endowment,0,3+ Claims,82797.0,3768,67806,Parent:51;Sibling:62;Parent:63
+61,Female,Good,Widowed,Health Insurance,0,1 Claim,72286.0,1893,27165,Spouse:46;Sibling:74;Spouse:44
+56,Male,Good,Widowed,Endowment,0,3+ Claims,38677.0,1183,22768,Spouse:49;Parent:67;Child:5;Spouse:54
+33,Male,Good,Divorced,Whole Life,1,3+ Claims,42601.0,1801,29131,None
+65,Male,Fair,Divorced,Health Insurance,0,3+ Claims,83856.0,3979,63749,Spouse:31;Spouse:29
+59,Female,Excellent,Widowed,Endowment,4,No Claims,82574.0,3738,61160,Child:10;Child:8
+43,Male,Good,Widowed,ULIP,4,3+ Claims,47419.0,1528,28962,None
+40,Female,Good,Divorced,Term Life,0,3+ Claims,92597.0,2822,48851,Spouse:46;Child:2
+27,Male,Good,Single,Health Insurance,4,2 Claims,42770.0,2216,26306,Child:13;Child:11
+44,Female,Good,Divorced,Term Life,3,No Claims,86971.0,2103,42775,Sibling:76;Spouse:39;Child:6
+48,Male,Good,Single,None,4,1 Claim,79077.0,4232,65206,None
+57,Female,Fair,Married,Endowment,0,1 Claim,105769.0,4063,57553,Sibling:68
+48,Male,Good,Married,None,2,1 Claim,73241.0,2303,41831,Parent:66;Parent:47
+35,Male,Good,Divorced,Health Insurance,3,No Claims,46500.0,869,9947,Child:16
+32,Male,Fair,Single,Term Life,1,1 Claim,50028.0,1753,21972,None
+60,Female,Good,Divorced,Term Life,0,No Claims,78310.0,1959,23476,Spouse:30
+62,Male,Excellent,Divorced,Endowment,1,2 Claims,133291.0,3750,37559,None
+64,Female,Excellent,Single,Health Insurance,2,2 Claims,95530.0,2405,40713,None
+44,Female,Excellent,Divorced,ULIP,1,No Claims,74092.0,2476,43698,Child:11
+59,Male,Fair,Married,ULIP,0,1 Claim,106640.0,3529,72994,Parent:51;Spouse:46;Spouse:34;Parent:65
+49,Male,Fair,Widowed,Endowment,0,No Claims,78998.0,3637,71994,None
+59,Male,Poor,Widowed,Health Insurance,2,No Claims,111433.0,3186,34904,None
+49,Female,Good,Divorced,Endowment,0,3+ Claims,71558.0,2481,25659,Sibling:58
+53,Male,Good,Single,Health Insurance,2,No Claims,73527.0,2101,34776,Sibling:71;Child:9;Spouse:30
+42,Female,Excellent,Single,None,2,3+ Claims,52394.0,1733,37234,None
+42,Female,Good,Married,Endowment,0,2 Claims,109000.0,4609,56899,Child:11;Spouse:45;Parent:71;Spouse:52
+26,Male,Good,Single,Health Insurance,4,3+ Claims,,1877,42986,Spouse:59;Parent:63
+59,Male,Poor,Single,ULIP,2,No Claims,65519.0,3429,48789,Sibling:65;Parent:77;Spouse:47;Parent:50
+40,Male,Excellent,Married,Health Insurance,0,2 Claims,73936.0,2123,51128,Spouse:59;Sibling:60
+65,Male,Good,Divorced,Health Insurance,4,3+ Claims,81998.0,3330,40956,Sibling:69
+60,Male,Good,Widowed,Endowment,2,No Claims,82207.0,2370,38234,None
+57,Male,Good,Married,None,4,2 Claims,93215.0,3766,70983,Spouse:52;Sibling:55;Parent:54;Sibling:68
+28,Female,Good,Divorced,None,3,3+ Claims,88419.0,3370,83749,None
+57,Female,Fair,Married,None,3,No Claims,89031.0,3296,46878,None
+38,Female,Excellent,Divorced,None,4,No Claims,53779.0,2761,48022,None
+45,Male,Fair,Married,Whole Life,2,1 Claim,64901.0,1449,25102,Child:4;Sibling:79;Child:6
+44,Female,Good,Divorced,Endowment,0,1 Claim,87128.0,3617,43717,Parent:60
+32,Female,Fair,Married,Term Life,1,3+ Claims,22833.0,646,6534,Sibling:72;Sibling:76;Sibling:70;Parent:55
+31,Female,Fair,Divorced,Endowment,0,3+ Claims,40146.0,1248,14832,Parent:69;Child:21;Spouse:27
+27,Female,Good,Married,Whole Life,1,3+ Claims,,1337,19605,Parent:69;Sibling:61;Child:6
+41,Female,Excellent,Widowed,None,1,No Claims,36866.0,2172,29538,Sibling:63;Sibling:46;Parent:61
+57,Male,Poor,Widowed,Whole Life,2,3+ Claims,80749.0,3980,38460,Spouse:59
+36,Male,Good,Single,ULIP,4,No Claims,56434.0,2857,43432,Sibling:77;Parent:45;Child:18;Sibling:48
+46,Female,Poor,Divorced,ULIP,0,3+ Claims,93548.0,3907,66952,Child:23;Parent:72
+46,Female,Excellent,Married,Endowment,4,No Claims,70994.0,2594,30060,Parent:66;Parent:69;Parent:61;Parent:56
+54,Female,Good,Divorced,Endowment,3,No Claims,107733.0,5252,78968,Spouse:40;Child:17;Spouse:55;Child:15
+62,Male,Fair,Widowed,Term Life,2,1 Claim,93577.0,4832,50870,Sibling:71;Sibling:65;Child:2;Sibling:52
+62,Male,Poor,Divorced,Term Life,2,2 Claims,127529.0,4167,55201,Sibling:51
+69,Female,Good,Married,ULIP,3,No Claims,71250.0,1823,26924,Sibling:48
+32,Male,Fair,Divorced,None,0,3+ Claims,94342.0,3444,70624,Spouse:59;Spouse:27
+51,Male,Good,Married,Whole Life,3,1 Claim,72777.0,2815,43616,Parent:62
+51,Female,Excellent,Widowed,Term Life,0,3+ Claims,110478.0,5609,68748,Child:19
+58,Male,Good,Widowed,Health Insurance,1,3+ Claims,111704.0,4352,69056,Sibling:68;Child:2
+45,Male,Good,Widowed,Term Life,2,No Claims,17961.0,871,11063,Parent:46;Parent:46
+54,Female,Poor,Single,None,0,No Claims,93583.0,4527,63259,Sibling:67
+57,Male,Good,Widowed,None,4,2 Claims,106952.0,4780,79859,Parent:61;Sibling:62;Parent:58
+52,Male,Excellent,Divorced,Endowment,4,No Claims,108571.0,4382,47392,None
+57,Female,Excellent,Single,Whole Life,2,No Claims,63467.0,1821,35236,Parent:60;Sibling:76;Parent:67
+29,Male,Good,Widowed,None,3,2 Claims,70806.0,2864,25850,Parent:78
+43,Male,Good,Divorced,Term Life,3,3+ Claims,76901.0,2942,50921,Parent:51
+28,Female,Fair,Divorced,Term Life,0,2 Claims,66628.0,3585,61236,None
+59,Female,Good,Divorced,ULIP,3,2 Claims,108978.0,3876,69112,Child:11;Spouse:31;Child:18
+41,Female,Poor,Married,None,2,2 Claims,94134.0,2257,23966,Parent:55;Spouse:44;Child:11
+68,Male,Poor,Single,Health Insurance,0,1 Claim,84885.0,1555,27329,None
+52,Female,Good,Divorced,Endowment,1,3+ Claims,87308.0,3674,55707,Child:18
+54,Male,Poor,Married,Whole Life,3,1 Claim,84822.0,3302,63384,Child:10;Sibling:72;Parent:79
+53,Female,Fair,Widowed,Health Insurance,3,1 Claim,78212.0,2295,33834,Parent:66;Spouse:48
+30,Male,Good,Divorced,Endowment,0,No Claims,57124.0,1510,20832,Child:22
+59,Female,Excellent,Married,Term Life,4,2 Claims,92919.0,3067,53985,None
+65,Female,Good,Divorced,Health Insurance,3,2 Claims,82960.0,2036,37194,Parent:58;Child:4;Parent:47;Child:5
+61,Female,Good,Single,Endowment,2,1 Claim,108660.0,3566,53669,None
+48,Female,Fair,Single,Term Life,3,No Claims,103386.0,3534,64037,Parent:77;Spouse:54
+53,Male,Good,Widowed,Term Life,1,No Claims,66588.0,2288,34200,Child:10;Parent:78;Spouse:40
+55,Female,Fair,Divorced,Term Life,3,No Claims,111366.0,3392,66097,Spouse:39;Parent:55;Child:12;Sibling:78
+59,Female,Good,Married,Term Life,4,3+ Claims,72626.0,1889,33997,Spouse:54;Spouse:59;Parent:53
+57,Male,Excellent,Widowed,Term Life,3,1 Claim,104955.0,5060,82531,Sibling:63
+45,Female,Poor,Divorced,ULIP,0,3+ Claims,101329.0,3868,43010,Sibling:50;Sibling:77;Parent:76
+56,Male,Good,Widowed,Health Insurance,3,No Claims,84109.0,2184,33340,Child:22;Spouse:47
+47,Female,Good,Married,Endowment,4,No Claims,60790.0,1606,25477,Parent:75
+57,Female,Good,Widowed,ULIP,0,No Claims,75226.0,2108,28517,Sibling:49;Spouse:49;Spouse:58;Sibling:56
+27,Female,Excellent,Widowed,ULIP,2,2 Claims,64237.0,1276,20132,None
+42,Male,Good,Widowed,None,0,1 Claim,111293.0,2177,41836,Sibling:64;Spouse:53;Spouse:53
+49,Female,Good,Divorced,None,1,2 Claims,45145.0,1363,26968,Child:22;Child:23;Parent:61;Spouse:29
+66,Female,Good,Married,None,0,3+ Claims,98004.0,4292,42158,Child:13;Spouse:37;Sibling:59
+55,Female,Poor,Single,Whole Life,2,2 Claims,83238.0,2321,57150,Child:18
+27,Male,Good,Divorced,None,3,1 Claim,47869.0,1998,41077,Sibling:67
+64,Male,Excellent,Single,Endowment,0,2 Claims,92384.0,1726,27913,Sibling:57;Sibling:48
+48,Female,Good,Single,ULIP,0,No Claims,67156.0,2943,36812,None
+56,Male,Poor,Divorced,Endowment,0,3+ Claims,110863.0,2882,51044,Parent:56;Sibling:57
+46,Female,Excellent,Divorced,Health Insurance,0,3+ Claims,102849.0,4219,72212,None
+47,Female,Excellent,Married,None,2,No Claims,78762.0,1708,21983,Parent:50;Spouse:34
+26,Female,Excellent,Married,Whole Life,4,No Claims,53177.0,2322,25592,Spouse:47;Child:8;Child:5;Parent:78
+51,Female,Excellent,Widowed,Health Insurance,4,No Claims,71139.0,2320,35437,Spouse:56;Child:6;Child:8;Child:24
+66,Female,Fair,Single,Whole Life,0,1 Claim,97805.0,2187,34369,Spouse:41;Child:22;Spouse:42;Sibling:72
+26,Female,Fair,Married,Health Insurance,2,2 Claims,92956.0,3640,37978,Sibling:45;Sibling:63;Parent:78;Spouse:28
+50,Female,Good,Widowed,ULIP,2,3+ Claims,77925.0,1878,22537,Child:3;Parent:54
+41,Male,Good,Married,Endowment,0,2 Claims,54211.0,1896,34514,Parent:78;Sibling:63;Spouse:27
+64,Male,Good,Divorced,Term Life,1,No Claims,86044.0,3388,60191,None
+57,Male,Poor,Married,Endowment,0,No Claims,102069.0,2607,37828,Child:11
+33,Male,Poor,Single,None,1,2 Claims,48645.0,1663,25566,Parent:50
+67,Male,Good,Married,Term Life,0,3+ Claims,96325.0,2018,38014,Child:9;Sibling:79;Spouse:41;Child:12
+63,Male,Fair,Single,Whole Life,1,1 Claim,102457.0,4428,55271,Child:20;Parent:68;Child:10
+53,Male,Fair,Divorced,ULIP,1,2 Claims,70162.0,2154,25567,Spouse:54
+66,Female,Good,Single,ULIP,0,No Claims,60711.0,2045,44970,Spouse:34;Child:7;Parent:72;Parent:62
+50,Female,Excellent,Married,Whole Life,1,No Claims,58572.0,3197,35449,None
+59,Female,Good,Widowed,None,3,1 Claim,71824.0,2247,37686,Sibling:61
+49,Female,Fair,Divorced,Whole Life,4,2 Claims,74423.0,4038,43192,Spouse:25;Sibling:61
+48,Male,Poor,Married,Health Insurance,2,1 Claim,78885.0,3464,33860,Parent:53;Sibling:72;Parent:77
+37,Male,Fair,Divorced,None,1,1 Claim,83474.0,2370,43359,Sibling:52;Sibling:50
+31,Female,Fair,Divorced,Term Life,1,3+ Claims,36454.0,1385,18320,Spouse:30;Spouse:53
+60,Female,Good,Married,Whole Life,2,3+ Claims,103565.0,4536,74097,Sibling:56;Parent:53;Parent:63;Spouse:41
+69,Male,Fair,Married,None,1,No Claims,,2991,38163,Spouse:56;Child:3;Spouse:38
+44,Female,Fair,Widowed,Term Life,2,2 Claims,38289.0,843,10115,None
+25,Female,Good,Divorced,Whole Life,0,3+ Claims,55271.0,1381,24578,Parent:56;Spouse:48;Child:2;Sibling:52
+32,Female,Good,Divorced,ULIP,3,No Claims,88325.0,3662,50473,Sibling:65;Parent:52;Child:16
+40,Female,Fair,Married,Whole Life,3,2 Claims,87662.0,4022,48783,Sibling:59
+38,Male,Excellent,Single,Endowment,4,No Claims,66474.0,2538,23564,Sibling:70;Spouse:39;Sibling:76
+36,Female,Fair,Married,Whole Life,1,3+ Claims,88515.0,2236,28256,Parent:48;Sibling:53
+47,Female,Excellent,Divorced,Endowment,4,No Claims,80844.0,3790,65545,Parent:72;Parent:53
+39,Male,Good,Married,Term Life,0,2 Claims,88623.0,5615,82486,Spouse:27
+52,Male,Fair,Widowed,Whole Life,3,2 Claims,48767.0,918,18348,Child:21
+58,Female,Excellent,Single,Term Life,0,No Claims,63006.0,1288,20972,Parent:49;Sibling:54;Sibling:72
+26,Male,Excellent,Married,Term Life,0,2 Claims,70580.0,2831,48858,Parent:60;Sibling:74;Spouse:32;Sibling:61
+56,Female,Good,Widowed,None,1,No Claims,116785.0,5072,75483,None
+47,Female,Fair,Divorced,Term Life,0,2 Claims,85345.0,3370,57727,Spouse:25;Parent:68
+46,Male,Excellent,Married,Term Life,3,No Claims,66053.0,3044,38994,None
+49,Female,Poor,Divorced,Whole Life,4,No Claims,61989.0,2309,30951,None
+46,Female,Excellent,Widowed,Whole Life,3,No Claims,69693.0,1871,35942,Parent:69
+46,Female,Poor,Divorced,ULIP,1,1 Claim,100272.0,3986,39043,None
+66,Female,Poor,Widowed,None,3,2 Claims,89149.0,3618,38050,Parent:77;Spouse:41
+30,Male,Good,Widowed,Term Life,2,3+ Claims,80955.0,4460,63035,Sibling:75;Spouse:34
+39,Male,Good,Widowed,None,4,No Claims,82051.0,2314,37828,None
+67,Female,Good,Married,Endowment,2,1 Claim,131278.0,5419,71203,Sibling:74;Sibling:78;Spouse:42;Child:24
+61,Male,Good,Divorced,Term Life,2,3+ Claims,95005.0,4571,51577,None
+57,Female,Excellent,Divorced,None,1,No Claims,86008.0,2667,51452,Parent:71;Sibling:65
+32,Female,Excellent,Single,ULIP,0,3+ Claims,83953.0,2593,41745,Sibling:67;Spouse:39
+68,Female,Excellent,Single,ULIP,2,1 Claim,79294.0,3412,62074,Child:2;Parent:79
+68,Female,Good,Single,Term Life,3,3+ Claims,89119.0,2751,29119,Child:20;Parent:72
+29,Female,Excellent,Single,Endowment,0,No Claims,25399.0,932,11864,None
+63,Male,Good,Divorced,ULIP,3,3+ Claims,67913.0,3401,41634,Sibling:59
+28,Female,Poor,Widowed,ULIP,3,3+ Claims,96467.0,2624,28935,None
+30,Male,Good,Widowed,Endowment,0,No Claims,73846.0,3906,39209,Sibling:64;Spouse:53;Spouse:27
+69,Male,Good,Married,None,0,1 Claim,71585.0,2598,34709,Child:2;Child:23;Parent:70;Spouse:50
+56,Female,Good,Widowed,ULIP,3,1 Claim,109896.0,4382,58992,Sibling:54;Spouse:29;Child:15
+54,Female,Fair,Divorced,Whole Life,1,3+ Claims,69926.0,2204,38293,Spouse:56;Sibling:75;Spouse:46
+59,Female,Poor,Divorced,Health Insurance,4,2 Claims,101819.0,4406,88567,None
+64,Female,Fair,Divorced,Health Insurance,4,3+ Claims,106520.0,2665,30342,Child:20;Sibling:52;Parent:78
+40,Female,Poor,Married,ULIP,1,2 Claims,103299.0,3784,45098,None
+37,Male,Excellent,Single,None,0,3+ Claims,56245.0,1580,19637,Parent:72;Sibling:57;Sibling:73;Sibling:52
+66,Female,Fair,Widowed,None,3,1 Claim,81195.0,2251,34700,Child:15;Sibling:62
+54,Female,Fair,Divorced,Term Life,4,3+ Claims,30219.0,1009,14931,Child:17
+43,Male,Excellent,Divorced,Whole Life,3,3+ Claims,70564.0,3453,51374,Sibling:79;Child:21;Child:24;Spouse:31
+41,Male,Poor,Single,None,1,2 Claims,85506.0,3678,74059,Parent:56;Sibling:68;Parent:76;Parent:71
+43,Female,Excellent,Divorced,Endowment,3,1 Claim,90239.0,2731,46460,Spouse:56;Parent:76
+52,Male,Good,Widowed,Whole Life,1,2 Claims,107047.0,3874,57265,Parent:55
+50,Female,Excellent,Married,Health Insurance,0,3+ Claims,85796.0,3547,67100,Sibling:49
+61,Male,Good,Divorced,Whole Life,1,No Claims,101095.0,1843,33532,Child:22;Sibling:79
+50,Male,Fair,Widowed,Endowment,1,3+ Claims,81362.0,3504,65883,Sibling:67;Parent:78
+47,Female,Good,Divorced,ULIP,4,3+ Claims,91149.0,3995,63877,None
+33,Male,Good,Single,Endowment,3,2 Claims,44315.0,2036,31208,Parent:62
+36,Male,Good,Divorced,Endowment,4,No Claims,37830.0,1339,19818,Sibling:52;Sibling:70;Parent:47
+25,Male,Fair,Divorced,ULIP,2,No Claims,38425.0,1282,12775,Child:20;Child:24
+25,Male,Excellent,Married,ULIP,1,2 Claims,59272.0,1196,19708,Sibling:46;Child:3
+58,Male,Good,Single,ULIP,2,1 Claim,61991.0,2334,39307,None
+56,Male,Poor,Single,ULIP,4,No Claims,73335.0,2696,42282,None
+49,Female,Fair,Married,ULIP,3,No Claims,66974.0,3342,32071,Sibling:66;Spouse:55;Parent:78
+64,Female,Good,Divorced,Endowment,4,2 Claims,109636.0,6138,71650,Sibling:53;Sibling:46;Sibling:65
+69,Male,Fair,Widowed,Term Life,3,1 Claim,112201.0,5764,97375,Child:5
+25,Female,Fair,Single,Term Life,3,1 Claim,56409.0,2104,54330,Sibling:58;Spouse:58;Child:23
+40,Female,Fair,Single,None,0,3+ Claims,79021.0,1732,20841,Parent:69;Spouse:25;Sibling:59
+63,Female,Good,Divorced,Term Life,1,3+ Claims,102415.0,3379,73305,None
+29,Male,Excellent,Divorced,Health Insurance,4,2 Claims,51727.0,1192,19755,Spouse:45;Sibling:51;Spouse:45;Child:18
+46,Female,Excellent,Single,Term Life,3,1 Claim,65150.0,1521,20255,Sibling:59;Child:15;Spouse:41
+53,Male,Excellent,Divorced,Endowment,4,2 Claims,113733.0,4049,71807,Sibling:79
+27,Female,Good,Widowed,ULIP,4,3+ Claims,7217.0,285,4065,Parent:49;Parent:74
+36,Male,Excellent,Single,ULIP,3,2 Claims,51173.0,1872,33548,Sibling:59;Spouse:59;Parent:54
+50,Male,Good,Widowed,Endowment,2,2 Claims,75924.0,1573,26069,Sibling:68
+40,Female,Good,Widowed,Health Insurance,1,No Claims,81199.0,2070,31243,Parent:66;Sibling:76;Spouse:55
+61,Female,Excellent,Divorced,Term Life,1,No Claims,113710.0,2518,45124,Spouse:45;Child:3
+46,Male,Fair,Widowed,Endowment,0,No Claims,113134.0,2712,35576,Parent:68
+53,Female,Good,Divorced,None,0,3+ Claims,81165.0,1858,41814,Child:9;Spouse:37;Sibling:58;Spouse:35
+38,Female,Excellent,Married,ULIP,0,2 Claims,67505.0,2692,53216,Spouse:44
+52,Female,Fair,Divorced,Whole Life,1,No Claims,89252.0,4139,72016,Sibling:78;Child:16;Parent:58
+29,Male,Excellent,Widowed,None,2,No Claims,48377.0,1405,22162,Spouse:52;Spouse:42;Parent:70;Spouse:31
+54,Male,Fair,Married,Health Insurance,1,No Claims,60315.0,2136,27259,Parent:78;Parent:51;Parent:77;Sibling:79
+29,Female,Fair,Divorced,None,1,3+ Claims,57074.0,1556,21362,Child:18;Child:7;Sibling:65
+36,Female,Good,Widowed,Endowment,1,3+ Claims,80907.0,4427,76423,None
+40,Female,Fair,Single,Term Life,1,2 Claims,65141.0,1970,25240,Child:12;Child:16;Child:24
+50,Male,Good,Single,ULIP,2,2 Claims,88268.0,3822,76082,Spouse:47
+50,Male,Good,Divorced,Health Insurance,0,2 Claims,42623.0,2093,38801,Sibling:59;Child:23;Sibling:50
+45,Female,Excellent,Divorced,Health Insurance,4,No Claims,75368.0,3481,60735,None
+63,Female,Excellent,Single,Whole Life,0,1 Claim,84931.0,1914,31284,Child:20;Child:4;Sibling:75
+60,Female,Poor,Widowed,None,0,3+ Claims,64497.0,1904,38428,Parent:78
+57,Female,Good,Widowed,Whole Life,4,No Claims,100144.0,2110,39186,None
+54,Female,Good,Widowed,Term Life,1,No Claims,,2232,35168,Sibling:55
+61,Female,Good,Divorced,Term Life,2,2 Claims,110799.0,2424,40929,None
+47,Male,Good,Married,Whole Life,2,2 Claims,98074.0,4743,79497,Parent:77;Spouse:31
+34,Female,Excellent,Married,ULIP,0,No Claims,78249.0,3932,67254,Sibling:54;Parent:59;Child:16
+29,Male,Good,Married,Term Life,4,3+ Claims,71929.0,1975,36205,Spouse:28;Sibling:71;Parent:66
+60,Female,Fair,Married,Whole Life,3,3+ Claims,54011.0,1710,19969,None
+58,Female,Excellent,Married,None,1,No Claims,85440.0,4757,46759,Parent:78;Sibling:76;Parent:50;Sibling:77
+55,Male,Excellent,Divorced,Whole Life,0,1 Claim,95173.0,3743,64880,Parent:49
+34,Male,Excellent,Divorced,Whole Life,2,1 Claim,74628.0,2074,30498,Child:15;Sibling:54;Sibling:51;Spouse:36
+43,Male,Good,Married,Endowment,4,3+ Claims,98434.0,3508,50919,None
+56,Male,Fair,Divorced,Term Life,4,2 Claims,65352.0,2686,40556,Child:11;Sibling:57;Parent:66
+25,Female,Excellent,Divorced,ULIP,0,1 Claim,67145.0,2336,23491,Parent:71
+29,Male,Excellent,Married,ULIP,3,1 Claim,37699.0,1812,17281,Parent:73;Spouse:29
+69,Female,Good,Widowed,Endowment,2,2 Claims,94766.0,3787,57105,Sibling:48;Parent:76
+28,Male,Fair,Divorced,Health Insurance,0,1 Claim,56760.0,1681,25497,Spouse:57;Spouse:25
+40,Female,Good,Widowed,ULIP,3,No Claims,87251.0,2676,39424,None
+48,Female,Good,Divorced,Whole Life,4,1 Claim,92899.0,2004,40860,Sibling:52;Parent:76;Child:14
+40,Female,Fair,Divorced,Endowment,1,2 Claims,72406.0,2574,28973,Parent:76;Child:2;Child:1
+26,Female,Good,Married,None,2,No Claims,12959.0,359,3908,Parent:69;Child:10;Spouse:34;Spouse:55
+52,Female,Fair,Divorced,Term Life,2,1 Claim,90896.0,4012,68757,Parent:55;Sibling:69;Spouse:58
+56,Female,Fair,Single,Term Life,3,3+ Claims,80646.0,2397,51164,Parent:64;Child:7
+51,Male,Excellent,Single,Term Life,0,No Claims,108836.0,3917,70470,None
+44,Female,Excellent,Married,Whole Life,4,No Claims,97069.0,4962,94643,None
+48,Male,Excellent,Widowed,None,3,3+ Claims,59239.0,2761,55676,Spouse:53;Parent:56
+36,Male,Good,Widowed,Endowment,1,3+ Claims,77643.0,3526,39680,Parent:56;Sibling:73;Child:3;Child:20
+59,Female,Poor,Widowed,Endowment,1,1 Claim,101038.0,4126,44266,Child:1;Parent:60;Parent:74;Child:9
+57,Male,Good,Single,Term Life,1,1 Claim,97583.0,2332,40986,Parent:54
+57,Female,Excellent,Widowed,None,3,2 Claims,94991.0,4504,60153,Sibling:64;Parent:73;Parent:48;Spouse:52
+67,Male,Fair,Widowed,None,4,2 Claims,109603.0,5039,54362,Sibling:57;Spouse:27;Child:5;Child:16
+61,Female,Good,Married,None,2,No Claims,121029.0,5364,93606,Sibling:72;Parent:63
+36,Male,Excellent,Widowed,ULIP,0,3+ Claims,54972.0,2295,30188,None
+27,Female,Good,Single,ULIP,2,3+ Claims,38883.0,1679,23029,Spouse:42
+25,Female,Good,Single,Term Life,4,2 Claims,70654.0,1279,17409,None
+57,Female,Fair,Single,None,2,No Claims,49332.0,2195,32733,Sibling:53
+64,Female,Excellent,Married,Health Insurance,3,No Claims,107080.0,2477,36363,Spouse:53;Parent:46;Spouse:41;Sibling:75
+34,Male,Excellent,Married,None,1,2 Claims,73538.0,2074,26083,Parent:74;Parent:79;Sibling:64
+67,Female,Good,Divorced,Endowment,4,2 Claims,,1990,23452,Parent:58
+68,Male,Excellent,Widowed,Endowment,4,2 Claims,85273.0,2875,46076,Spouse:44
+53,Male,Good,Married,Term Life,2,1 Claim,114519.0,2457,44691,Child:19
+37,Male,Good,Single,Health Insurance,3,No Claims,37856.0,1813,33315,Sibling:62;Spouse:33
+36,Female,Good,Single,None,2,No Claims,70251.0,3093,40151,Parent:64;Child:10
+55,Male,Poor,Married,Health Insurance,2,No Claims,64901.0,2704,45765,Spouse:55
+26,Male,Good,Married,Term Life,4,2 Claims,41821.0,1477,27126,Sibling:47;Parent:73
+59,Male,Excellent,Married,Endowment,2,2 Claims,127326.0,6134,113730,Sibling:45;Spouse:48;Child:6
+47,Female,Good,Divorced,Endowment,1,2 Claims,79468.0,1815,29567,Spouse:31
+41,Female,Fair,Single,ULIP,2,2 Claims,81339.0,3588,35227,Spouse:35;Parent:64
+50,Male,Fair,Divorced,Term Life,1,3+ Claims,77750.0,1869,36240,Sibling:68;Spouse:54;Spouse:54;Child:7
+32,Female,Excellent,Divorced,Term Life,4,2 Claims,31697.0,1036,12445,None
+53,Female,Poor,Widowed,None,3,1 Claim,59301.0,2223,24077,Child:1;Sibling:64;Sibling:66;Parent:65
+50,Male,Good,Single,None,1,3+ Claims,103568.0,3661,61905,Sibling:71;Child:6;Sibling:79;Spouse:30
+34,Male,Excellent,Single,ULIP,3,3+ Claims,67057.0,1352,27533,Sibling:60;Sibling:71;Parent:47
+50,Female,Excellent,Married,Whole Life,3,2 Claims,64594.0,1807,22524,None
+58,Male,Excellent,Married,Health Insurance,1,No Claims,87558.0,3241,54836,Spouse:54;Parent:66;Child:19;Sibling:75
+65,Female,Fair,Widowed,Whole Life,4,2 Claims,108231.0,3663,51487,Sibling:63;Child:2;Parent:71
+31,Female,Excellent,Divorced,Whole Life,0,No Claims,70089.0,2414,52216,Spouse:51;Parent:59;Parent:56;Spouse:38
+28,Female,Excellent,Married,Term Life,3,2 Claims,42604.0,1317,20874,None
+69,Female,Fair,Married,Health Insurance,3,2 Claims,67493.0,2377,31382,Sibling:64
+35,Female,Good,Single,Term Life,4,No Claims,56859.0,1485,17149,Parent:63
+53,Female,Excellent,Single,Health Insurance,4,No Claims,105180.0,2617,37001,Child:24
+60,Male,Excellent,Married,Endowment,2,No Claims,107087.0,3992,44577,Spouse:26
+49,Male,Excellent,Single,Term Life,4,No Claims,87208.0,3378,38342,Sibling:51;Spouse:31
+45,Female,Excellent,Widowed,Term Life,3,1 Claim,71582.0,1526,28072,Child:10;Spouse:57
+60,Female,Good,Married,Term Life,1,No Claims,79665.0,1975,27115,Spouse:31;Parent:50
+34,Female,Excellent,Single,ULIP,0,2 Claims,60953.0,2116,40810,Child:16;Child:13;Child:2;Spouse:43
+61,Male,Excellent,Widowed,Term Life,2,2 Claims,106635.0,3045,36122,Child:19;Child:18
+33,Female,Fair,Single,None,1,1 Claim,83203.0,2751,43780,None
+48,Male,Good,Single,None,0,No Claims,72764.0,2193,32196,Child:19
+59,Female,Good,Single,Health Insurance,0,2 Claims,139724.0,3116,37198,Parent:50
+59,Female,Good,Married,Endowment,0,1 Claim,90848.0,2262,28009,Child:23;Spouse:39;Parent:50
+60,Male,Good,Divorced,ULIP,1,2 Claims,83060.0,3587,42060,Child:3;Child:11;Parent:52
+42,Male,Good,Single,Health Insurance,2,1 Claim,101513.0,4469,78384,None
+63,Female,Good,Widowed,None,2,1 Claim,52234.0,2538,38252,Child:17
+56,Female,Good,Married,ULIP,0,3+ Claims,95600.0,3754,52916,Spouse:48;Spouse:45
+48,Female,Poor,Married,ULIP,1,3+ Claims,76544.0,3046,36275,None
+47,Male,Excellent,Widowed,Endowment,0,No Claims,105963.0,5059,73290,Child:4;Spouse:31
+56,Male,Fair,Single,ULIP,4,3+ Claims,98098.0,3594,56808,Parent:73;Child:16;Parent:50;Spouse:38
+61,Male,Excellent,Divorced,Term Life,2,1 Claim,93782.0,2852,43119,Child:20
+36,Male,Fair,Single,ULIP,3,2 Claims,79252.0,3108,33154,Parent:69
+37,Male,Good,Widowed,Endowment,0,2 Claims,45888.0,1447,15458,Spouse:37
+47,Male,Fair,Married,Health Insurance,4,No Claims,96336.0,3166,45669,Child:18;Sibling:61;Spouse:52
+49,Female,Excellent,Divorced,Endowment,2,3+ Claims,52108.0,1606,28884,Spouse:59;Sibling:66;Sibling:45
+59,Female,Good,Married,Endowment,1,No Claims,96169.0,4835,52510,Parent:65;Spouse:25;Sibling:48;Child:1
+65,Male,Good,Widowed,None,2,1 Claim,95712.0,3831,53837,Spouse:41;Parent:56;Sibling:51;Spouse:27
+54,Female,Fair,Single,Term Life,1,3+ Claims,48738.0,1277,17434,Spouse:50
+41,Female,Good,Divorced,None,1,No Claims,72378.0,1454,23255,Sibling:70;Sibling:47;Sibling:72
+44,Male,Good,Married,Health Insurance,0,2 Claims,79639.0,2225,36787,Spouse:41;Sibling:74;Sibling:46
+49,Female,Good,Married,Whole Life,0,2 Claims,65902.0,1478,20691,Spouse:59;Spouse:35;Parent:59;Child:2
+46,Male,Good,Married,Health Insurance,2,No Claims,55751.0,1654,17493,Spouse:56;Child:8;Parent:57;Parent:61
+37,Male,Good,Single,Term Life,4,No Claims,76843.0,2601,29006,None
+43,Female,Excellent,Divorced,ULIP,2,No Claims,80246.0,2412,35186,Sibling:60;Parent:57
+60,Male,Poor,Single,Endowment,3,1 Claim,94536.0,4557,59326,Sibling:54;Sibling:61;Spouse:54
+36,Male,Fair,Single,Whole Life,1,1 Claim,66176.0,2063,26746,Spouse:54;Child:14;Sibling:74;Sibling:51
+65,Male,Poor,Single,Term Life,1,2 Claims,83668.0,2510,44780,Child:3
+43,Male,Excellent,Widowed,None,0,1 Claim,118443.0,3054,56348,Sibling:74
+36,Male,Fair,Widowed,Endowment,4,1 Claim,60033.0,2057,25904,Parent:47;Sibling:69
+33,Male,Fair,Widowed,Health Insurance,0,3+ Claims,45697.0,1193,19317,Sibling:66
+31,Male,Good,Divorced,None,3,1 Claim,62088.0,2654,34099,Sibling:76
+52,Male,Good,Single,Term Life,2,3+ Claims,78381.0,1912,24034,Spouse:27;Parent:52
+38,Female,Good,Single,Term Life,2,1 Claim,61569.0,2178,46604,Sibling:76
+55,Female,Fair,Widowed,Health Insurance,4,2 Claims,122485.0,6221,99565,Parent:45;Parent:59
+43,Female,Good,Single,Whole Life,0,No Claims,50405.0,1002,20573,Parent:48;Child:10;Sibling:55
+40,Male,Excellent,Single,Health Insurance,0,2 Claims,70748.0,2450,28413,Spouse:47
+29,Male,Good,Married,ULIP,3,1 Claim,37746.0,1270,14709,Spouse:27;Spouse:41;Spouse:46;Sibling:71
+59,Female,Poor,Single,None,2,No Claims,78179.0,2789,52504,Spouse:57;Parent:46
+36,Female,Fair,Married,Whole Life,0,No Claims,100722.0,3815,51327,Child:15;Spouse:31
+49,Female,Poor,Single,Endowment,4,No Claims,84628.0,2269,32242,Parent:53;Spouse:30;Sibling:56;Parent:74
+45,Male,Good,Divorced,ULIP,2,3+ Claims,80387.0,2818,60694,Sibling:64;Spouse:51;Parent:64
+60,Female,Excellent,Widowed,Whole Life,3,2 Claims,71210.0,2758,39174,Parent:51;Parent:74
+47,Female,Excellent,Married,None,4,3+ Claims,68507.0,2217,30570,Spouse:38
+40,Male,Excellent,Widowed,Term Life,1,No Claims,106462.0,2250,33989,Child:18
+63,Female,Excellent,Married,Endowment,3,2 Claims,102987.0,4378,76148,Child:18
+69,Male,Good,Married,Health Insurance,4,2 Claims,92205.0,3176,44727,Sibling:49;Child:20;Spouse:55
+66,Male,Excellent,Married,None,0,1 Claim,104812.0,5510,109914,Parent:64;Parent:67;Spouse:56;Parent:61
+63,Male,Good,Divorced,ULIP,1,3+ Claims,98353.0,4818,61277,Child:17;Sibling:57;Spouse:41;Parent:59
+38,Female,Poor,Single,ULIP,3,3+ Claims,51211.0,2239,24475,Spouse:52
+55,Female,Good,Married,Term Life,0,1 Claim,77623.0,3056,56736,Child:13
+29,Male,Fair,Divorced,Term Life,1,3+ Claims,,4745,93809,Parent:79;Parent:66
+59,Female,Good,Married,Endowment,2,No Claims,96840.0,3183,57300,Parent:55
+47,Female,Excellent,Single,Health Insurance,0,No Claims,45619.0,1403,32719,None
+53,Female,Good,Married,Endowment,4,3+ Claims,93204.0,3463,48704,Parent:51;Spouse:36;Child:7;Child:2
+67,Female,Excellent,Divorced,Term Life,3,1 Claim,123061.0,4107,68196,Sibling:45;Spouse:47;Child:18
+35,Male,Good,Single,Term Life,1,2 Claims,46912.0,1746,20996,Spouse:31;Spouse:27;Child:10
+42,Female,Good,Divorced,ULIP,0,3+ Claims,62863.0,2040,33806,Sibling:49;Sibling:78;Sibling:52;Parent:58
+36,Male,Excellent,Single,Term Life,2,2 Claims,95075.0,2447,43338,None
+33,Male,Excellent,Single,Whole Life,3,1 Claim,63698.0,1838,19114,None
+34,Female,Good,Widowed,None,3,2 Claims,,2194,40512,Child:18;Parent:68
+68,Male,Poor,Widowed,Term Life,0,1 Claim,71278.0,2731,43343,Parent:67
+41,Female,Fair,Widowed,Endowment,2,1 Claim,92411.0,2770,59373,Parent:60;Spouse:55;Spouse:30;Child:5
+62,Female,Fair,Single,Health Insurance,1,No Claims,88230.0,2744,30488,None
+31,Male,Excellent,Married,Health Insurance,0,No Claims,17580.0,551,10520,Child:10;Spouse:49
+37,Male,Fair,Divorced,Health Insurance,1,1 Claim,35547.0,778,8624,None
+64,Male,Fair,Divorced,Whole Life,3,3+ Claims,82768.0,2616,38650,Spouse:59;Parent:49;Sibling:56;Sibling:49
+66,Male,Good,Divorced,Endowment,1,No Claims,74543.0,3023,61232,None
+33,Female,Poor,Widowed,Whole Life,2,1 Claim,44680.0,1501,22096,Sibling:53;Sibling:79;Sibling:45
+51,Female,Good,Single,Term Life,4,2 Claims,127893.0,4212,52300,Parent:79
+26,Female,Poor,Widowed,None,2,2 Claims,70150.0,1515,15002,None
+29,Male,Poor,Married,Health Insurance,1,3+ Claims,7453.0,247,4526,Child:6;Spouse:56;Parent:55;Sibling:61
+53,Male,Excellent,Single,Endowment,0,2 Claims,76713.0,1501,30962,Spouse:30;Parent:54;Sibling:77;Parent:74
+61,Male,Good,Divorced,Health Insurance,3,2 Claims,89210.0,3271,59365,Spouse:41;Child:3;Sibling:73;Spouse:26
+62,Female,Poor,Widowed,Whole Life,4,1 Claim,62461.0,2308,37460,Spouse:58;Child:5;Parent:45;Child:1
+43,Male,Excellent,Widowed,ULIP,0,2 Claims,83687.0,2959,40308,Child:4;Parent:58
+32,Female,Good,Married,Term Life,0,2 Claims,21172.0,823,9159,Parent:78
+69,Male,Poor,Married,None,2,2 Claims,120938.0,3703,42928,None
+25,Female,Good,Widowed,Term Life,1,2 Claims,83830.0,2992,38879,Parent:66;Spouse:40;Spouse:46;Sibling:60
+46,Female,Excellent,Married,ULIP,2,1 Claim,123051.0,4969,60372,Sibling:72;Child:23;Child:22
+41,Male,Good,Divorced,None,1,2 Claims,39513.0,670,11298,None
+31,Male,Excellent,Married,ULIP,2,3+ Claims,33582.0,1240,19361,Sibling:46
+49,Female,Good,Married,Term Life,0,No Claims,92853.0,5199,53090,Child:17;Parent:79;Spouse:44;Sibling:46
+69,Female,Excellent,Widowed,Whole Life,3,3+ Claims,122653.0,3558,61588,None
+28,Male,Good,Widowed,Term Life,1,No Claims,74179.0,2790,50648,Spouse:36;Sibling:53
+60,Male,Good,Single,Term Life,4,3+ Claims,111594.0,4989,77627,Spouse:38;Sibling:46
+30,Female,Fair,Single,Term Life,4,No Claims,87536.0,3204,49319,Spouse:28;Parent:65;Sibling:66;Sibling:46
+55,Male,Good,Widowed,Endowment,0,No Claims,89045.0,3942,63199,None
+43,Female,Good,Married,ULIP,2,No Claims,68749.0,1970,27400,Sibling:68;Parent:64
+68,Female,Good,Married,ULIP,2,No Claims,70636.0,2149,21035,Spouse:49;Sibling:67;Spouse:58
+63,Male,Excellent,Single,Health Insurance,0,1 Claim,87037.0,4067,41142,Parent:68;Child:10
+51,Male,Good,Single,ULIP,4,3+ Claims,78102.0,3537,43444,None
+34,Male,Excellent,Single,Health Insurance,4,No Claims,45006.0,2672,34875,Sibling:47;Parent:69;Spouse:52;Sibling:56
+50,Male,Poor,Divorced,Endowment,2,3+ Claims,79235.0,1980,37984,Spouse:32
+43,Male,Excellent,Divorced,Whole Life,1,2 Claims,51752.0,2056,39162,Child:11;Sibling:79;Sibling:71;Spouse:43
+63,Female,Good,Single,Health Insurance,3,No Claims,115266.0,2920,34257,Sibling:76;Parent:72;Parent:62;Child:10
+27,Female,Good,Married,Term Life,1,3+ Claims,65516.0,1519,30054,Parent:56
+69,Male,Good,Single,Whole Life,4,1 Claim,89807.0,3093,38257,Child:8;Spouse:57
+37,Male,Excellent,Divorced,Endowment,1,3+ Claims,70776.0,2096,41267,Spouse:33
+52,Male,Good,Married,ULIP,3,No Claims,59898.0,1698,18392,Child:12;Parent:49;Parent:78;Child:19
+44,Female,Good,Divorced,Health Insurance,1,2 Claims,53926.0,1700,16689,Child:17
+52,Male,Fair,Married,Term Life,1,3+ Claims,69322.0,1983,29532,Spouse:51
+32,Male,Good,Divorced,None,1,2 Claims,58161.0,3370,51258,Child:20;Parent:50
+65,Female,Good,Married,None,1,1 Claim,97824.0,3665,50535,Child:19;Child:24
+63,Female,Good,Married,Whole Life,0,3+ Claims,95903.0,2535,26354,None
+25,Male,Good,Married,ULIP,4,3+ Claims,28624.0,1453,25070,Child:12
+27,Male,Good,Married,None,3,1 Claim,55385.0,2140,46182,None
+37,Male,Good,Widowed,Whole Life,4,1 Claim,50638.0,2270,21862,Spouse:40
+52,Female,Excellent,Divorced,Endowment,0,1 Claim,13820.0,397,7032,Child:23;Sibling:66;Sibling:77
+49,Male,Excellent,Divorced,Whole Life,0,No Claims,140511.0,4703,57594,Sibling:64;Parent:77;Parent:75;Child:8
+57,Male,Excellent,Widowed,Whole Life,0,No Claims,71026.0,3314,43009,Sibling:52
+62,Male,Excellent,Married,Whole Life,0,3+ Claims,77136.0,2446,30601,Spouse:25
+30,Female,Good,Married,Term Life,1,3+ Claims,33071.0,1878,22739,Sibling:69;Sibling:76;Parent:54;Parent:53
+68,Female,Good,Divorced,Whole Life,4,3+ Claims,76850.0,3516,52918,Spouse:44;Parent:51;Spouse:35
+69,Male,Excellent,Widowed,Health Insurance,2,2 Claims,95226.0,4307,71921,Parent:63;Sibling:59;Sibling:50;Spouse:34
+56,Male,Poor,Married,Whole Life,3,1 Claim,113036.0,3177,43759,Spouse:35;Parent:79;Parent:52;Spouse:52
+69,Female,Excellent,Married,Term Life,0,3+ Claims,95113.0,2527,47034,Spouse:26;Sibling:58
+45,Female,Fair,Married,Term Life,4,1 Claim,68528.0,1839,34728,Sibling:73;Spouse:27;Sibling:45
+40,Female,Good,Single,Endowment,0,No Claims,94005.0,4033,62177,Child:22;Parent:78;Sibling:77
+45,Female,Good,Widowed,ULIP,0,1 Claim,64512.0,2340,22399,None
+35,Female,Excellent,Married,None,0,2 Claims,65422.0,2490,40059,Child:2;Spouse:28
+61,Female,Good,Single,None,0,2 Claims,72568.0,2136,40643,None
+60,Female,Good,Widowed,Whole Life,0,1 Claim,123702.0,4266,65087,None
+59,Female,Poor,Married,Endowment,3,2 Claims,109970.0,2503,42451,None
+43,Female,Good,Divorced,Whole Life,4,2 Claims,69940.0,2248,32221,Sibling:62;Spouse:40;Parent:52
+44,Male,Poor,Single,None,0,No Claims,66011.0,2761,46925,Spouse:27;Child:15;Spouse:57
+42,Male,Excellent,Single,Term Life,0,3+ Claims,71363.0,1787,19843,Child:23
+65,Male,Fair,Married,ULIP,0,2 Claims,92232.0,4196,85318,Sibling:47;Sibling:74
+38,Female,Good,Married,Endowment,0,3+ Claims,37063.0,1119,25965,Child:17;Parent:76;Parent:51;Parent:58
+39,Male,Fair,Single,Term Life,1,1 Claim,90653.0,3912,48145,Sibling:59
+55,Female,Excellent,Divorced,ULIP,1,1 Claim,80457.0,3023,48365,Sibling:56;Parent:52;Spouse:40
+25,Female,Good,Divorced,Endowment,2,2 Claims,92966.0,2188,48777,None
+27,Male,Good,Widowed,Endowment,0,1 Claim,65436.0,2056,26167,Parent:68
+40,Female,Fair,Married,None,2,No Claims,19578.0,906,14057,Spouse:40;Parent:49;Spouse:29;Sibling:74
+47,Male,Good,Divorced,Term Life,3,2 Claims,51367.0,1560,26904,Parent:49;Parent:57;Child:3;Parent:69
+35,Male,Fair,Widowed,Endowment,2,2 Claims,22078.0,887,12751,Spouse:38
+36,Male,Excellent,Divorced,Health Insurance,4,2 Claims,40119.0,756,10143,Child:14;Parent:70;Parent:62
+34,Female,Fair,Married,Endowment,1,1 Claim,31327.0,1321,20239,Sibling:78;Child:7;Spouse:34
+56,Male,Fair,Widowed,ULIP,1,1 Claim,91051.0,2754,60870,None
+40,Female,Fair,Widowed,None,0,2 Claims,63678.0,1926,43665,Parent:78;Sibling:71
+32,Male,Good,Widowed,Whole Life,0,3+ Claims,76810.0,1959,32759,Parent:75;Child:18;Spouse:28;Sibling:61
+62,Male,Good,Divorced,None,3,1 Claim,91238.0,4749,93577,None
+36,Male,Poor,Married,Whole Life,3,1 Claim,61193.0,1829,30454,Parent:69;Spouse:47;Parent:59
+48,Female,Excellent,Widowed,Term Life,4,2 Claims,118064.0,4807,64962,None
+52,Female,Good,Single,Term Life,0,3+ Claims,86456.0,3014,51226,Parent:59;Child:9
+32,Female,Good,Married,Endowment,0,2 Claims,60389.0,2366,27921,Child:16;Parent:76;Sibling:66;Child:11
+52,Male,Fair,Single,Health Insurance,3,1 Claim,64931.0,1877,27318,Child:6;Child:20;Child:17;Spouse:29
+60,Male,Excellent,Single,Term Life,3,2 Claims,66481.0,3166,43234,Parent:77;Spouse:51;Spouse:29;Parent:51
+50,Female,Good,Widowed,Endowment,3,2 Claims,95410.0,3486,62167,Child:6
+32,Female,Fair,Widowed,None,1,2 Claims,76213.0,2660,44377,Sibling:57
+52,Female,Excellent,Divorced,Term Life,2,3+ Claims,113431.0,4570,75619,Child:21
+52,Female,Poor,Divorced,None,2,2 Claims,91578.0,4094,52438,Child:11;Child:21;Child:2
+61,Female,Excellent,Divorced,None,0,1 Claim,83137.0,3329,40536,Sibling:64;Spouse:41
+65,Female,Good,Married,Health Insurance,1,2 Claims,105220.0,4437,65367,None
+60,Male,Excellent,Divorced,Term Life,3,3+ Claims,88393.0,2530,42644,Sibling:49
+51,Female,Excellent,Single,None,0,No Claims,98307.0,4005,58886,Parent:48;Child:20
+41,Male,Poor,Divorced,Health Insurance,1,3+ Claims,97686.0,2308,32759,Sibling:53;Parent:47;Sibling:53
+33,Male,Good,Widowed,Health Insurance,4,2 Claims,59628.0,2760,32998,Child:4
+57,Female,Good,Divorced,Term Life,1,No Claims,122146.0,4815,77077,Child:24;Parent:48
+44,Female,Excellent,Married,Health Insurance,0,2 Claims,97766.0,3092,62943,None
+37,Male,Good,Married,Term Life,2,3+ Claims,67353.0,1961,35369,None
+52,Female,Good,Single,Term Life,3,No Claims,95414.0,3070,45337,None
+53,Female,Good,Married,Whole Life,4,No Claims,89109.0,2200,32281,Sibling:79;Child:10;Parent:56
+37,Male,Good,Divorced,None,1,2 Claims,67439.0,2313,22208,Sibling:58
+59,Male,Fair,Widowed,ULIP,0,2 Claims,127262.0,3112,34842,Sibling:54
+30,Male,Good,Married,Term Life,0,3+ Claims,70352.0,3262,31229,Parent:68
+42,Female,Good,Single,None,3,2 Claims,55180.0,1412,13983,None
+29,Male,Excellent,Divorced,Health Insurance,0,No Claims,38440.0,972,12413,Sibling:79
+49,Female,Fair,Single,Endowment,0,1 Claim,59258.0,1428,14239,Sibling:60
+26,Male,Good,Married,Term Life,3,1 Claim,65790.0,2026,23894,Child:15;Child:5;Child:13;Parent:51
+34,Male,Good,Married,Health Insurance,4,3+ Claims,57169.0,2295,43945,Spouse:49;Sibling:66
+54,Male,Excellent,Single,Health Insurance,2,2 Claims,90665.0,4839,87496,Parent:61;Spouse:37;Spouse:50;Parent:53
+69,Female,Poor,Divorced,Health Insurance,2,3+ Claims,117727.0,2871,49441,Spouse:57;Child:4;Parent:72;Sibling:70
+29,Female,Excellent,Married,Health Insurance,1,1 Claim,99574.0,3793,41761,Child:16;Sibling:66;Spouse:59
+57,Male,Fair,Widowed,Health Insurance,4,1 Claim,80630.0,3358,48524,None
+25,Male,Good,Married,Term Life,1,2 Claims,26828.0,1086,17308,None
+42,Male,Excellent,Divorced,ULIP,2,No Claims,107848.0,4679,49681,Child:18;Sibling:56;Parent:77;Spouse:47
+56,Female,Fair,Married,Whole Life,3,2 Claims,56857.0,1310,28101,Sibling:55;Spouse:37;Sibling:79
+35,Male,Good,Single,Health Insurance,0,1 Claim,35071.0,1246,18308,Parent:69;Child:8
+45,Female,Fair,Married,Health Insurance,2,No Claims,110329.0,3441,70019,Sibling:69;Spouse:34
+50,Male,Poor,Married,Whole Life,4,3+ Claims,101324.0,2555,41913,None
+49,Male,Fair,Divorced,Term Life,2,1 Claim,88696.0,3792,53338,Parent:66;Child:6
+46,Male,Excellent,Single,None,4,3+ Claims,75001.0,2959,42167,Spouse:44;Parent:62
+51,Male,Fair,Divorced,Endowment,4,No Claims,76215.0,1912,25076,Spouse:30;Parent:54;Child:5;Child:6
+37,Male,Good,Married,Endowment,4,3+ Claims,53983.0,1701,21675,Spouse:49;Parent:74
+57,Male,Fair,Widowed,None,1,1 Claim,81339.0,3910,50174,Sibling:60;Child:6;Sibling:73
+58,Female,Good,Married,Term Life,3,2 Claims,87051.0,3607,48637,None
+65,Male,Fair,Divorced,Endowment,2,3+ Claims,67511.0,2260,28400,Sibling:67;Spouse:40;Spouse:42;Spouse:43
+59,Female,Good,Widowed,Whole Life,3,1 Claim,72595.0,2602,33573,Parent:46;Child:10;Child:12
+25,Male,Good,Divorced,None,0,1 Claim,12761.0,449,10092,Sibling:63
+45,Male,Excellent,Divorced,ULIP,2,No Claims,76558.0,2847,25001,Spouse:51;Parent:58;Child:13;Parent:78
+30,Female,Fair,Single,Term Life,3,1 Claim,61562.0,1507,19739,Spouse:57
+52,Male,Good,Widowed,None,3,2 Claims,117570.0,3770,54678,Spouse:51;Child:16
+41,Female,Good,Married,Endowment,0,2 Claims,78511.0,2715,39554,Sibling:65;Sibling:51
+29,Female,Fair,Divorced,Term Life,4,3+ Claims,47879.0,2106,22098,None
+55,Male,Good,Married,Whole Life,2,3+ Claims,80992.0,4033,77639,Spouse:57
+29,Female,Excellent,Single,Term Life,2,3+ Claims,68736.0,2855,46393,None
+62,Female,Good,Single,Term Life,0,3+ Claims,96552.0,2183,34494,Spouse:49
+27,Male,Good,Widowed,Whole Life,4,2 Claims,68565.0,1716,18047,Sibling:62;Spouse:34;Child:3
+47,Female,Good,Single,Health Insurance,2,No Claims,84540.0,1755,27492,Child:8;Parent:67
+61,Male,Excellent,Single,Whole Life,2,3+ Claims,85947.0,3995,73661,None
+61,Male,Excellent,Married,Term Life,2,No Claims,80284.0,2708,40551,None
+34,Male,Excellent,Single,Whole Life,4,1 Claim,52208.0,2553,32842,Sibling:59
+34,Male,Fair,Single,Health Insurance,0,1 Claim,45494.0,1721,16128,None
+43,Female,Excellent,Divorced,None,2,3+ Claims,51357.0,2379,44837,Spouse:44;Parent:61;Child:11;Sibling:57
+41,Male,Good,Single,Whole Life,3,1 Claim,107769.0,3731,48039,None
+45,Male,Poor,Divorced,Whole Life,4,No Claims,77494.0,3817,64969,Child:10;Spouse:55;Parent:45
+38,Female,Excellent,Single,Term Life,1,No Claims,64893.0,2462,35257,Spouse:40;Spouse:52;Sibling:65
+33,Male,Good,Single,None,0,1 Claim,53082.0,2080,32210,Sibling:47;Spouse:58
+25,Male,Fair,Widowed,ULIP,3,3+ Claims,63577.0,2502,40432,Sibling:73;Parent:47
+69,Female,Poor,Widowed,ULIP,2,No Claims,123073.0,5367,56997,Parent:77
+37,Female,Fair,Divorced,Endowment,1,No Claims,81465.0,2475,36135,Spouse:29;Parent:76
+28,Female,Fair,Single,Whole Life,0,2 Claims,76431.0,1960,22969,Spouse:44
+25,Female,Fair,Married,Whole Life,4,3+ Claims,43269.0,925,9544,Parent:72;Child:13;Spouse:50
+64,Female,Good,Widowed,None,1,2 Claims,93917.0,3467,57405,None
+56,Female,Fair,Married,Health Insurance,1,1 Claim,74532.0,3263,28781,Parent:73
+58,Female,Excellent,Widowed,ULIP,3,1 Claim,90140.0,2241,35303,Child:22;Spouse:50;Parent:76
+52,Male,Poor,Widowed,Endowment,0,2 Claims,107451.0,3417,39735,Parent:68;Child:8
+55,Female,Good,Single,None,3,3+ Claims,93788.0,2835,31273,Sibling:54;Sibling:50;Child:7
+32,Female,Good,Widowed,Whole Life,3,No Claims,94534.0,3763,56771,Child:8;Spouse:27;Sibling:65;Spouse:25
+63,Female,Excellent,Married,ULIP,2,1 Claim,87229.0,2526,39044,Parent:59;Child:7;Spouse:39;Child:3
+50,Male,Fair,Widowed,Endowment,4,3+ Claims,63860.0,1283,17919,Spouse:38
+58,Male,Excellent,Divorced,Term Life,1,3+ Claims,98242.0,2524,40081,Parent:48;Parent:47;Sibling:49
+27,Female,Fair,Single,ULIP,0,1 Claim,59377.0,1535,19465,None
+36,Female,Fair,Single,Endowment,4,1 Claim,72454.0,3471,65500,Sibling:52;Parent:70
+25,Female,Excellent,Divorced,None,4,3+ Claims,58464.0,1646,22330,Spouse:52
+68,Male,Fair,Divorced,Term Life,0,No Claims,88311.0,3380,40791,None
+29,Male,Fair,Divorced,Endowment,4,2 Claims,62914.0,2483,43950,Child:10;Parent:65;Parent:72
+54,Female,Good,Widowed,Endowment,2,1 Claim,103467.0,4432,49675,None
+54,Male,Good,Single,Whole Life,4,2 Claims,105522.0,3408,36235,Spouse:35;Parent:45;Parent:77;Spouse:27
+41,Female,Excellent,Divorced,Health Insurance,2,3+ Claims,61209.0,1479,20986,Parent:59
+47,Male,Excellent,Widowed,ULIP,1,2 Claims,81620.0,1802,35390,None
+39,Male,Good,Divorced,Whole Life,1,No Claims,98542.0,2833,55086,Sibling:67;Sibling:52;Sibling:64;Sibling:50
+61,Female,Poor,Married,Term Life,3,3+ Claims,81642.0,3503,59354,None
+45,Female,Excellent,Married,Health Insurance,2,No Claims,62011.0,1201,20540,Parent:74;Child:14;Sibling:61
+38,Female,Fair,Single,Endowment,1,3+ Claims,83888.0,2482,37003,None
+26,Female,Good,Widowed,Whole Life,4,No Claims,68379.0,3217,44909,Sibling:51;Parent:72;Parent:61
+35,Male,Good,Married,Health Insurance,0,3+ Claims,48260.0,1694,23342,Spouse:29;Sibling:49;Spouse:38
+63,Male,Fair,Married,ULIP,0,No Claims,65010.0,1327,29237,Sibling:61;Child:9;Parent:75;Parent:66
+62,Male,Fair,Widowed,Term Life,2,3+ Claims,96231.0,1993,23954,Spouse:33;Spouse:40;Parent:78;Parent:57
+58,Female,Good,Divorced,None,3,No Claims,79628.0,1512,24092,Parent:56;Sibling:54
+62,Male,Good,Widowed,Whole Life,4,3+ Claims,58318.0,3299,46691,Sibling:63;Child:8;Sibling:50
+58,Female,Good,Divorced,Term Life,2,No Claims,74255.0,3880,58579,Parent:74;Sibling:75;Spouse:51
+42,Male,Excellent,Married,None,0,1 Claim,84052.0,3983,39006,Parent:65;Sibling:53;Parent:79;Spouse:45
+54,Female,Excellent,Married,Whole Life,2,2 Claims,80971.0,3778,39864,None
+39,Female,Good,Married,Term Life,4,3+ Claims,100322.0,3457,51470,None
+51,Male,Good,Single,Term Life,1,No Claims,39255.0,1158,14912,Spouse:37;Sibling:69
+58,Female,Fair,Single,Health Insurance,4,1 Claim,114759.0,4322,54272,Parent:45;Child:17
+62,Female,Good,Single,Whole Life,1,3+ Claims,85121.0,3336,45255,Spouse:59
+57,Male,Good,Widowed,Term Life,1,3+ Claims,77231.0,3175,73042,Child:19
+48,Female,Good,Married,Endowment,1,3+ Claims,46976.0,1792,19079,Sibling:56;Spouse:44;Child:1;Spouse:53
+39,Female,Fair,Married,Whole Life,2,2 Claims,,2318,45041,Child:4;Parent:66;Parent:63;Sibling:69
+54,Female,Fair,Widowed,Term Life,0,No Claims,47464.0,2046,33575,Spouse:58;Child:11
+66,Male,Good,Single,Health Insurance,2,No Claims,112358.0,2545,30984,Sibling:71
+41,Male,Fair,Widowed,None,0,3+ Claims,40732.0,1577,22224,Parent:46
+29,Female,Excellent,Single,None,4,3+ Claims,31885.0,878,15800,Parent:61
+53,Male,Good,Married,Endowment,3,3+ Claims,59175.0,2217,38691,Sibling:58
+28,Female,Good,Divorced,Whole Life,4,1 Claim,43681.0,1092,14062,Spouse:57
+34,Female,Good,Single,Health Insurance,2,3+ Claims,82841.0,3559,62263,Child:22
+41,Female,Fair,Married,Term Life,2,2 Claims,101079.0,4253,48125,Parent:76;Sibling:68;Parent:58
+34,Female,Fair,Married,Term Life,0,No Claims,51748.0,1606,24761,Parent:49;Child:15;Spouse:56;Spouse:57
+41,Female,Excellent,Divorced,None,2,2 Claims,70068.0,3071,32947,Child:14;Sibling:48;Sibling:74
+44,Male,Good,Married,Health Insurance,1,3+ Claims,83798.0,4087,60245,None
+48,Female,Good,Married,Endowment,2,1 Claim,71413.0,3187,28913,None
+29,Male,Excellent,Single,None,0,3+ Claims,68015.0,1710,25839,Spouse:37;Parent:62
+58,Male,Excellent,Single,None,0,3+ Claims,87918.0,4644,74919,Parent:77;Sibling:61
+30,Female,Good,Divorced,Endowment,1,3+ Claims,54930.0,1414,15318,Child:12
+26,Female,Excellent,Divorced,Whole Life,0,3+ Claims,27603.0,699,10060,Parent:71;Sibling:57;Child:14;Spouse:56
+37,Male,Excellent,Married,Term Life,3,3+ Claims,69980.0,1681,18358,Child:6;Spouse:40
+67,Male,Excellent,Single,Whole Life,4,No Claims,116167.0,4258,65359,None
+67,Male,Good,Divorced,Health Insurance,2,2 Claims,81434.0,3041,50494,None
+35,Female,Fair,Divorced,ULIP,3,1 Claim,25634.0,686,11644,Sibling:56;Child:18;Sibling:73;Spouse:42
+47,Male,Good,Widowed,ULIP,2,3+ Claims,70608.0,2508,42316,Parent:46
+40,Female,Poor,Divorced,ULIP,3,1 Claim,100195.0,4314,65493,Parent:73;Spouse:32
+55,Female,Good,Married,Endowment,2,No Claims,,4860,43148,Parent:56;Parent:76
+35,Female,Fair,Single,None,1,2 Claims,53390.0,2592,41854,Child:9;Child:24;Parent:60
+40,Male,Fair,Divorced,Whole Life,0,3+ Claims,79110.0,2076,35524,None
+32,Female,Good,Widowed,Term Life,0,No Claims,74270.0,2906,61882,Child:22;Spouse:31;Child:10
+28,Female,Good,Single,ULIP,1,No Claims,87806.0,2287,26390,Child:4;Child:24;Sibling:58;Spouse:38
+64,Female,Fair,Divorced,Whole Life,3,2 Claims,62988.0,3958,45939,None
+28,Female,Excellent,Widowed,ULIP,4,3+ Claims,36623.0,1599,24246,Parent:67;Parent:76;Sibling:70
+49,Female,Good,Divorced,ULIP,3,2 Claims,38804.0,1605,29054,Child:13;Spouse:36
+27,Male,Good,Single,Term Life,0,2 Claims,,960,16065,Spouse:43;Parent:78
+56,Female,Good,Single,Health Insurance,4,1 Claim,107326.0,2988,39241,Sibling:65;Sibling:79;Sibling:49;Sibling:56
+27,Female,Excellent,Single,Health Insurance,2,1 Claim,45805.0,1135,13761,Spouse:31;Child:9;Parent:46;Spouse:49
+51,Male,Poor,Married,Health Insurance,4,2 Claims,54836.0,1522,21179,Sibling:50
+53,Female,Good,Divorced,Endowment,3,1 Claim,87532.0,2516,45580,Sibling:79;Parent:54
+56,Male,Good,Married,None,1,No Claims,91047.0,4327,41813,Child:9;Child:20;Child:5;Sibling:79
+43,Female,Poor,Single,Endowment,2,2 Claims,,1004,20168,Spouse:32;Spouse:55;Child:17;Parent:60
+45,Male,Good,Widowed,Whole Life,3,3+ Claims,64879.0,2989,42449,Child:6;Child:11;Parent:67
+29,Male,Poor,Divorced,Endowment,2,3+ Claims,62011.0,1507,18140,None
+42,Female,Good,Married,Whole Life,4,No Claims,86919.0,2138,30140,Child:24;Parent:72;Parent:68
+52,Female,Excellent,Divorced,Whole Life,0,3+ Claims,69022.0,3532,47084,Spouse:57
+66,Female,Fair,Widowed,None,3,3+ Claims,80140.0,3154,46854,Parent:66
+46,Male,Good,Married,Term Life,1,2 Claims,114251.0,4090,52271,Child:2;Parent:54;Child:19;Parent:74
+45,Male,Fair,Single,None,4,No Claims,69519.0,1448,21951,Spouse:58;Child:21
+30,Male,Poor,Married,Health Insurance,3,2 Claims,64988.0,2412,45495,Child:13;Child:22
+25,Female,Fair,Divorced,Health Insurance,1,No Claims,67967.0,2053,45419,None
+29,Male,Good,Divorced,Endowment,3,2 Claims,23262.0,734,10628,Parent:65
+65,Male,Fair,Divorced,Whole Life,4,2 Claims,94629.0,4025,65039,None
+36,Female,Good,Divorced,ULIP,3,1 Claim,33085.0,1088,17116,Spouse:29
+50,Male,Good,Single,ULIP,2,3+ Claims,77384.0,1522,28442,Spouse:46;Spouse:31;Spouse:37;Parent:67
+58,Male,Fair,Married,Whole Life,4,No Claims,115462.0,5702,107622,Child:6;Sibling:64;Spouse:36;Sibling:53
+38,Female,Excellent,Single,None,3,3+ Claims,48030.0,2170,28149,Parent:72
+50,Male,Fair,Single,Term Life,0,1 Claim,46671.0,990,9667,Parent:76;Sibling:55
+69,Female,Fair,Single,None,3,No Claims,136753.0,5802,99591,None
+51,Female,Fair,Divorced,Whole Life,2,1 Claim,58058.0,1102,23702,Child:17;Sibling:69
+33,Female,Good,Divorced,Whole Life,1,3+ Claims,33028.0,1160,21774,None
+50,Female,Fair,Divorced,Term Life,1,2 Claims,112380.0,3999,83650,Parent:63;Sibling:75
+46,Female,Good,Married,Endowment,1,1 Claim,,1408,17062,None
+54,Male,Fair,Widowed,Endowment,0,1 Claim,116898.0,2156,33079,Spouse:47
+67,Male,Excellent,Divorced,Term Life,2,2 Claims,102481.0,1935,36019,None
+41,Female,Excellent,Married,Endowment,4,3+ Claims,96679.0,3729,42889,Spouse:34;Child:8;Sibling:70;Sibling:78
+50,Female,Excellent,Divorced,ULIP,1,1 Claim,83721.0,3681,62151,Sibling:58;Sibling:52
+60,Male,Good,Divorced,Endowment,2,3+ Claims,111594.0,2735,28860,Child:1;Parent:69
+25,Female,Good,Single,Endowment,3,2 Claims,36631.0,1051,10716,Child:24;Parent:74;Parent:49
+32,Female,Fair,Single,Endowment,0,No Claims,49727.0,1419,22666,Parent:76;Sibling:61
+59,Female,Good,Single,ULIP,2,1 Claim,46689.0,1192,20454,Child:10;Parent:49;Spouse:35;Parent:48
+39,Male,Good,Married,Endowment,2,3+ Claims,88435.0,3033,31374,Child:7;Sibling:67
+46,Male,Excellent,Widowed,Health Insurance,4,2 Claims,84391.0,2687,66291,None
+38,Female,Good,Widowed,ULIP,2,2 Claims,47853.0,1524,28464,Spouse:51;Parent:45;Sibling:46;Child:18
+50,Female,Good,Married,Term Life,4,1 Claim,45021.0,2107,25510,Child:13;Spouse:57;Spouse:26
+52,Male,Excellent,Divorced,None,0,No Claims,87636.0,4590,55561,Parent:60;Sibling:48;Sibling:53
+47,Male,Excellent,Married,Term Life,0,1 Claim,110519.0,4205,76097,None
+38,Female,Excellent,Divorced,None,3,3+ Claims,65240.0,2976,40053,Child:23;Child:20;Parent:46;Parent:47
+48,Female,Excellent,Married,Term Life,4,2 Claims,64831.0,2511,40514,Child:15
+26,Male,Good,Married,Health Insurance,4,No Claims,37258.0,864,9247,Child:12;Sibling:77;Sibling:48
+69,Male,Excellent,Married,None,1,3+ Claims,123986.0,2663,33825,None
+50,Male,Fair,Widowed,None,1,1 Claim,64415.0,1163,17974,None
+38,Female,Fair,Single,Whole Life,3,2 Claims,60576.0,2428,36430,Sibling:72
+31,Male,Good,Married,None,0,1 Claim,81834.0,3470,76957,Parent:65;Sibling:54;Spouse:51
+27,Female,Poor,Widowed,None,1,No Claims,69749.0,2827,28405,Spouse:39;Sibling:61
+47,Male,Good,Single,Whole Life,2,No Claims,70341.0,2000,47556,Sibling:49;Child:16
+67,Male,Good,Single,Endowment,0,No Claims,83020.0,3349,56259,None
+69,Male,Poor,Married,Endowment,2,No Claims,128311.0,2815,58398,None
+42,Male,Excellent,Divorced,Whole Life,4,No Claims,49672.0,1234,30169,Child:8;Parent:68
+62,Female,Poor,Divorced,ULIP,0,1 Claim,87794.0,1712,28440,Spouse:48
+59,Female,Excellent,Divorced,None,3,No Claims,58882.0,1411,22581,Spouse:49;Parent:75
+39,Male,Good,Married,None,4,No Claims,92777.0,4542,58096,Sibling:69;Sibling:71
+49,Female,Excellent,Divorced,Whole Life,4,2 Claims,69502.0,3656,43475,Parent:49;Spouse:57
+61,Male,Fair,Widowed,Whole Life,2,No Claims,77007.0,3874,66315,Spouse:40;Sibling:79
+52,Male,Good,Widowed,ULIP,4,2 Claims,95233.0,3597,57627,Child:11;Parent:54
+34,Male,Fair,Widowed,Health Insurance,1,2 Claims,35489.0,1730,18516,Parent:49
+63,Male,Good,Widowed,Endowment,0,2 Claims,105707.0,4407,51044,None
+41,Female,Good,Single,Term Life,1,1 Claim,63789.0,2390,50930,Sibling:57;Parent:76;Spouse:58;Sibling:56
+63,Male,Excellent,Widowed,Health Insurance,2,1 Claim,68894.0,2699,46548,Spouse:53;Child:19;Parent:67;Parent:77
+46,Male,Good,Divorced,Endowment,2,3+ Claims,56194.0,1849,27035,Spouse:37
+50,Female,Poor,Married,None,0,3+ Claims,66315.0,2057,26980,Sibling:54;Sibling:58;Parent:68;Spouse:35
+68,Male,Good,Divorced,Health Insurance,4,2 Claims,89119.0,3462,61866,Child:21;Spouse:54
+49,Male,Fair,Widowed,Whole Life,3,1 Claim,55029.0,1429,15405,None
+41,Male,Fair,Single,ULIP,2,No Claims,76890.0,2924,43582,Sibling:51;Parent:61;Parent:64;Parent:55
+37,Female,Good,Widowed,Endowment,0,3+ Claims,42505.0,1490,20318,Child:24;Child:2;Sibling:71
+44,Male,Good,Married,ULIP,3,1 Claim,26697.0,741,14821,Spouse:53;Spouse:35
+49,Female,Excellent,Divorced,Endowment,4,No Claims,117392.0,6571,83708,Spouse:52;Child:7
+28,Male,Excellent,Married,Health Insurance,2,No Claims,61958.0,1675,26401,Parent:70;Sibling:66;Sibling:50;Child:11
+34,Male,Excellent,Married,None,0,1 Claim,104189.0,2958,52176,Child:14;Parent:46
+27,Female,Good,Married,Term Life,0,3+ Claims,36126.0,956,12031,None
+65,Male,Good,Divorced,ULIP,0,1 Claim,104595.0,4612,56827,Parent:64;Child:22
+69,Male,Good,Widowed,ULIP,2,3+ Claims,116892.0,4431,63007,Sibling:73;Parent:68;Parent:45
+42,Female,Good,Married,Term Life,3,2 Claims,68213.0,1958,52577,Sibling:74
+60,Female,Good,Divorced,ULIP,0,1 Claim,61111.0,2731,35434,Parent:63;Sibling:48;Spouse:39
+46,Female,Good,Single,ULIP,4,1 Claim,70710.0,1750,37782,Parent:64;Parent:65;Spouse:34
+58,Female,Fair,Divorced,Endowment,0,3+ Claims,100527.0,2277,50260,Sibling:47;Parent:73;Spouse:32
+32,Female,Excellent,Single,Endowment,3,3+ Claims,73764.0,1658,34073,Sibling:54;Parent:49;Child:11;Spouse:28
+64,Male,Excellent,Divorced,Term Life,2,1 Claim,,3533,66395,None
+68,Female,Fair,Widowed,None,0,No Claims,115945.0,4210,73989,Sibling:79
+43,Male,Good,Married,Health Insurance,0,No Claims,90001.0,2242,46278,Child:8
+66,Male,Good,Widowed,Health Insurance,4,No Claims,85526.0,2220,39308,Sibling:65;Child:16;Child:14
+65,Male,Good,Divorced,ULIP,4,2 Claims,64591.0,1559,29190,Spouse:51;Spouse:25;Child:1;Spouse:46
+61,Female,Good,Married,None,0,2 Claims,94808.0,2981,61052,Sibling:64;Parent:47;Sibling:58
+30,Female,Excellent,Single,Term Life,0,3+ Claims,45067.0,909,11766,None
+50,Male,Excellent,Divorced,Term Life,4,2 Claims,,1757,18077,Child:8;Sibling:78
+58,Female,Good,Married,Endowment,3,No Claims,114910.0,3521,51073,Child:1;Sibling:46;Sibling:71
+69,Female,Good,Single,ULIP,1,1 Claim,107749.0,4362,85161,Spouse:41;Child:17;Child:18;Parent:75
+30,Female,Fair,Single,Whole Life,1,2 Claims,85925.0,3577,66890,None
+61,Female,Fair,Widowed,Term Life,0,2 Claims,70770.0,2506,36051,Sibling:75;Sibling:47;Parent:47
+57,Male,Good,Divorced,ULIP,4,No Claims,108749.0,3731,68269,None
+46,Male,Fair,Single,None,2,2 Claims,109531.0,3807,52627,Child:13;Sibling:65;Parent:60
+45,Female,Good,Married,Endowment,2,3+ Claims,76286.0,4328,54971,Parent:57;Parent:48;Sibling:75;Child:9
+30,Male,Good,Single,Health Insurance,1,1 Claim,106441.0,3022,40826,None
+30,Female,Fair,Single,None,3,No Claims,42851.0,1768,20848,Child:21;Parent:68;Parent:69;Child:19
+28,Female,Good,Widowed,Term Life,1,3+ Claims,45223.0,1654,20449,None
+54,Male,Good,Widowed,Term Life,0,No Claims,96998.0,2919,38598,Parent:59;Parent:62;Child:20;Sibling:49
+35,Male,Excellent,Married,None,3,3+ Claims,66089.0,3347,36042,Parent:45
+54,Male,Good,Widowed,Term Life,2,1 Claim,69141.0,1929,37910,Sibling:67;Parent:70
+55,Female,Fair,Single,ULIP,4,1 Claim,97382.0,2765,42449,None
+48,Male,Fair,Single,Term Life,4,3+ Claims,85110.0,2587,49626,Parent:78;Parent:63;Spouse:42;Sibling:46
+33,Female,Fair,Widowed,Endowment,0,3+ Claims,51274.0,1835,19287,Sibling:71;Parent:50;Child:7
+27,Male,Fair,Single,ULIP,1,3+ Claims,60781.0,1686,24085,Parent:50;Spouse:55
+55,Male,Good,Single,Whole Life,0,3+ Claims,100180.0,3265,53914,None
+64,Female,Good,Married,Term Life,4,3+ Claims,81830.0,2974,56531,Parent:62;Spouse:47;Parent:67;Sibling:72
+61,Female,Excellent,Widowed,Term Life,2,3+ Claims,101339.0,4406,74914,Parent:69;Sibling:51;Child:18
+60,Female,Good,Single,Endowment,4,1 Claim,72659.0,1582,21930,Child:20;Parent:49;Parent:62;Child:10
+48,Female,Good,Widowed,Endowment,3,3+ Claims,64523.0,2410,26234,None
+55,Female,Poor,Married,Health Insurance,4,2 Claims,107231.0,4047,84833,Spouse:25;Child:21
+30,Female,Good,Widowed,None,4,1 Claim,72274.0,1785,18572,None
+26,Female,Good,Single,None,3,No Claims,18263.0,700,8663,Child:12
+44,Female,Good,Widowed,None,1,1 Claim,66515.0,2718,45943,Spouse:26;Child:14
+52,Male,Good,Single,Endowment,4,No Claims,,3471,36726,Child:5;Spouse:45;Spouse:37
+35,Female,Fair,Single,None,0,No Claims,67777.0,1535,18609,None
+28,Female,Excellent,Single,None,4,2 Claims,70364.0,2285,23635,Sibling:73;Parent:68;Sibling:60;Spouse:36
+39,Male,Good,Married,Whole Life,0,3+ Claims,71319.0,2501,51420,Child:19
+30,Female,Fair,Widowed,None,3,3+ Claims,57348.0,3080,40485,Spouse:29;Child:23;Sibling:75;Sibling:61
+54,Male,Good,Married,Term Life,4,1 Claim,80736.0,2299,40255,None
+62,Male,Excellent,Widowed,Health Insurance,3,3+ Claims,113823.0,5173,67172,None
+26,Female,Good,Married,Endowment,3,2 Claims,69898.0,2118,37203,Sibling:70;Child:13
+39,Male,Fair,Divorced,ULIP,1,1 Claim,77094.0,2186,24045,Parent:66;Parent:65;Parent:73
+35,Female,Excellent,Single,Health Insurance,4,1 Claim,66776.0,1857,31089,Spouse:29;Spouse:38;Child:18;Spouse:28
+32,Male,Fair,Single,Whole Life,0,1 Claim,51023.0,1574,36529,None
+50,Male,Fair,Married,Endowment,0,3+ Claims,73864.0,1994,37520,Child:13;Sibling:48;Child:3
+69,Male,Good,Divorced,Endowment,4,3+ Claims,120293.0,3629,66200,Spouse:30;Sibling:66;Sibling:50
+68,Female,Poor,Single,Term Life,1,3+ Claims,117410.0,4971,96058,Child:4
+29,Female,Fair,Widowed,Health Insurance,1,1 Claim,46028.0,2167,28270,None
+30,Male,Fair,Married,Health Insurance,1,1 Claim,61998.0,1692,27744,Parent:77;Spouse:42
+50,Male,Fair,Single,None,0,No Claims,89969.0,2010,33697,Spouse:51;Parent:45;Spouse:39
+28,Female,Excellent,Single,Term Life,3,No Claims,,3121,52760,Parent:60;Parent:65
+43,Female,Excellent,Married,None,1,3+ Claims,81509.0,2732,43834,None
+44,Male,Good,Married,None,0,1 Claim,51758.0,1159,24070,Sibling:47;Sibling:56;Child:7;Sibling:75
+57,Male,Excellent,Widowed,Endowment,0,3+ Claims,63570.0,2798,46752,Parent:75;Child:1;Spouse:57
+44,Female,Good,Widowed,Health Insurance,3,3+ Claims,97403.0,1859,38520,Parent:73;Child:23
+36,Female,Fair,Single,None,4,No Claims,96180.0,4052,48566,Sibling:63;Parent:72;Child:4;Spouse:27
+25,Female,Fair,Single,Whole Life,4,2 Claims,25369.0,787,11104,Parent:69
+50,Female,Good,Married,Whole Life,1,3+ Claims,79444.0,2970,49494,None
+38,Female,Fair,Single,Health Insurance,1,2 Claims,84281.0,1889,30866,Parent:73;Child:9
+62,Male,Fair,Single,Whole Life,3,2 Claims,47924.0,1803,38370,Child:12;Sibling:79;Sibling:64;Parent:61
+61,Female,Good,Married,Endowment,1,1 Claim,69533.0,3648,58424,Spouse:36;Sibling:54;Spouse:42;Child:8
+35,Male,Excellent,Single,Term Life,3,1 Claim,63156.0,2682,33269,None
+60,Female,Good,Single,ULIP,0,3+ Claims,78055.0,2235,55706,Child:13;Sibling:75
+37,Male,Fair,Divorced,None,1,No Claims,71182.0,1896,31492,None
+67,Female,Good,Widowed,ULIP,0,No Claims,126409.0,6154,96129,Parent:65;Child:6;Spouse:52
+27,Female,Good,Married,Term Life,2,3+ Claims,39944.0,1841,24480,None
+57,Male,Excellent,Divorced,Term Life,3,3+ Claims,88005.0,4162,48583,Parent:65;Sibling:65;Child:24
+30,Male,Fair,Widowed,Endowment,2,No Claims,53104.0,1759,31989,Sibling:71;Parent:57
+34,Female,Fair,Widowed,Whole Life,1,2 Claims,66727.0,3299,53825,Parent:73
+29,Female,Fair,Widowed,Whole Life,0,3+ Claims,59116.0,1379,18581,None
+47,Female,Poor,Divorced,Term Life,1,2 Claims,129743.0,5001,56490,Parent:73;Spouse:46;Parent:74
+34,Female,Fair,Divorced,Endowment,2,3+ Claims,93791.0,3159,55201,Parent:67;Child:1;Spouse:28
+68,Female,Poor,Widowed,Endowment,1,3+ Claims,66381.0,2226,23888,Spouse:56;Sibling:48
+26,Male,Poor,Single,Health Insurance,4,2 Claims,37997.0,1832,28760,None
+37,Male,Fair,Single,None,2,2 Claims,51442.0,1851,33247,Parent:57;Child:2;Sibling:73
+64,Female,Good,Divorced,Whole Life,1,No Claims,69314.0,1660,22340,None
+26,Male,Excellent,Divorced,Term Life,0,3+ Claims,28632.0,711,18879,Parent:46;Spouse:57;Parent:51;Parent:62
+44,Male,Good,Divorced,Health Insurance,1,1 Claim,70432.0,1894,34867,Child:8;Child:23
+25,Male,Good,Widowed,ULIP,0,1 Claim,40206.0,1543,24520,Child:11;Sibling:74;Child:9
+61,Female,Good,Single,Whole Life,4,3+ Claims,73184.0,1895,25641,Sibling:48;Parent:61;Sibling:55
+33,Male,Good,Divorced,None,1,3+ Claims,103409.0,2299,32767,Sibling:46;Child:23
+41,Female,Poor,Divorced,Endowment,4,3+ Claims,57582.0,2392,40761,Child:22
+33,Male,Fair,Married,Term Life,2,2 Claims,54136.0,2321,30427,Spouse:50;Sibling:56;Parent:76;Spouse:33
+35,Female,Fair,Widowed,Whole Life,0,1 Claim,79829.0,4142,51820,Spouse:29;Spouse:50
+39,Male,Good,Married,ULIP,2,1 Claim,60069.0,3018,40695,Child:1;Child:24;Child:5;Parent:55
+48,Female,Excellent,Single,None,0,1 Claim,,2478,29484,Sibling:78;Spouse:32;Child:2
+62,Female,Excellent,Married,None,4,3+ Claims,86841.0,2361,27534,Sibling:59;Spouse:30;Sibling:49;Spouse:27
+59,Male,Good,Married,Health Insurance,3,2 Claims,129174.0,6077,72966,Sibling:60;Child:3
+54,Female,Excellent,Married,Whole Life,1,3+ Claims,74371.0,2745,41916,None
+55,Female,Excellent,Widowed,ULIP,4,No Claims,66764.0,3052,50517,Sibling:63;Sibling:78
+29,Female,Poor,Single,None,0,No Claims,67404.0,2295,30052,Spouse:34
+68,Female,Fair,Married,Term Life,0,1 Claim,91881.0,4654,71148,Sibling:45;Parent:50;Spouse:26
+38,Female,Good,Widowed,None,0,3+ Claims,122779.0,4128,43082,None
+35,Female,Excellent,Single,ULIP,0,No Claims,49262.0,1034,17271,Sibling:57;Parent:79
+33,Female,Good,Divorced,Endowment,1,No Claims,97674.0,3685,43778,Spouse:46;Child:11;Spouse:28;Spouse:41
+58,Female,Excellent,Married,Endowment,2,3+ Claims,111267.0,3108,30530,Sibling:65;Parent:68;Spouse:55;Spouse:54
+36,Male,Poor,Single,Health Insurance,3,2 Claims,58373.0,2988,51955,Spouse:31
+59,Male,Good,Married,Whole Life,1,3+ Claims,88929.0,3764,35900,None
+59,Female,Good,Divorced,ULIP,0,3+ Claims,68402.0,2775,44166,Sibling:51;Spouse:51;Parent:68
+25,Female,Good,Single,Health Insurance,1,2 Claims,44231.0,2197,27128,Sibling:78;Child:22
+64,Male,Excellent,Widowed,None,4,1 Claim,86231.0,2997,35034,Child:19;Sibling:71;Parent:50
+46,Male,Good,Single,None,0,1 Claim,79157.0,2261,40669,Sibling:75
+53,Male,Fair,Widowed,Endowment,3,1 Claim,54746.0,1592,25945,None
+32,Female,Good,Single,Health Insurance,0,2 Claims,68229.0,2558,30605,Sibling:54
+35,Male,Excellent,Widowed,Endowment,3,No Claims,62082.0,3037,34402,Sibling:70
+65,Female,Good,Divorced,Term Life,3,2 Claims,102962.0,4591,48596,Sibling:66;Spouse:28;Child:23;Parent:78
+61,Female,Good,Divorced,Endowment,2,3+ Claims,101946.0,5043,97051,Spouse:41
+38,Male,Fair,Divorced,Term Life,2,2 Claims,63481.0,1507,20850,Child:21;Sibling:52
+54,Female,Good,Single,None,1,No Claims,93763.0,2404,28136,Child:12;Child:24;Spouse:57
+59,Female,Good,Divorced,Health Insurance,1,No Claims,87256.0,2286,39657,Spouse:49;Parent:65;Sibling:56
+45,Female,Good,Married,Term Life,3,3+ Claims,89869.0,3040,49918,Sibling:70;Sibling:73
+61,Female,Good,Divorced,Health Insurance,0,1 Claim,97322.0,2700,31163,Child:5;Child:14
+29,Male,Good,Widowed,Health Insurance,4,No Claims,62620.0,1433,19615,Sibling:73;Parent:68;Child:15
+43,Male,Good,Widowed,Term Life,4,No Claims,70951.0,2876,44380,Parent:78;Child:4;Spouse:44
+38,Female,Good,Widowed,Whole Life,0,No Claims,93916.0,3147,30867,None
+50,Female,Fair,Single,Endowment,0,3+ Claims,88103.0,3778,55718,None
+28,Male,Good,Married,Term Life,2,No Claims,31570.0,1153,20254,Spouse:36;Sibling:79;Spouse:41;Child:17
+49,Female,Poor,Divorced,None,4,1 Claim,69560.0,2462,24815,Child:23;Spouse:26
+69,Male,Good,Married,Health Insurance,3,3+ Claims,94428.0,2991,44253,Spouse:26;Spouse:53
+66,Female,Poor,Married,ULIP,1,1 Claim,95977.0,4887,60926,Sibling:68;Spouse:48;Child:16;Spouse:55
+49,Female,Fair,Widowed,Term Life,2,No Claims,82534.0,2344,39501,None
+42,Male,Good,Widowed,Endowment,4,No Claims,53115.0,1592,29939,Sibling:53;Sibling:71
+64,Male,Fair,Widowed,Health Insurance,0,1 Claim,92640.0,3026,37398,None
+32,Male,Excellent,Single,Whole Life,4,3+ Claims,55717.0,1585,14882,Child:14;Child:13;Spouse:49;Child:11
+63,Male,Poor,Married,None,3,3+ Claims,114694.0,5497,70049,Parent:66;Child:3;Parent:77
+64,Female,Good,Married,Whole Life,2,1 Claim,74098.0,1736,23365,Parent:70;Child:19
+38,Male,Excellent,Single,ULIP,0,No Claims,67652.0,3484,51048,Parent:70;Child:6;Child:3;Sibling:50
+56,Female,Good,Single,Term Life,3,2 Claims,72292.0,1922,22961,Parent:47;Parent:57;Spouse:37
+62,Male,Poor,Single,Health Insurance,1,1 Claim,,7135,81774,None
+57,Male,Excellent,Married,Term Life,2,1 Claim,112132.0,4860,77245,Child:1;Sibling:75;Sibling:61;Spouse:33
+47,Female,Good,Married,Endowment,3,1 Claim,44152.0,1398,21904,Parent:57;Sibling:58;Parent:55;Sibling:69
+39,Male,Fair,Widowed,Term Life,3,No Claims,53075.0,1873,33012,Sibling:58
+57,Male,Fair,Widowed,None,0,3+ Claims,104418.0,3123,36884,None
+49,Male,Good,Married,ULIP,1,No Claims,88145.0,3327,65550,None
+41,Male,Excellent,Widowed,Whole Life,3,1 Claim,79518.0,2737,27066,Child:10;Parent:47;Sibling:70
+57,Female,Excellent,Single,ULIP,2,No Claims,90817.0,2610,56826,Child:1
+26,Female,Good,Divorced,Health Insurance,3,No Claims,75023.0,3234,44379,Sibling:51;Child:12
+38,Male,Good,Widowed,Term Life,4,1 Claim,83619.0,2042,40109,Child:6;Parent:47;Child:10
+64,Male,Poor,Married,Health Insurance,2,No Claims,88188.0,3787,49948,Sibling:70
+64,Male,Excellent,Widowed,Whole Life,2,2 Claims,70014.0,2558,35431,Spouse:42;Sibling:45;Sibling:65
+63,Female,Good,Widowed,Health Insurance,3,No Claims,59198.0,1887,26240,Child:16;Sibling:60;Child:16
+30,Female,Excellent,Widowed,Endowment,0,No Claims,57927.0,2959,38910,Parent:66;Child:19;Parent:45
+30,Female,Excellent,Divorced,ULIP,2,3+ Claims,23201.0,975,14493,Spouse:58;Sibling:50;Parent:72
+27,Female,Good,Single,Whole Life,4,3+ Claims,62019.0,2435,40081,Spouse:55;Child:16
+31,Male,Good,Married,Whole Life,0,1 Claim,54839.0,2385,31285,None
+32,Male,Good,Divorced,Whole Life,0,1 Claim,100878.0,4240,49407,Spouse:51;Parent:68;Sibling:64
+66,Male,Poor,Married,None,0,3+ Claims,102862.0,3292,33923,Spouse:37;Spouse:44
+39,Female,Good,Married,ULIP,2,2 Claims,68415.0,3131,40694,Child:16;Child:20
+53,Male,Poor,Married,Health Insurance,0,No Claims,50676.0,1630,14984,Sibling:48
+57,Female,Fair,Divorced,Whole Life,3,2 Claims,61753.0,1562,16037,Child:4;Parent:76
+54,Female,Good,Single,ULIP,0,2 Claims,97627.0,2226,26689,None
+63,Male,Fair,Married,Whole Life,4,3+ Claims,86738.0,2683,34072,None
+51,Male,Good,Single,Endowment,1,1 Claim,131707.0,5563,72399,None
+60,Male,Excellent,Single,Endowment,4,No Claims,88338.0,3914,64582,Parent:56;Spouse:56;Child:6;Child:17
+53,Female,Fair,Widowed,Endowment,2,1 Claim,86378.0,3255,72116,Spouse:56
+62,Female,Excellent,Divorced,Term Life,0,2 Claims,65662.0,2016,33713,Sibling:75;Child:19;Child:21
+57,Male,Good,Divorced,Whole Life,0,2 Claims,105948.0,2838,45416,Sibling:72
+61,Male,Fair,Widowed,Term Life,3,1 Claim,72485.0,1961,33480,None
+51,Female,Excellent,Widowed,ULIP,0,1 Claim,91488.0,2783,55173,None
+57,Male,Excellent,Single,Term Life,4,3+ Claims,103235.0,3546,74860,Child:18;Parent:78;Parent:55;Sibling:64
+28,Female,Poor,Married,ULIP,2,1 Claim,59903.0,1439,21326,None
+46,Female,Good,Divorced,ULIP,1,1 Claim,111139.0,3678,55261,Sibling:60;Parent:73;Parent:45;Parent:62
+26,Male,Excellent,Married,ULIP,0,3+ Claims,43785.0,1958,27077,Parent:66;Sibling:52
+34,Male,Good,Married,Health Insurance,1,1 Claim,,4133,50785,None
+29,Male,Good,Widowed,Term Life,0,2 Claims,33581.0,1317,30116,Sibling:55
+34,Male,Good,Married,Health Insurance,2,1 Claim,79980.0,3177,63904,Spouse:47;Sibling:65
+57,Female,Poor,Single,Whole Life,4,No Claims,84151.0,2513,36236,Parent:57;Child:2;Parent:50
+62,Female,Good,Widowed,Term Life,2,2 Claims,77837.0,1892,32789,Parent:48;Sibling:49;Spouse:30
+37,Female,Good,Married,Whole Life,1,3+ Claims,33774.0,1535,29537,Child:3;Child:23;Spouse:32;Parent:63
+55,Male,Fair,Widowed,Whole Life,0,2 Claims,79786.0,3330,51599,Sibling:55;Parent:54;Child:20;Child:12
+60,Female,Fair,Single,ULIP,1,3+ Claims,83523.0,2990,57740,Parent:72;Child:8;Sibling:63
+69,Male,Excellent,Single,Term Life,4,No Claims,102458.0,3155,39145,Child:16;Sibling:65;Parent:62;Parent:53
+48,Male,Excellent,Married,Whole Life,2,No Claims,92496.0,3238,47062,Sibling:69;Sibling:78;Sibling:53
+39,Male,Excellent,Widowed,Endowment,1,2 Claims,52830.0,1129,11044,None
+53,Male,Good,Married,Whole Life,1,1 Claim,118165.0,2816,44465,Child:11
+32,Male,Good,Married,Endowment,4,2 Claims,51229.0,1655,24882,Parent:53;Child:16;Child:4;Sibling:78
+29,Male,Good,Widowed,Term Life,0,2 Claims,71043.0,2627,33724,None
+53,Female,Poor,Married,Health Insurance,1,No Claims,84803.0,1996,35685,Child:20;Spouse:41
+28,Male,Fair,Single,Term Life,4,3+ Claims,54025.0,1311,18304,Spouse:43;Spouse:31;Spouse:45
+36,Female,Excellent,Widowed,Health Insurance,0,2 Claims,66801.0,2882,32392,Spouse:27;Sibling:58;Child:2
+69,Female,Good,Widowed,Health Insurance,0,1 Claim,80194.0,2298,51788,Child:18;Spouse:48;Child:24;Spouse:36
+26,Male,Good,Widowed,Term Life,2,No Claims,48248.0,1461,27631,Child:13;Sibling:76;Parent:62;Spouse:37
+51,Male,Good,Widowed,Whole Life,4,2 Claims,54204.0,1709,22935,Sibling:67;Sibling:54;Spouse:29
+55,Male,Good,Married,None,0,2 Claims,74014.0,3443,56173,Spouse:38
+60,Female,Fair,Married,Whole Life,2,1 Claim,80666.0,1525,25305,Sibling:78;Spouse:52;Spouse:32
+60,Male,Good,Single,Whole Life,3,2 Claims,106904.0,2921,54119,Parent:73;Parent:48
+50,Female,Good,Divorced,ULIP,4,2 Claims,73361.0,2893,45869,None
+67,Male,Fair,Divorced,ULIP,3,2 Claims,88038.0,2074,23889,None
+51,Male,Good,Single,Whole Life,0,2 Claims,85400.0,2813,47938,None
+29,Female,Excellent,Divorced,Endowment,4,1 Claim,62617.0,2308,41985,Spouse:38;Sibling:73;Child:13
+44,Female,Good,Single,Health Insurance,2,2 Claims,62179.0,2252,50715,Spouse:41;Spouse:28;Child:20
+35,Male,Excellent,Married,ULIP,0,2 Claims,72884.0,3334,62491,Child:10;Child:22
+34,Female,Poor,Widowed,Whole Life,4,2 Claims,,2940,34896,Parent:52;Parent:72;Parent:74;Sibling:77
+64,Female,Excellent,Widowed,None,4,No Claims,82146.0,1968,37438,None
+62,Female,Good,Married,Endowment,3,1 Claim,82090.0,3188,65115,Spouse:51;Parent:64;Sibling:77
+30,Female,Good,Widowed,Term Life,0,No Claims,78987.0,1927,31218,None
+32,Female,Poor,Widowed,Whole Life,2,No Claims,52691.0,1840,27171,Sibling:63;Child:15;Child:21
+47,Male,Excellent,Divorced,Whole Life,2,1 Claim,82222.0,3142,65339,Parent:77
+50,Male,Excellent,Married,Health Insurance,0,No Claims,54351.0,1446,22188,Spouse:38;Spouse:39
+67,Female,Excellent,Divorced,Endowment,0,No Claims,119306.0,5587,87927,None
+36,Male,Excellent,Divorced,ULIP,1,No Claims,54340.0,1178,16666,Spouse:46
+50,Male,Excellent,Widowed,ULIP,3,1 Claim,88005.0,2327,30924,None
+37,Female,Good,Widowed,ULIP,0,2 Claims,61968.0,3007,39878,Sibling:64;Sibling:76
+64,Male,Excellent,Married,Term Life,0,3+ Claims,101776.0,2799,35249,Sibling:60;Sibling:52;Spouse:38
+42,Female,Excellent,Widowed,Endowment,1,3+ Claims,80868.0,1885,26851,Spouse:54
+49,Female,Fair,Widowed,Endowment,1,1 Claim,76106.0,3230,36376,None
+57,Male,Good,Married,ULIP,4,3+ Claims,49680.0,2099,37922,Child:24
+64,Female,Good,Widowed,ULIP,2,1 Claim,115820.0,2647,52277,Spouse:58;Sibling:51;Sibling:50
+67,Female,Good,Divorced,Health Insurance,3,1 Claim,94201.0,3335,34891,Parent:59;Spouse:50;Spouse:27;Child:10
+36,Female,Poor,Married,None,4,3+ Claims,73360.0,3959,47311,Child:14;Sibling:66
+68,Female,Excellent,Widowed,None,0,No Claims,111834.0,2120,50351,Parent:45;Spouse:57
+60,Female,Fair,Single,Whole Life,1,2 Claims,80856.0,2369,37659,Spouse:58;Parent:75
+28,Male,Fair,Married,Whole Life,2,3+ Claims,68342.0,3402,43154,Spouse:48;Child:12
+29,Male,Excellent,Married,Endowment,4,3+ Claims,44047.0,2060,23532,Parent:60;Spouse:40;Child:19;Child:23
+61,Female,Poor,Single,Endowment,2,3+ Claims,98750.0,4752,65744,Sibling:64;Spouse:51;Parent:57
+32,Female,Excellent,Widowed,Term Life,1,3+ Claims,62394.0,1402,17689,Child:13;Child:8;Sibling:78
+66,Male,Excellent,Widowed,Term Life,4,1 Claim,87550.0,3747,64281,Parent:61;Sibling:68
+52,Female,Fair,Married,None,4,1 Claim,82939.0,4868,87312,Child:14;Spouse:52;Parent:66;Spouse:52
+55,Male,Fair,Married,Whole Life,2,2 Claims,63896.0,1690,25795,Spouse:49;Sibling:47;Child:13;Spouse:55
+33,Female,Good,Widowed,None,1,2 Claims,69180.0,1330,15391,Parent:62;Sibling:78;Parent:61;Spouse:45
+53,Female,Excellent,Widowed,None,0,3+ Claims,91256.0,4442,80363,Parent:63;Sibling:56;Sibling:72
+38,Female,Good,Divorced,Whole Life,4,3+ Claims,,2662,39078,Child:16;Parent:72
+64,Female,Fair,Married,Term Life,0,3+ Claims,124043.0,4860,53092,Sibling:59;Sibling:60
+65,Female,Good,Married,Health Insurance,1,2 Claims,93100.0,3260,67821,Child:7;Sibling:47;Spouse:55;Parent:56
+46,Female,Good,Single,Health Insurance,4,3+ Claims,75477.0,3095,39580,None
+35,Female,Excellent,Divorced,Health Insurance,4,No Claims,41594.0,1540,34722,Child:12;Spouse:59;Spouse:36;Parent:65
+47,Male,Excellent,Widowed,Whole Life,0,2 Claims,108449.0,3090,40429,Child:23
+25,Male,Fair,Divorced,ULIP,3,No Claims,25037.0,655,10657,Sibling:58
+61,Male,Good,Widowed,ULIP,0,3+ Claims,95571.0,4631,63157,Child:17;Sibling:49;Parent:68
+45,Female,Poor,Widowed,ULIP,0,1 Claim,62704.0,3193,35736,None
+50,Female,Good,Divorced,Endowment,3,No Claims,81246.0,3199,56406,None
+60,Female,Fair,Married,Term Life,1,2 Claims,63838.0,3145,63365,Parent:55;Spouse:35;Spouse:58
+47,Female,Excellent,Widowed,Term Life,1,No Claims,94833.0,4065,68031,Spouse:53;Parent:71;Sibling:66;Parent:46
+25,Female,Good,Divorced,Endowment,4,2 Claims,35896.0,956,14139,Parent:74;Spouse:31;Child:12
+64,Female,Excellent,Single,None,2,3+ Claims,117325.0,5990,110179,Spouse:41;Child:9
+39,Female,Good,Divorced,Health Insurance,2,No Claims,50447.0,1687,20113,Sibling:59
+45,Male,Good,Single,ULIP,4,1 Claim,94504.0,1884,21842,Sibling:58
+33,Female,Poor,Widowed,Health Insurance,2,No Claims,46380.0,1518,14457,Sibling:70;Spouse:38
+33,Male,Good,Divorced,ULIP,0,1 Claim,,2443,38097,Spouse:34
+34,Male,Excellent,Divorced,Health Insurance,0,2 Claims,63963.0,2703,57217,None
+50,Female,Excellent,Single,None,3,3+ Claims,63041.0,2056,29712,Spouse:42;Parent:56
+65,Female,Excellent,Divorced,Health Insurance,3,3+ Claims,77452.0,2198,40164,Spouse:27
+59,Male,Good,Divorced,Health Insurance,4,1 Claim,72273.0,2743,43847,Parent:51
+49,Male,Fair,Widowed,Whole Life,4,2 Claims,85377.0,4167,49404,None
+50,Female,Poor,Divorced,Health Insurance,4,3+ Claims,79991.0,3199,35279,Sibling:73;Spouse:27;Parent:73;Sibling:79
+35,Female,Excellent,Married,Whole Life,0,2 Claims,66052.0,2662,46344,Sibling:63;Spouse:52;Child:4;Child:13
+62,Male,Good,Single,Term Life,2,1 Claim,85507.0,3204,39529,Sibling:59;Child:19;Child:16;Parent:76
+26,Female,Good,Divorced,Endowment,4,1 Claim,66973.0,1556,29187,Parent:74;Parent:64
+31,Female,Good,Single,Health Insurance,4,No Claims,82001.0,2434,35935,Sibling:69
+42,Female,Good,Single,Term Life,0,3+ Claims,83512.0,2441,28291,Child:1;Spouse:34
+51,Male,Good,Single,Whole Life,0,3+ Claims,76820.0,3236,61755,None
+58,Male,Good,Divorced,Health Insurance,0,No Claims,63584.0,1725,18187,Child:18;Sibling:63
+51,Male,Excellent,Divorced,Health Insurance,2,1 Claim,41458.0,1873,34605,Parent:78;Sibling:76;Parent:56;Sibling:61
+41,Female,Fair,Single,None,4,1 Claim,69702.0,2196,25912,Spouse:30;Parent:57
+67,Female,Excellent,Married,Term Life,1,1 Claim,57136.0,1981,31595,Parent:51;Child:13
+68,Male,Good,Single,ULIP,1,1 Claim,94013.0,2794,45070,Sibling:65;Child:1;Sibling:74;Spouse:43
+48,Male,Good,Married,ULIP,4,2 Claims,106052.0,2773,49068,Child:23;Parent:73
+49,Male,Good,Single,None,4,3+ Claims,55930.0,1710,28210,Spouse:44;Sibling:45
+31,Female,Poor,Widowed,Whole Life,4,3+ Claims,35277.0,1559,18586,Parent:79;Sibling:66
+30,Male,Fair,Single,ULIP,4,1 Claim,72738.0,2380,23586,None
+48,Male,Fair,Single,ULIP,2,1 Claim,21885.0,1068,7786,Parent:51;Sibling:71;Parent:46;Sibling:61
+57,Female,Good,Divorced,Endowment,1,1 Claim,94636.0,2994,63061,None
+53,Female,Fair,Married,Term Life,3,3+ Claims,112370.0,4040,73947,Child:14
+67,Female,Good,Widowed,Whole Life,1,3+ Claims,,2981,38711,Parent:77;Parent:70;Child:3
+46,Male,Fair,Married,Health Insurance,1,1 Claim,55115.0,2461,46050,Sibling:51;Parent:72
+50,Female,Good,Widowed,Term Life,0,2 Claims,91800.0,2793,31753,None
+52,Female,Poor,Single,Whole Life,4,No Claims,58585.0,1612,19167,Child:9;Sibling:75;Parent:47;Parent:77
+45,Male,Poor,Divorced,ULIP,4,No Claims,91216.0,4178,71118,Sibling:78;Child:21
+31,Female,Fair,Divorced,Endowment,4,No Claims,39213.0,1118,10171,Parent:63;Sibling:65;Parent:58;Sibling:54
+41,Male,Excellent,Married,Term Life,0,3+ Claims,106368.0,4066,75626,Parent:51;Spouse:53;Child:8;Child:8
+44,Male,Excellent,Divorced,ULIP,2,3+ Claims,87246.0,2378,32923,Spouse:43;Sibling:55;Child:2;Sibling:50
+65,Female,Fair,Married,Whole Life,2,No Claims,95760.0,4059,67872,Parent:49;Spouse:54;Sibling:71;Sibling:62
+44,Female,Excellent,Married,Term Life,3,No Claims,,2502,38316,Child:17;Parent:60;Child:22
+46,Female,Fair,Widowed,Health Insurance,2,2 Claims,96630.0,4182,73834,Parent:53;Child:2;Sibling:78;Sibling:75
+52,Female,Good,Married,Term Life,2,3+ Claims,89372.0,2615,51735,Spouse:44;Sibling:61;Sibling:64
+64,Female,Good,Widowed,ULIP,4,3+ Claims,56735.0,1560,18005,Sibling:65;Sibling:63;Spouse:27
+31,Female,Poor,Divorced,Term Life,1,No Claims,46970.0,1256,20268,Parent:50;Spouse:27;Spouse:48;Child:12
+25,Male,Good,Married,Health Insurance,2,2 Claims,76708.0,2375,28191,None
+56,Male,Good,Married,Endowment,2,2 Claims,59997.0,2755,25996,Parent:59
+37,Female,Good,Single,Endowment,0,No Claims,51685.0,1529,23764,None
+54,Male,Good,Married,ULIP,3,No Claims,63558.0,1863,31392,Child:18;Spouse:47;Sibling:73
+47,Female,Fair,Married,Whole Life,0,3+ Claims,85047.0,2946,36534,Parent:66;Sibling:68
+43,Male,Excellent,Single,ULIP,4,No Claims,92272.0,2712,29319,Spouse:37;Spouse:57;Spouse:46;Parent:79
+56,Male,Poor,Single,Endowment,1,1 Claim,105291.0,2601,28042,None
+54,Male,Fair,Divorced,None,3,2 Claims,66943.0,1538,22095,Child:6;Child:21;Sibling:61;Parent:75
+53,Female,Good,Married,None,0,No Claims,90773.0,3165,58777,None
+69,Male,Fair,Divorced,Term Life,2,1 Claim,,3915,47661,Sibling:77;Sibling:48
+53,Female,Good,Divorced,Health Insurance,2,2 Claims,78789.0,2149,40064,Child:14;Parent:57
+54,Male,Good,Single,Term Life,3,1 Claim,94403.0,4594,69699,Spouse:48;Sibling:71
+40,Male,Poor,Widowed,None,2,1 Claim,91227.0,2257,35347,Spouse:45;Parent:55;Sibling:75;Spouse:51
+64,Male,Excellent,Divorced,Endowment,0,No Claims,51012.0,1800,24000,Spouse:51
+43,Male,Excellent,Widowed,Term Life,0,2 Claims,74972.0,2829,34932,None
+42,Male,Good,Married,ULIP,2,1 Claim,100145.0,2903,38796,Child:3;Parent:78;Parent:60
+25,Female,Good,Single,Health Insurance,2,3+ Claims,59644.0,1877,33778,Parent:46;Sibling:56;Child:24
+38,Female,Good,Married,ULIP,4,2 Claims,69652.0,3286,35197,None
+26,Male,Fair,Married,Health Insurance,1,3+ Claims,44739.0,2291,36783,Sibling:65;Parent:74;Sibling:64
+52,Male,Good,Single,Endowment,3,No Claims,109615.0,2890,32883,Spouse:42
+54,Male,Good,Married,Term Life,0,3+ Claims,73664.0,2216,27902,Sibling:46
+62,Male,Excellent,Single,Health Insurance,3,2 Claims,89997.0,4994,54955,Sibling:76;Parent:52;Spouse:34
+28,Female,Good,Widowed,ULIP,4,1 Claim,48595.0,1225,14778,Parent:58;Spouse:50
+25,Male,Excellent,Married,Term Life,0,1 Claim,57163.0,2255,46231,Spouse:28
+32,Female,Excellent,Single,Term Life,4,2 Claims,90513.0,2605,29034,Spouse:48;Parent:66
+53,Male,Good,Divorced,ULIP,4,1 Claim,64877.0,2222,36921,Spouse:26;Child:12
+63,Female,Excellent,Married,None,2,3+ Claims,95251.0,2415,37484,Child:5;Child:7;Child:4;Parent:66
+27,Male,Excellent,Widowed,Health Insurance,3,1 Claim,64821.0,2937,60470,Sibling:53;Sibling:70;Child:12;Sibling:45
+56,Male,Excellent,Single,ULIP,3,1 Claim,69753.0,3465,48636,None
+34,Female,Poor,Married,Endowment,2,3+ Claims,62819.0,1611,35948,Child:19;Child:4;Sibling:58
+34,Male,Poor,Married,Whole Life,3,3+ Claims,101026.0,5242,55155,Sibling:58;Spouse:33;Child:9;Sibling:70
+43,Male,Good,Married,ULIP,2,3+ Claims,37630.0,1055,18230,None
+58,Male,Poor,Widowed,Term Life,0,No Claims,79575.0,1476,22007,Sibling:61
+57,Female,Fair,Single,Term Life,4,3+ Claims,92011.0,3936,56190,None
+47,Male,Good,Divorced,ULIP,4,3+ Claims,69481.0,3079,38309,Sibling:47;Spouse:53;Child:21
+52,Male,Excellent,Divorced,Whole Life,3,No Claims,,4175,66076,Child:22;Parent:45;Spouse:25
+56,Female,Fair,Divorced,ULIP,1,1 Claim,96973.0,2876,37434,Spouse:31;Child:10;Parent:59;Parent:55
+31,Female,Fair,Single,Whole Life,4,3+ Claims,40112.0,1984,21383,Child:23;Sibling:57;Spouse:51;Parent:61
+53,Female,Good,Divorced,Whole Life,2,2 Claims,36264.0,1638,28176,Sibling:57
+32,Male,Fair,Widowed,Endowment,1,3+ Claims,,2576,44511,Parent:73;Sibling:65;Sibling:64
+25,Male,Good,Single,Health Insurance,1,3+ Claims,39887.0,735,10811,Spouse:55;Parent:52;Parent:68
+27,Male,Fair,Married,Term Life,4,No Claims,82777.0,3599,67886,Sibling:77;Child:10
+48,Female,Poor,Widowed,Term Life,4,2 Claims,72502.0,2167,36362,Parent:45;Spouse:56;Child:11
+47,Male,Good,Married,Whole Life,4,1 Claim,,3348,63671,Parent:63;Spouse:58;Child:7;Parent:64
+32,Male,Fair,Divorced,Term Life,2,1 Claim,50295.0,1152,18576,Spouse:36;Child:2;Parent:66;Child:9
+61,Female,Good,Widowed,None,1,2 Claims,110730.0,3920,41568,Sibling:75
+27,Female,Good,Single,Whole Life,3,3+ Claims,65311.0,2217,44655,Sibling:68;Child:11;Sibling:61
+57,Female,Fair,Widowed,Term Life,2,No Claims,122119.0,5394,69676,Sibling:78;Child:15
+52,Female,Excellent,Married,None,0,2 Claims,77697.0,3066,38401,None
+32,Female,Good,Single,Endowment,4,2 Claims,79245.0,2977,44489,Sibling:57;Child:15;Child:9
+58,Male,Excellent,Widowed,Term Life,1,1 Claim,105587.0,4109,48777,Sibling:78;Parent:60
+59,Female,Good,Widowed,None,2,No Claims,102476.0,4182,66992,Child:18
+56,Male,Good,Widowed,ULIP,0,2 Claims,75802.0,1375,17591,Child:11
+48,Male,Fair,Widowed,Health Insurance,2,No Claims,87468.0,4337,56488,Parent:62;Sibling:51;Spouse:48;Parent:58
+38,Female,Excellent,Single,ULIP,2,3+ Claims,66055.0,2865,47976,Spouse:29
+56,Female,Good,Married,None,3,1 Claim,83529.0,2074,24194,None
+67,Female,Excellent,Widowed,Whole Life,3,3+ Claims,80883.0,1252,19329,Sibling:66
+40,Male,Fair,Single,Whole Life,2,No Claims,,956,11374,Child:15
+28,Female,Poor,Married,Term Life,0,3+ Claims,82967.0,1968,28231,None
+61,Female,Poor,Widowed,ULIP,1,1 Claim,99631.0,3466,44933,Child:23
+45,Female,Fair,Married,Whole Life,1,No Claims,48136.0,1980,38297,None
+38,Female,Fair,Married,Whole Life,4,2 Claims,82354.0,3623,43313,None
+55,Female,Excellent,Single,ULIP,4,3+ Claims,110362.0,3059,56355,Sibling:75;Sibling:72;Sibling:78
+42,Male,Good,Married,Endowment,1,1 Claim,87553.0,3157,37148,Sibling:67;Sibling:63
+31,Male,Good,Single,Whole Life,2,2 Claims,43167.0,1449,22386,Sibling:62;Sibling:59;Child:1;Spouse:49
+34,Male,Fair,Widowed,Health Insurance,2,1 Claim,49360.0,2409,27153,Spouse:59
+31,Female,Poor,Married,None,3,No Claims,50042.0,1221,18198,None
+57,Female,Excellent,Married,Term Life,3,No Claims,104221.0,3603,50285,Child:15;Parent:45;Spouse:46
+47,Female,Poor,Divorced,Whole Life,4,3+ Claims,86579.0,4075,54931,Parent:70;Child:19
+45,Male,Good,Widowed,Health Insurance,1,1 Claim,130805.0,4321,65183,Parent:57;Child:7
+43,Female,Good,Widowed,Health Insurance,2,1 Claim,40182.0,1240,15777,Sibling:67;Sibling:70
+43,Female,Excellent,Divorced,Whole Life,1,1 Claim,71948.0,1938,31979,Spouse:51;Spouse:33;Parent:57
+60,Female,Excellent,Divorced,Endowment,0,No Claims,51444.0,2719,47047,Parent:54;Spouse:57
+53,Male,Good,Single,None,1,3+ Claims,94932.0,3296,36385,Sibling:47
+42,Female,Good,Single,Term Life,0,1 Claim,93337.0,4135,80645,None
+26,Male,Excellent,Married,Whole Life,3,1 Claim,84842.0,3996,69498,Child:5;Sibling:60;Spouse:40;Child:12
+25,Female,Good,Married,Term Life,3,2 Claims,58770.0,1851,30642,Parent:51
+29,Male,Fair,Married,ULIP,4,1 Claim,20733.0,668,15332,Spouse:43
+44,Male,Fair,Married,Health Insurance,1,3+ Claims,72997.0,1579,30098,Sibling:46;Parent:47;Parent:69
+35,Male,Poor,Single,Health Insurance,1,2 Claims,73735.0,2438,26363,Spouse:52;Sibling:72;Spouse:56
+66,Female,Good,Widowed,Whole Life,0,2 Claims,75897.0,3145,50256,Child:9;Child:4
+26,Female,Good,Married,Whole Life,3,2 Claims,50700.0,1719,31551,Parent:67;Sibling:46;Child:10
+27,Male,Fair,Widowed,ULIP,0,No Claims,31459.0,965,13357,Child:22;Child:2;Child:20;Spouse:57
+47,Male,Good,Married,Endowment,3,2 Claims,64745.0,2517,39473,Parent:54
+36,Female,Excellent,Divorced,Whole Life,0,1 Claim,84249.0,2478,44100,Parent:68;Child:11;Parent:65;Parent:59
+44,Female,Excellent,Married,Health Insurance,3,No Claims,87603.0,3120,55765,Parent:58;Parent:65;Spouse:44;Child:1
+29,Male,Good,Married,Term Life,0,No Claims,31095.0,1044,12035,Sibling:67;Spouse:47
+61,Female,Excellent,Married,None,3,No Claims,76900.0,2247,25501,Parent:79;Child:22
+62,Female,Good,Single,Term Life,0,No Claims,93141.0,4434,87473,Child:20;Child:6
+54,Female,Excellent,Divorced,Endowment,1,No Claims,88530.0,3623,40071,Child:11
+33,Female,Excellent,Married,None,4,No Claims,49742.0,1660,30585,Parent:46;Child:5;Sibling:48
+58,Male,Good,Married,Term Life,0,No Claims,97529.0,2966,42567,None
+68,Female,Good,Widowed,Term Life,4,2 Claims,97294.0,2684,23988,Sibling:78;Child:23;Parent:57;Sibling:51
+59,Female,Good,Divorced,ULIP,1,3+ Claims,37467.0,1122,12097,None
+46,Male,Excellent,Married,Endowment,1,1 Claim,64566.0,2637,39652,Sibling:78
+68,Male,Excellent,Widowed,Health Insurance,3,1 Claim,85995.0,4222,46952,Sibling:67;Spouse:53;Spouse:29;Sibling:55
+48,Female,Good,Widowed,ULIP,4,2 Claims,91565.0,4205,60254,None
+41,Female,Good,Single,None,2,2 Claims,84921.0,2174,35769,Parent:46
+34,Female,Good,Widowed,Health Insurance,3,No Claims,30557.0,839,13897,Parent:79;Sibling:72
+54,Female,Good,Married,ULIP,4,3+ Claims,92769.0,1963,37980,Sibling:51;Parent:71;Spouse:41
+47,Male,Poor,Single,Endowment,0,No Claims,75520.0,1810,25267,Spouse:28
+56,Male,Good,Single,Whole Life,0,2 Claims,88528.0,2799,45384,Sibling:46;Parent:68;Spouse:42;Sibling:71
+41,Male,Good,Married,Whole Life,1,No Claims,58723.0,2033,29747,Child:11;Sibling:62;Child:16;Sibling:48
+41,Female,Good,Divorced,None,2,1 Claim,69763.0,2361,27636,None
+38,Female,Good,Widowed,Whole Life,0,1 Claim,91006.0,2915,73011,Parent:76;Parent:48;Parent:64
+33,Female,Good,Single,ULIP,4,No Claims,65243.0,2479,43879,Parent:47;Child:4;Sibling:55;Parent:60
+64,Female,Good,Divorced,None,4,3+ Claims,93151.0,3210,34975,Spouse:30;Spouse:55
+26,Male,Fair,Married,Health Insurance,0,No Claims,46415.0,1975,35552,Spouse:47;Sibling:48;Spouse:57;Spouse:53
+69,Male,Excellent,Widowed,Endowment,4,No Claims,120045.0,2919,41717,Child:19;Sibling:64;Sibling:76;Spouse:40
+49,Female,Excellent,Widowed,None,4,3+ Claims,53384.0,2166,23910,Sibling:56;Child:13;Child:21;Parent:58
+63,Male,Good,Single,Health Insurance,1,3+ Claims,76960.0,3415,51841,Child:22;Parent:74;Spouse:47;Parent:49
+33,Female,Fair,Widowed,None,2,3+ Claims,36235.0,1262,23623,Parent:74;Spouse:42;Parent:45;Child:7
+46,Female,Excellent,Widowed,Term Life,1,1 Claim,80013.0,3852,51932,Spouse:41;Sibling:47;Parent:51;Child:12
+67,Male,Poor,Widowed,Term Life,2,No Claims,120594.0,2450,51172,Sibling:52;Spouse:30;Spouse:52;Spouse:28
+28,Female,Good,Widowed,None,4,2 Claims,51424.0,1739,26418,Child:17;Sibling:78
+50,Female,Poor,Married,Whole Life,2,3+ Claims,58611.0,2134,29554,Spouse:30;Child:4;Child:3
+53,Male,Poor,Divorced,Term Life,4,3+ Claims,115728.0,4141,87841,Sibling:52
+69,Female,Good,Married,Endowment,4,No Claims,108025.0,4866,75807,Spouse:40;Spouse:25
+58,Female,Excellent,Married,Health Insurance,1,2 Claims,93550.0,4047,71573,Parent:54;Spouse:31
+47,Male,Excellent,Single,ULIP,1,No Claims,73196.0,3472,63465,Sibling:56
+61,Female,Excellent,Widowed,Term Life,3,No Claims,104380.0,3329,64530,None
+35,Male,Fair,Married,None,0,3+ Claims,70237.0,2131,25015,Child:12;Sibling:59;Spouse:56;Child:19
+30,Female,Excellent,Widowed,Whole Life,3,3+ Claims,50374.0,2052,24924,Sibling:58
+42,Male,Good,Married,ULIP,3,1 Claim,65723.0,2523,40503,Spouse:50
+45,Male,Good,Married,Health Insurance,2,2 Claims,54602.0,2753,43543,Spouse:29;Spouse:28;Parent:72;Parent:45
+66,Male,Poor,Single,Health Insurance,4,2 Claims,73108.0,1781,29487,Parent:47;Child:17;Sibling:69;Child:10
+60,Female,Excellent,Divorced,Term Life,4,3+ Claims,84066.0,2303,30741,Child:13;Spouse:32;Spouse:43;Child:15
+65,Male,Excellent,Divorced,Health Insurance,4,3+ Claims,118084.0,4610,61106,Sibling:60;Parent:56;Child:20
+62,Male,Excellent,Married,Health Insurance,0,3+ Claims,71316.0,2723,47886,Child:22
+58,Male,Poor,Single,Whole Life,2,2 Claims,104727.0,4880,61078,Sibling:69;Sibling:55;Child:22
+41,Male,Good,Widowed,Whole Life,2,1 Claim,55021.0,1232,19793,Spouse:58;Spouse:37;Child:14
+61,Male,Excellent,Widowed,Whole Life,4,2 Claims,55267.0,1053,13770,Spouse:52;Sibling:71;Parent:57
+49,Female,Excellent,Married,None,3,3+ Claims,89931.0,2678,34873,Sibling:71;Parent:75
+62,Female,Excellent,Divorced,Health Insurance,0,3+ Claims,124575.0,4400,66994,Child:21
+36,Female,Excellent,Single,Health Insurance,3,1 Claim,48885.0,2591,43239,Child:21
+47,Female,Poor,Divorced,Health Insurance,1,No Claims,45602.0,1418,14754,Parent:75
+66,Female,Fair,Widowed,Endowment,2,No Claims,105098.0,3289,35335,Spouse:46;Child:4;Parent:63;Spouse:38
+46,Female,Good,Divorced,Whole Life,2,2 Claims,57536.0,1939,27631,Parent:73
+45,Female,Fair,Widowed,ULIP,3,No Claims,85732.0,2691,35172,None
+51,Male,Excellent,Single,Term Life,0,No Claims,104029.0,4001,88438,Child:18
+55,Female,Fair,Single,ULIP,2,2 Claims,91612.0,2011,37188,Child:9;Sibling:45;Parent:48;Spouse:31
+30,Male,Fair,Married,None,3,3+ Claims,76195.0,2225,46255,Child:14;Sibling:63
+51,Male,Good,Married,None,0,No Claims,97332.0,4180,73599,Sibling:52;Spouse:53
+64,Female,Fair,Divorced,Health Insurance,3,3+ Claims,113798.0,2901,37600,Child:5
+58,Male,Excellent,Single,ULIP,0,2 Claims,88904.0,3863,64008,Sibling:53;Spouse:43;Spouse:36
+36,Male,Excellent,Single,Health Insurance,4,3+ Claims,81581.0,2614,27137,Parent:69;Parent:61
+69,Male,Excellent,Married,Endowment,0,3+ Claims,102288.0,3938,41566,Child:1;Sibling:58;Sibling:72
+31,Male,Good,Widowed,None,1,2 Claims,68826.0,1697,16525,Parent:77
+34,Female,Fair,Divorced,None,4,3+ Claims,125034.0,3585,45331,Child:10;Sibling:59;Spouse:35
+69,Female,Poor,Divorced,ULIP,3,No Claims,103832.0,3709,47281,Spouse:39;Spouse:54;Spouse:39
+41,Female,Good,Married,None,4,No Claims,41044.0,1062,13384,None
+50,Female,Fair,Single,Endowment,4,No Claims,76051.0,2596,46652,Parent:59;Child:11
+45,Female,Fair,Married,Endowment,3,No Claims,68789.0,2074,33003,Spouse:42;Spouse:55;Sibling:53;Parent:66
+52,Female,Excellent,Married,Endowment,3,3+ Claims,76704.0,2411,34502,Sibling:61;Sibling:77
+26,Female,Good,Married,Term Life,1,No Claims,75068.0,3848,53102,Sibling:52;Spouse:28
+67,Female,Excellent,Married,Endowment,3,3+ Claims,119611.0,2531,28939,Child:19;Parent:68;Spouse:42
+25,Female,Good,Widowed,Endowment,2,1 Claim,,1296,29458,None
+60,Female,Poor,Widowed,Term Life,2,3+ Claims,62162.0,2891,36367,Parent:54;Spouse:38;Child:7
+50,Male,Excellent,Single,Health Insurance,1,No Claims,,2717,59846,Child:22;Parent:71;Sibling:55
+53,Female,Fair,Married,Whole Life,0,1 Claim,72132.0,1480,21254,Spouse:37;Parent:76;Sibling:52
+45,Male,Good,Widowed,None,0,2 Claims,79208.0,2506,50875,Child:11;Spouse:41
+35,Male,Good,Single,Endowment,2,3+ Claims,62580.0,1609,16577,Child:20
+64,Male,Good,Married,None,3,No Claims,118327.0,2826,38443,Spouse:32;Sibling:66;Spouse:51;Sibling:78
+35,Male,Good,Divorced,ULIP,1,No Claims,70496.0,3943,37669,Spouse:39;Parent:49;Child:6;Spouse:41
+60,Female,Excellent,Widowed,None,0,No Claims,79196.0,4003,43755,Spouse:29;Child:23
+63,Male,Excellent,Single,Health Insurance,0,2 Claims,65289.0,2129,48265,Spouse:38;Child:10
+64,Female,Excellent,Divorced,Term Life,4,1 Claim,93039.0,2665,41450,Sibling:66;Parent:54;Parent:75;Child:11
+59,Female,Good,Married,None,2,1 Claim,88111.0,2253,26140,Parent:57;Child:2
+58,Male,Excellent,Married,None,3,No Claims,82750.0,4023,74067,Parent:79;Spouse:28;Spouse:28
+48,Female,Fair,Married,None,1,3+ Claims,93506.0,1762,29167,Parent:74;Sibling:71;Parent:49
+46,Male,Good,Widowed,Whole Life,0,No Claims,48344.0,1492,32239,Spouse:59;Parent:59;Spouse:43
+29,Male,Good,Single,Whole Life,4,No Claims,43749.0,1146,15358,Sibling:50;Sibling:70;Parent:71;Spouse:59
+57,Female,Good,Divorced,ULIP,2,3+ Claims,88058.0,3130,58069,Sibling:49;Child:9;Parent:60
+60,Female,Good,Single,Term Life,2,No Claims,78809.0,1906,23363,None
+44,Male,Poor,Widowed,None,1,2 Claims,66865.0,1938,31400,Child:13
+43,Female,Excellent,Single,None,0,No Claims,71794.0,2775,46204,Parent:69;Spouse:34
+59,Female,Excellent,Widowed,None,1,2 Claims,102719.0,3835,53634,Spouse:34;Child:6;Spouse:40;Spouse:49
+67,Female,Fair,Married,None,1,No Claims,94988.0,2025,37660,Spouse:28;Child:5;Spouse:58
+41,Male,Excellent,Divorced,Whole Life,4,1 Claim,31606.0,1347,17792,Sibling:77;Parent:48
+69,Male,Excellent,Married,Health Insurance,2,3+ Claims,86944.0,2124,46326,Sibling:78;Child:12;Child:16
+67,Female,Good,Single,Health Insurance,3,1 Claim,106915.0,3629,69949,Spouse:26
+58,Female,Excellent,Married,ULIP,2,No Claims,103253.0,4507,85921,Sibling:50;Child:23;Parent:60
+33,Female,Good,Divorced,Endowment,2,No Claims,79357.0,2589,43935,Child:12;Sibling:63
+50,Female,Excellent,Married,Term Life,4,2 Claims,102023.0,2403,57619,None
+26,Female,Fair,Divorced,Health Insurance,3,No Claims,58368.0,2247,52609,Parent:71
+33,Male,Fair,Divorced,None,0,No Claims,68263.0,3185,60118,None
+33,Female,Good,Married,Health Insurance,3,No Claims,42721.0,1603,22575,Parent:59
+64,Male,Good,Widowed,ULIP,0,1 Claim,50508.0,856,18111,Spouse:53;Parent:67;Spouse:37
+41,Female,Fair,Single,Endowment,3,2 Claims,42648.0,1160,23356,None
+25,Male,Excellent,Widowed,Health Insurance,1,1 Claim,40963.0,1326,22419,None
+49,Female,Fair,Widowed,ULIP,3,2 Claims,51805.0,1576,23007,Spouse:34;Child:6;Child:15
+67,Male,Fair,Married,Whole Life,4,1 Claim,91141.0,3129,34308,None
+64,Female,Fair,Single,Endowment,0,No Claims,84758.0,3450,64181,Spouse:47;Sibling:77;Spouse:33;Sibling:47
+66,Male,Good,Single,ULIP,2,1 Claim,114756.0,2804,52177,None
+49,Male,Excellent,Widowed,Health Insurance,4,1 Claim,59617.0,1712,21746,Parent:69;Parent:68;Parent:76
+63,Male,Good,Married,Whole Life,0,2 Claims,95811.0,3394,38256,Spouse:49;Sibling:64;Spouse:41
+59,Male,Fair,Single,ULIP,0,2 Claims,80604.0,2533,29643,Parent:70;Child:19;Parent:47
+27,Male,Excellent,Widowed,ULIP,2,1 Claim,36868.0,1423,28694,Parent:72;Child:22
+61,Male,Fair,Single,Health Insurance,1,2 Claims,76445.0,2907,32594,Sibling:60;Parent:50
+68,Female,Excellent,Married,Endowment,4,2 Claims,,2047,43832,Sibling:75;Child:21;Child:17;Child:16
+68,Male,Excellent,Married,Whole Life,2,2 Claims,112966.0,4725,92693,Spouse:55
+54,Female,Excellent,Married,None,2,3+ Claims,112045.0,4936,81293,Sibling:55;Spouse:30;Child:7
+62,Female,Excellent,Single,Term Life,1,2 Claims,86650.0,1979,24347,None
+58,Female,Good,Divorced,Endowment,4,3+ Claims,88581.0,3005,87972,Parent:77;Spouse:39;Parent:71
+36,Female,Excellent,Single,Whole Life,2,3+ Claims,60082.0,1429,21186,Spouse:54;Sibling:46;Parent:59;Spouse:51
+43,Female,Poor,Divorced,ULIP,1,2 Claims,56598.0,1284,13579,Child:21;Child:13
+61,Male,Good,Married,Whole Life,4,1 Claim,,3747,50758,None
+68,Male,Excellent,Widowed,Term Life,3,2 Claims,104381.0,2509,46924,Sibling:54;Sibling:77
+41,Male,Good,Divorced,Health Insurance,0,No Claims,12757.0,315,6152,Spouse:32;Child:1;Parent:51;Spouse:58
+34,Female,Fair,Married,Term Life,1,1 Claim,43307.0,1164,24158,None
+36,Male,Fair,Married,None,0,3+ Claims,24938.0,657,8761,Spouse:31;Child:20;Sibling:62
+40,Male,Excellent,Divorced,None,3,3+ Claims,101108.0,3676,42977,Parent:58;Sibling:58;Spouse:45;Spouse:51
+48,Male,Fair,Widowed,Term Life,2,1 Claim,74563.0,1739,20752,Child:24
+43,Male,Fair,Married,Endowment,2,1 Claim,77814.0,2947,50393,Sibling:72;Spouse:56;Spouse:48;Sibling:50
+32,Male,Excellent,Divorced,Endowment,4,2 Claims,54934.0,2760,45049,Child:14
+55,Female,Excellent,Widowed,ULIP,1,3+ Claims,,3702,46668,Child:3;Parent:51;Parent:73
+45,Male,Good,Widowed,None,1,No Claims,92214.0,3696,51155,Parent:51
+41,Female,Excellent,Married,ULIP,4,2 Claims,66690.0,3504,65047,None
+47,Female,Fair,Single,None,0,1 Claim,111359.0,2923,48950,Sibling:65;Parent:75;Parent:53;Sibling:57
+61,Female,Good,Single,Term Life,2,3+ Claims,94706.0,2546,36930,None
+40,Female,Poor,Married,Endowment,2,1 Claim,40797.0,1697,30016,None
+30,Female,Good,Widowed,Endowment,1,1 Claim,62000.0,2905,51582,None
+32,Male,Excellent,Married,Term Life,1,1 Claim,72348.0,2745,29688,Parent:74;Child:7;Spouse:41
+49,Male,Excellent,Divorced,ULIP,4,2 Claims,76335.0,1731,25850,Child:17;Child:8;Spouse:25;Child:16
+42,Male,Good,Single,ULIP,3,No Claims,63770.0,3274,35262,None
+49,Female,Fair,Divorced,Whole Life,0,No Claims,114287.0,3454,39747,Spouse:32;Child:16
+36,Male,Fair,Married,None,3,3+ Claims,42282.0,1317,20058,Sibling:59;Sibling:78;Parent:71;Sibling:46
+39,Male,Excellent,Married,ULIP,3,1 Claim,13725.0,433,5917,Spouse:29
+50,Female,Excellent,Widowed,Term Life,1,No Claims,112381.0,4074,47901,Parent:48;Child:15
+65,Female,Excellent,Widowed,ULIP,1,1 Claim,70479.0,2505,42825,Sibling:61;Parent:65;Sibling:67;Parent:77
+69,Female,Good,Widowed,Endowment,1,3+ Claims,93267.0,4121,46006,Spouse:39
+50,Female,Excellent,Divorced,None,3,1 Claim,72451.0,3308,47713,None
+56,Male,Good,Widowed,Health Insurance,0,No Claims,110634.0,2139,31677,Spouse:54;Child:23;Parent:78
+34,Female,Good,Married,Whole Life,1,1 Claim,92697.0,3004,53251,Spouse:33;Child:18;Parent:48;Child:2
+40,Female,Poor,Widowed,None,2,No Claims,44152.0,1838,38359,Spouse:51;Child:1;Parent:76
+31,Male,Good,Single,Endowment,0,3+ Claims,88138.0,2920,38185,None
+41,Male,Excellent,Widowed,Endowment,2,1 Claim,97768.0,4297,71707,Sibling:71;Spouse:52;Parent:47
+47,Female,Good,Divorced,Endowment,0,No Claims,,4185,49407,Parent:52;Child:12;Spouse:46
+50,Male,Good,Single,Endowment,1,3+ Claims,98650.0,3676,78046,Sibling:62;Sibling:45;Child:12
+45,Female,Good,Single,Term Life,4,1 Claim,95656.0,1851,37355,None
+46,Female,Poor,Single,Whole Life,1,3+ Claims,70951.0,2781,33452,Spouse:41
+31,Male,Fair,Divorced,Health Insurance,3,No Claims,57848.0,2987,45103,Sibling:51;Spouse:33
+38,Male,Excellent,Married,Endowment,3,1 Claim,79786.0,2507,27423,None
+39,Female,Excellent,Widowed,Endowment,0,1 Claim,36429.0,1724,34256,Child:8
+31,Female,Good,Single,ULIP,3,1 Claim,53923.0,1447,20056,None
+33,Female,Fair,Single,Whole Life,1,3+ Claims,38992.0,1661,24504,Spouse:55;Spouse:36;Spouse:26
+32,Male,Excellent,Single,None,2,3+ Claims,90471.0,3769,52559,Child:14;Child:7;Child:13
+47,Female,Good,Married,Whole Life,1,No Claims,69688.0,3106,45490,Sibling:45;Parent:79;Spouse:54;Parent:75
+53,Female,Good,Married,Whole Life,0,2 Claims,88527.0,4264,82636,None
+42,Female,Excellent,Divorced,Health Insurance,3,1 Claim,67631.0,1979,33119,Spouse:34;Spouse:58
+55,Female,Good,Married,Whole Life,2,1 Claim,79330.0,2018,26283,Spouse:56;Child:14;Sibling:55
+54,Female,Poor,Widowed,Health Insurance,4,No Claims,88219.0,3449,58821,Child:4;Spouse:26;Parent:78;Spouse:46
+63,Male,Excellent,Divorced,Endowment,2,1 Claim,78387.0,2251,27155,Spouse:33;Sibling:64;Spouse:45;Child:17
+59,Female,Good,Divorced,Endowment,2,3+ Claims,85030.0,3334,44967,Sibling:72;Sibling:62;Sibling:47
+42,Female,Good,Widowed,Term Life,1,3+ Claims,67883.0,1238,18360,Spouse:38;Sibling:70;Sibling:63;Child:9
+66,Female,Fair,Widowed,Health Insurance,4,1 Claim,87535.0,2173,27950,None
+63,Female,Poor,Widowed,Health Insurance,0,1 Claim,100821.0,3894,63492,Parent:48
+41,Male,Good,Divorced,None,0,3+ Claims,62060.0,2449,32101,Child:3
+38,Male,Fair,Divorced,ULIP,2,1 Claim,100222.0,2418,36556,None
+55,Male,Good,Divorced,Whole Life,2,3+ Claims,97579.0,2917,31333,Child:1;Parent:59;Parent:59;Sibling:75
+48,Female,Good,Widowed,None,3,2 Claims,51013.0,1224,15329,Child:10;Spouse:31
+59,Female,Excellent,Widowed,Health Insurance,4,2 Claims,100017.0,3195,56305,None
+68,Male,Excellent,Single,None,2,1 Claim,84210.0,2105,20013,Child:23;Parent:60;Sibling:52;Sibling:66
+69,Male,Excellent,Married,Term Life,3,1 Claim,101713.0,3247,46586,Sibling:72
+58,Male,Good,Single,ULIP,4,1 Claim,73376.0,3206,41254,Spouse:31;Spouse:52;Parent:46
+27,Female,Excellent,Widowed,Health Insurance,0,3+ Claims,13111.0,605,7437,None
+61,Female,Poor,Divorced,Health Insurance,3,2 Claims,90565.0,2039,37327,Sibling:45
+67,Male,Excellent,Widowed,Whole Life,4,2 Claims,68311.0,2965,40897,Child:10;Sibling:67
+64,Male,Excellent,Married,ULIP,3,No Claims,102394.0,4143,61058,None
+50,Male,Good,Single,Term Life,2,No Claims,83495.0,2852,47595,None
+47,Female,Fair,Single,Endowment,1,1 Claim,64922.0,1815,37131,Child:13;Child:19;Spouse:31;Sibling:70
+68,Female,Excellent,Divorced,None,0,3+ Claims,134510.0,4388,43631,Parent:70
+63,Female,Good,Single,Whole Life,2,1 Claim,68214.0,1996,27806,Sibling:76;Sibling:45
+39,Male,Poor,Single,Health Insurance,2,2 Claims,56513.0,2315,31046,None
+28,Male,Excellent,Widowed,Endowment,4,1 Claim,35586.0,1440,21393,Parent:57;Parent:70;Sibling:53;Parent:67
+53,Female,Good,Single,Term Life,3,1 Claim,123826.0,3658,57653,None
+46,Male,Fair,Single,ULIP,0,2 Claims,103044.0,4083,68733,Child:11
+49,Female,Excellent,Single,None,2,2 Claims,50557.0,1758,25354,Spouse:55;Parent:49;Child:5
+37,Male,Good,Divorced,Whole Life,4,2 Claims,50488.0,955,20093,None
+42,Male,Good,Divorced,Health Insurance,0,2 Claims,56166.0,1449,22133,Spouse:56
+57,Male,Good,Widowed,Health Insurance,3,No Claims,75985.0,3213,46231,Parent:55
+40,Male,Excellent,Single,Endowment,2,3+ Claims,49144.0,2468,39949,None
+69,Female,Excellent,Divorced,Endowment,2,3+ Claims,,4333,36399,Spouse:56;Sibling:79
+66,Male,Good,Divorced,None,2,2 Claims,116097.0,5448,74967,Parent:49
+68,Female,Excellent,Widowed,ULIP,0,3+ Claims,136938.0,4048,55942,Child:8;Child:16;Spouse:42;Child:16
+26,Female,Fair,Married,Term Life,0,3+ Claims,25112.0,827,8864,None
+59,Female,Good,Single,ULIP,0,3+ Claims,68177.0,1894,27249,Child:21;Parent:78;Spouse:48
+66,Male,Good,Divorced,ULIP,0,3+ Claims,100271.0,2430,23187,Child:15;Sibling:58;Parent:73;Child:3
+58,Female,Fair,Widowed,ULIP,4,2 Claims,56393.0,2764,29240,Child:11;Child:12;Parent:59
+54,Female,Good,Widowed,None,1,1 Claim,88788.0,4773,52624,Parent:68
+37,Female,Excellent,Widowed,None,4,1 Claim,77802.0,3928,70956,None
+37,Male,Poor,Divorced,Term Life,2,1 Claim,81013.0,3052,29205,Spouse:31
+42,Male,Excellent,Single,ULIP,4,No Claims,82242.0,2235,27799,Parent:46
+56,Female,Excellent,Married,None,3,3+ Claims,75295.0,2166,38776,None
+56,Male,Fair,Single,Term Life,0,2 Claims,82366.0,2834,39550,Child:2;Child:7;Sibling:69
+59,Female,Good,Widowed,Health Insurance,3,2 Claims,65409.0,2905,35853,Parent:71;Child:17;Sibling:48
+63,Female,Good,Widowed,Term Life,3,No Claims,102286.0,3432,35606,Spouse:59;Spouse:46;Spouse:59;Child:12
+53,Male,Excellent,Married,ULIP,2,2 Claims,115067.0,5129,101642,Child:20;Spouse:45;Sibling:57;Spouse:35
+53,Female,Good,Single,Whole Life,0,1 Claim,92244.0,4289,46890,None
+68,Male,Excellent,Widowed,ULIP,3,No Claims,84099.0,2123,34420,Parent:71;Child:12;Child:20;Parent:74
+40,Male,Poor,Widowed,Whole Life,2,2 Claims,89895.0,2372,41593,Child:16
+68,Female,Excellent,Single,Term Life,0,No Claims,145312.0,5602,93667,Parent:53;Spouse:34
+34,Male,Fair,Widowed,Health Insurance,1,No Claims,68862.0,1911,23511,Spouse:36;Child:8;Child:3
+54,Male,Good,Single,Health Insurance,2,2 Claims,95089.0,3614,70798,Spouse:35;Parent:52
+49,Female,Fair,Widowed,None,4,1 Claim,92554.0,3837,53871,Spouse:47
+63,Female,Fair,Single,Health Insurance,0,2 Claims,60910.0,1510,26841,Parent:62
+44,Male,Good,Married,Endowment,3,3+ Claims,65777.0,2437,34037,Sibling:70;Spouse:35;Parent:54
+29,Male,Good,Widowed,Term Life,3,3+ Claims,48722.0,1387,28474,Parent:51;Parent:48
+25,Female,Excellent,Married,None,4,2 Claims,71697.0,3654,47845,Child:8;Child:8;Sibling:57;Sibling:56
+54,Male,Excellent,Widowed,Health Insurance,4,1 Claim,98367.0,2128,41684,Parent:46;Child:15
+27,Male,Fair,Widowed,Term Life,3,3+ Claims,54585.0,2358,47367,None
+69,Male,Fair,Divorced,ULIP,0,3+ Claims,87522.0,3701,41733,Parent:70
+38,Male,Good,Single,Health Insurance,2,2 Claims,34268.0,1358,25624,Child:16;Child:19;Sibling:78;Parent:48
+54,Male,Excellent,Married,Whole Life,4,2 Claims,83691.0,1806,18880,Parent:71
+28,Male,Good,Married,Term Life,4,2 Claims,38908.0,1470,26050,Child:22
+42,Male,Good,Married,None,4,No Claims,50429.0,1571,19603,Child:5;Spouse:42;Sibling:48;Spouse:25
+61,Female,Good,Single,ULIP,1,No Claims,109525.0,3566,62821,Child:20
+49,Female,Fair,Divorced,Endowment,0,No Claims,95438.0,3979,73591,Parent:64;Child:14;Spouse:51
+25,Female,Poor,Married,ULIP,0,2 Claims,45228.0,1885,23523,Sibling:76
+39,Female,Excellent,Single,Health Insurance,0,1 Claim,37619.0,1874,32848,Child:18
+33,Female,Good,Widowed,Whole Life,0,3+ Claims,46483.0,1458,21079,None
+39,Male,Good,Married,ULIP,0,No Claims,88865.0,4575,53258,Parent:54;Spouse:48;Child:24
+48,Male,Good,Married,Endowment,3,1 Claim,87354.0,2097,29892,Parent:69;Parent:52;Child:23;Spouse:38
+28,Male,Excellent,Divorced,None,4,2 Claims,48563.0,2114,42590,Parent:75;Sibling:68
+36,Male,Excellent,Married,Term Life,3,No Claims,67175.0,3105,39291,Spouse:39;Parent:58;Child:21
+61,Female,Fair,Married,Whole Life,1,2 Claims,49503.0,1388,23510,Child:2;Spouse:32;Parent:63
+61,Male,Good,Widowed,Endowment,2,1 Claim,47989.0,1405,27169,Parent:71;Spouse:37;Spouse:56;Spouse:55
+67,Male,Good,Single,Health Insurance,4,No Claims,136542.0,5419,99330,None
+30,Female,Poor,Single,Health Insurance,1,No Claims,70130.0,1367,29326,Sibling:46;Sibling:51;Sibling:55;Child:11
+63,Male,Fair,Divorced,Health Insurance,3,No Claims,93033.0,3228,56999,Sibling:52;Sibling:76;Sibling:65
+48,Male,Excellent,Widowed,Whole Life,2,No Claims,,2616,41496,None
+35,Female,Good,Single,ULIP,1,1 Claim,29763.0,1304,25319,Parent:55;Sibling:73;Spouse:28;Sibling:59
+37,Male,Good,Widowed,Whole Life,2,No Claims,86864.0,4099,67870,Child:3;Child:24
+58,Male,Fair,Single,Health Insurance,1,3+ Claims,65262.0,2920,26350,Sibling:73;Spouse:45
+49,Male,Fair,Widowed,Endowment,3,3+ Claims,93083.0,3795,54197,Spouse:30
+31,Male,Good,Divorced,Term Life,2,2 Claims,63640.0,2751,47706,None
+28,Male,Good,Married,Term Life,1,No Claims,56958.0,1700,25652,Parent:46;Spouse:36;Parent:49;Parent:64
+32,Female,Fair,Divorced,Whole Life,3,3+ Claims,35952.0,1128,15175,None
+44,Female,Excellent,Single,Health Insurance,4,3+ Claims,48218.0,1596,19745,Spouse:27;Spouse:55
+53,Female,Excellent,Divorced,None,3,3+ Claims,90798.0,4741,66455,Parent:49;Child:16;Sibling:75
+69,Female,Good,Married,Whole Life,3,1 Claim,100584.0,3465,57156,Child:7;Spouse:33;Spouse:59
+34,Female,Excellent,Divorced,Health Insurance,4,No Claims,64943.0,2602,27328,Parent:71;Sibling:56
+67,Female,Excellent,Single,ULIP,3,1 Claim,102720.0,3806,63390,Spouse:49;Sibling:73;Child:2;Sibling:77
+58,Male,Fair,Single,Term Life,4,1 Claim,49265.0,1681,28368,Child:24;Spouse:26
+50,Female,Poor,Divorced,Term Life,4,3+ Claims,100302.0,4055,62104,Spouse:48;Parent:49;Child:2;Child:23
+65,Female,Good,Married,Term Life,4,3+ Claims,87882.0,2490,36091,Sibling:74;Parent:60
+27,Male,Excellent,Divorced,None,1,2 Claims,80392.0,2414,25675,Parent:78;Parent:55;Child:14
+30,Male,Excellent,Married,Health Insurance,2,No Claims,19833.0,829,12069,Spouse:31;Spouse:53
+29,Female,Excellent,Widowed,Health Insurance,1,No Claims,70380.0,2732,47363,Sibling:66;Sibling:67;Child:24
+29,Male,Excellent,Married,Health Insurance,4,3+ Claims,70191.0,2541,38488,Spouse:34;Parent:52
+47,Female,Poor,Widowed,Health Insurance,2,3+ Claims,47277.0,1348,21448,Spouse:53;Sibling:73;Spouse:47
+33,Male,Excellent,Divorced,None,2,No Claims,50214.0,1778,25505,Parent:76
+59,Female,Good,Married,Endowment,4,2 Claims,67809.0,3294,51179,Sibling:50;Child:8;Spouse:41
+44,Male,Excellent,Widowed,Whole Life,2,3+ Claims,91264.0,4181,48319,Spouse:46;Child:14;Child:2
+66,Male,Fair,Widowed,Whole Life,2,2 Claims,102177.0,2547,50228,Parent:50;Spouse:42
+59,Female,Fair,Widowed,Health Insurance,1,1 Claim,120976.0,5462,76822,Sibling:59;Spouse:33;Parent:50
+42,Female,Poor,Single,ULIP,2,3+ Claims,76059.0,2700,32076,Sibling:60
+41,Female,Fair,Divorced,Term Life,4,1 Claim,85644.0,3674,40827,Sibling:45;Sibling:74;Parent:77
+48,Female,Good,Widowed,None,0,3+ Claims,101440.0,4004,59460,None
+27,Female,Excellent,Married,ULIP,0,1 Claim,68088.0,1813,16296,None
+56,Male,Good,Widowed,ULIP,0,3+ Claims,78316.0,1722,18787,Spouse:46
+59,Female,Good,Single,Health Insurance,4,2 Claims,77594.0,3683,40526,Sibling:79;Child:8;Parent:71
+62,Female,Good,Divorced,None,0,2 Claims,90405.0,3330,30981,Sibling:48;Parent:49;Child:14
+37,Male,Excellent,Single,Whole Life,1,2 Claims,82931.0,3561,49052,None
+49,Male,Excellent,Single,Term Life,4,1 Claim,63677.0,2438,25768,Sibling:71;Spouse:48;Parent:74
+33,Female,Good,Single,Whole Life,4,2 Claims,76043.0,2146,31331,Sibling:58
+28,Male,Good,Married,ULIP,4,1 Claim,64452.0,1608,34784,Sibling:66;Parent:70
+38,Male,Fair,Divorced,Term Life,2,3+ Claims,42933.0,2016,31074,Child:6;Parent:49;Spouse:42
+61,Female,Excellent,Divorced,Endowment,2,1 Claim,103070.0,2957,37675,None
+58,Male,Good,Married,ULIP,2,3+ Claims,90838.0,3816,42022,Child:14;Spouse:56;Spouse:29
+35,Male,Excellent,Divorced,Whole Life,3,No Claims,53989.0,1593,26812,Parent:56;Sibling:62;Child:4
+65,Female,Excellent,Single,Whole Life,1,No Claims,97548.0,3947,47116,Spouse:44;Sibling:51;Sibling:67;Sibling:78
+27,Female,Good,Divorced,Health Insurance,4,No Claims,46766.0,1231,12561,Child:18;Sibling:76;Parent:65;Spouse:30
+52,Male,Excellent,Married,Whole Life,4,1 Claim,86953.0,2497,34550,Sibling:64;Spouse:35
+53,Male,Excellent,Single,None,2,No Claims,79640.0,3484,56369,Child:7;Spouse:55;Sibling:61
+33,Female,Good,Married,ULIP,4,No Claims,32401.0,1287,17962,None
+27,Male,Excellent,Widowed,Term Life,4,No Claims,54239.0,1497,15099,None
+49,Male,Excellent,Single,Whole Life,0,3+ Claims,70146.0,3345,62511,Child:16;Child:3;Child:5;Child:23
+58,Male,Excellent,Single,Health Insurance,4,2 Claims,100711.0,2797,29040,None
+36,Female,Excellent,Divorced,Health Insurance,3,1 Claim,83595.0,3057,52821,Child:1;Spouse:33;Sibling:57
+66,Male,Excellent,Single,Whole Life,2,No Claims,85819.0,2153,32193,Spouse:55;Sibling:52;Child:8
+33,Male,Good,Married,None,1,3+ Claims,47212.0,1548,20472,Child:2;Parent:67;Parent:54
+39,Female,Excellent,Divorced,Health Insurance,1,2 Claims,35396.0,1130,17844,Spouse:49;Spouse:57;Sibling:48;Sibling:51
+64,Male,Excellent,Widowed,Term Life,0,2 Claims,77719.0,2094,42944,None
+49,Male,Good,Married,ULIP,1,2 Claims,72534.0,3050,61801,Parent:76
+29,Female,Good,Widowed,Endowment,1,3+ Claims,32214.0,942,16055,Parent:61;Sibling:56;Spouse:36;Sibling:79
+35,Female,Fair,Widowed,None,2,No Claims,82862.0,3747,57884,Spouse:45;Sibling:46;Child:21;Child:21
+58,Female,Fair,Widowed,Health Insurance,2,2 Claims,93243.0,2115,38143,Spouse:34;Spouse:42
+48,Female,Fair,Single,ULIP,3,3+ Claims,75591.0,2389,39743,Spouse:26
+39,Male,Good,Married,Endowment,0,3+ Claims,68666.0,1407,25758,Parent:67
+62,Male,Good,Married,Whole Life,1,1 Claim,98120.0,3435,42136,Parent:69;Sibling:75;Parent:46;Sibling:46
+32,Female,Good,Single,Whole Life,3,3+ Claims,74661.0,2767,32826,Sibling:55
+29,Female,Excellent,Divorced,Term Life,0,2 Claims,75180.0,3434,69510,Sibling:79;Spouse:33;Child:15;Parent:58
+50,Male,Excellent,Widowed,Endowment,1,2 Claims,73817.0,2592,52788,Sibling:61;Child:22
+42,Female,Excellent,Married,Whole Life,1,3+ Claims,69161.0,2980,29819,Sibling:74;Spouse:41;Sibling:60
+30,Male,Poor,Single,Whole Life,2,2 Claims,63459.0,2671,28457,Parent:52;Child:7;Spouse:55
+61,Female,Good,Widowed,Health Insurance,4,3+ Claims,87344.0,1737,34770,Sibling:77;Parent:56;Parent:69
+37,Male,Fair,Divorced,Term Life,0,2 Claims,84446.0,2334,34471,Spouse:43
+52,Female,Good,Divorced,ULIP,1,1 Claim,106546.0,3802,61241,Parent:79;Parent:49
+29,Female,Good,Widowed,Whole Life,0,No Claims,65881.0,2775,29708,Parent:71;Parent:65
+37,Male,Excellent,Divorced,None,3,1 Claim,48836.0,1000,19502,Sibling:69;Spouse:57;Child:17
+41,Female,Excellent,Married,None,3,1 Claim,81168.0,3177,38413,Child:9;Parent:48
+64,Male,Fair,Married,ULIP,4,No Claims,101673.0,3444,45809,Sibling:53
+69,Male,Good,Married,Endowment,1,2 Claims,79159.0,2737,35810,None
+56,Male,Good,Divorced,Term Life,2,No Claims,93651.0,3077,54436,Parent:49;Parent:68;Sibling:68;Spouse:53
+53,Male,Fair,Married,Health Insurance,1,3+ Claims,72116.0,2885,44220,Child:13
+27,Male,Excellent,Single,None,0,No Claims,71921.0,1328,28909,Sibling:63;Child:23;Sibling:79;Sibling:50
+64,Female,Poor,Married,None,3,1 Claim,104005.0,2144,28672,Parent:74;Spouse:25;Child:8;Spouse:52
+58,Female,Good,Married,ULIP,0,No Claims,92459.0,4029,76783,None
+64,Male,Good,Divorced,Endowment,4,2 Claims,94770.0,2555,45481,None
+51,Female,Good,Married,Endowment,3,1 Claim,38332.0,1080,19588,Parent:58;Sibling:55;Child:2;Spouse:54
+37,Male,Excellent,Widowed,ULIP,2,3+ Claims,42714.0,1272,23818,Child:13;Child:7;Child:6
+69,Female,Excellent,Single,None,3,2 Claims,96383.0,3019,45762,Spouse:33;Child:14
+57,Female,Good,Divorced,Term Life,1,1 Claim,117387.0,2772,39644,Spouse:35;Sibling:58;Spouse:43
+30,Female,Fair,Single,None,1,3+ Claims,,2328,38472,Parent:51;Child:7
+48,Female,Fair,Widowed,Endowment,3,2 Claims,114280.0,3792,73652,Parent:47;Parent:62
+43,Male,Excellent,Divorced,Health Insurance,4,3+ Claims,74659.0,2310,40666,Sibling:77;Sibling:72;Spouse:40;Spouse:39
+40,Male,Good,Divorced,None,1,No Claims,69382.0,3372,39659,Child:18;Parent:63;Sibling:73;Sibling:50
+64,Female,Excellent,Married,Term Life,1,No Claims,122502.0,3456,62630,Child:18;Sibling:71;Parent:51;Parent:71
+52,Female,Excellent,Single,Whole Life,2,3+ Claims,78815.0,2521,34962,Child:17;Parent:55
+57,Male,Good,Widowed,None,3,No Claims,67270.0,2312,28177,Spouse:26;Parent:56;Spouse:35;Sibling:54
+65,Female,Good,Widowed,ULIP,1,3+ Claims,101335.0,2699,47911,Spouse:31;Child:14;Child:13
+37,Male,Excellent,Divorced,Whole Life,4,2 Claims,89450.0,4718,51994,Child:19;Child:10;Child:8;Parent:45
+67,Male,Excellent,Married,ULIP,0,1 Claim,80481.0,3236,42117,Sibling:55;Spouse:34;Spouse:39;Sibling:73
+69,Male,Poor,Divorced,ULIP,3,3+ Claims,110780.0,2994,47221,None
+49,Female,Excellent,Divorced,ULIP,2,1 Claim,77135.0,2714,51062,Child:17;Child:15
+66,Male,Good,Divorced,None,1,1 Claim,105026.0,2306,22975,Spouse:43
+60,Female,Good,Divorced,Endowment,4,3+ Claims,96270.0,5583,67691,Child:21
+51,Male,Excellent,Widowed,Whole Life,3,No Claims,72713.0,2335,34158,Parent:47;Parent:78
+62,Female,Excellent,Widowed,Term Life,4,2 Claims,89876.0,3592,38353,Parent:59
+31,Female,Good,Divorced,Endowment,4,1 Claim,53935.0,1238,12516,None
+29,Female,Fair,Divorced,None,2,2 Claims,61374.0,1485,20842,Sibling:59
+67,Male,Good,Married,ULIP,3,1 Claim,80078.0,2454,31413,None
+69,Male,Good,Divorced,Term Life,1,3+ Claims,86858.0,2769,38337,Sibling:75
+55,Female,Poor,Widowed,Whole Life,2,No Claims,76720.0,2887,55060,Parent:62
+47,Female,Fair,Single,Endowment,1,2 Claims,84834.0,3948,74529,Sibling:57;Parent:58
+66,Female,Good,Widowed,Health Insurance,0,1 Claim,67689.0,2042,38541,Child:4;Sibling:62
+34,Male,Good,Married,Endowment,4,3+ Claims,61857.0,2500,35829,Parent:58;Sibling:69;Spouse:36;Spouse:52
+56,Male,Good,Widowed,Term Life,0,3+ Claims,71835.0,3175,53737,Parent:45;Parent:47
+67,Male,Good,Single,None,4,1 Claim,88771.0,3937,69680,Parent:51;Spouse:33
+54,Male,Good,Divorced,Whole Life,2,1 Claim,70796.0,1444,23633,Sibling:67;Spouse:48;Parent:54
+63,Female,Good,Single,Term Life,1,1 Claim,96891.0,3991,36383,Parent:56
+55,Female,Excellent,Divorced,ULIP,1,No Claims,81857.0,3948,45300,Parent:76;Parent:68
+42,Male,Good,Divorced,Whole Life,2,1 Claim,86232.0,4273,63107,Parent:71;Parent:63
+60,Male,Excellent,Widowed,Endowment,3,1 Claim,98034.0,4003,66228,None
+26,Female,Excellent,Widowed,Term Life,0,No Claims,25259.0,964,19904,Child:19;Child:17
+38,Male,Excellent,Widowed,Endowment,0,3+ Claims,48800.0,1344,17759,Child:2;Spouse:53;Sibling:55;Parent:78
+37,Male,Good,Married,Endowment,1,1 Claim,63537.0,2010,23399,Child:4;Spouse:25;Sibling:69
+53,Male,Good,Widowed,Endowment,1,2 Claims,,1998,26951,Parent:55
+36,Male,Excellent,Married,None,1,3+ Claims,48564.0,2183,36394,Parent:63
+63,Male,Good,Widowed,Endowment,2,2 Claims,119079.0,4128,58837,Sibling:48;Sibling:60;Sibling:71;Spouse:29
+26,Male,Good,Divorced,ULIP,3,1 Claim,73293.0,3455,43687,None
+56,Female,Excellent,Married,ULIP,0,No Claims,53105.0,2542,30406,Child:18;Parent:70
+37,Male,Good,Single,Whole Life,4,No Claims,73908.0,3779,48393,Child:12;Sibling:61
+51,Male,Fair,Married,Health Insurance,2,No Claims,80084.0,2405,45409,Parent:71
+65,Female,Fair,Married,Endowment,0,1 Claim,119877.0,3291,54748,Parent:50;Child:19;Child:3
+41,Female,Good,Single,Endowment,3,1 Claim,39602.0,2060,18812,Parent:47;Spouse:28;Sibling:48
+64,Female,Good,Married,Term Life,2,2 Claims,135197.0,3938,47436,Child:7;Parent:65;Child:12
+55,Male,Excellent,Divorced,None,0,No Claims,68141.0,1779,24878,Parent:60
+58,Female,Excellent,Widowed,Health Insurance,2,1 Claim,95570.0,2468,25323,Spouse:57;Child:9
+48,Male,Excellent,Single,Whole Life,0,3+ Claims,65872.0,2441,35848,Parent:61;Child:1;Parent:56;Sibling:55
+69,Male,Poor,Widowed,Health Insurance,0,1 Claim,91476.0,1993,35428,Parent:75;Parent:57;Parent:70;Parent:75
+59,Male,Excellent,Divorced,Endowment,3,1 Claim,55211.0,2698,32933,Sibling:65;Spouse:34;Sibling:63
+30,Female,Excellent,Single,Term Life,4,3+ Claims,83937.0,3655,80765,Spouse:50;Spouse:31
+43,Female,Fair,Widowed,None,3,No Claims,67607.0,2735,45309,Sibling:52;Child:5;Spouse:52;Sibling:47
+54,Female,Poor,Widowed,Whole Life,0,3+ Claims,79966.0,1702,32625,Parent:71;Sibling:60;Spouse:50;Child:13
+31,Female,Fair,Divorced,Health Insurance,2,No Claims,107249.0,5844,89199,Child:12;Child:4;Parent:56;Sibling:61
+34,Female,Excellent,Widowed,Whole Life,3,3+ Claims,83188.0,4536,70229,Sibling:70
+65,Male,Excellent,Divorced,Endowment,4,2 Claims,81632.0,3908,41598,Child:2;Parent:73;Child:9
+56,Male,Good,Married,Whole Life,0,No Claims,73794.0,3478,57362,Spouse:28;Sibling:68;Parent:61
+58,Male,Excellent,Divorced,Term Life,3,1 Claim,93196.0,3606,65793,Child:20;Parent:61;Spouse:51;Spouse:57
+52,Male,Excellent,Married,Whole Life,3,2 Claims,97414.0,1863,29386,Sibling:61;Parent:66;Child:3;Child:14
+39,Female,Good,Single,ULIP,3,No Claims,104048.0,3760,67855,Child:15;Sibling:64;Spouse:46
+54,Female,Poor,Widowed,Term Life,3,No Claims,51838.0,996,14078,Child:4
+61,Male,Good,Divorced,Health Insurance,2,No Claims,105540.0,3370,59633,Sibling:57;Sibling:76;Sibling:66;Sibling:69
+53,Female,Good,Divorced,None,4,3+ Claims,100753.0,4692,92036,Sibling:61;Sibling:50
+46,Female,Good,Widowed,None,4,No Claims,60209.0,2058,36416,Spouse:40;Spouse:32
+28,Male,Excellent,Widowed,Endowment,0,1 Claim,50794.0,1415,21797,Child:1;Parent:54;Spouse:58;Parent:63
+44,Male,Good,Single,Endowment,1,No Claims,41393.0,1808,29704,Child:23;Spouse:47
+56,Female,Excellent,Single,ULIP,2,1 Claim,75982.0,3942,45941,Spouse:30;Child:2
+60,Female,Excellent,Divorced,Health Insurance,0,1 Claim,94641.0,2554,31856,None
+28,Male,Fair,Single,None,0,1 Claim,89882.0,3774,47237,Child:23;Parent:62
+51,Male,Excellent,Married,None,3,2 Claims,114727.0,4131,59093,None
+41,Male,Poor,Single,None,1,1 Claim,50414.0,1539,30780,Parent:75
+36,Female,Excellent,Single,None,1,3+ Claims,95157.0,2551,52213,Child:22;Spouse:52
+46,Male,Good,Divorced,Whole Life,2,No Claims,37013.0,956,10095,None
+41,Male,Good,Married,Health Insurance,1,3+ Claims,59301.0,1749,28126,Sibling:66
+34,Female,Excellent,Single,Term Life,0,2 Claims,57963.0,1368,20275,Parent:63
+25,Female,Excellent,Married,Term Life,1,No Claims,60035.0,3253,40612,None
+46,Female,Good,Married,ULIP,1,1 Claim,78130.0,2911,48056,Child:19
+50,Female,Fair,Married,Whole Life,4,No Claims,87313.0,4576,57612,Spouse:25;Spouse:26;Parent:66
+42,Female,Fair,Widowed,None,0,2 Claims,68340.0,2695,57642,None
+38,Male,Good,Widowed,None,1,2 Claims,87191.0,1973,36919,Parent:66
+53,Male,Fair,Widowed,Endowment,1,3+ Claims,96836.0,4542,82538,None
+36,Female,Good,Widowed,Endowment,3,No Claims,60208.0,2653,36496,None
+60,Female,Fair,Divorced,ULIP,1,No Claims,106847.0,3519,39358,Sibling:48;Parent:51
+59,Female,Good,Single,None,1,No Claims,130368.0,3124,44100,Sibling:51;Child:4;Parent:56;Sibling:71
+36,Female,Good,Widowed,ULIP,4,3+ Claims,52534.0,2054,36520,Parent:61;Child:20
+31,Female,Fair,Divorced,Whole Life,0,2 Claims,94506.0,4222,72473,Child:3;Sibling:53;Spouse:29;Child:20
+53,Male,Good,Single,Term Life,2,1 Claim,71330.0,3253,46816,Child:16;Child:19;Child:16;Spouse:42
+35,Male,Fair,Widowed,None,0,No Claims,93206.0,1945,35647,Child:18;Spouse:38;Parent:60
+57,Male,Good,Single,Health Insurance,3,3+ Claims,,1854,26801,Spouse:25;Sibling:55;Parent:55;Spouse:26
+30,Male,Excellent,Widowed,Whole Life,0,3+ Claims,75313.0,2989,33532,Spouse:29;Spouse:27
+39,Female,Excellent,Divorced,None,1,1 Claim,72592.0,2909,52891,Spouse:50;Spouse:47;Spouse:54
+56,Male,Good,Married,Health Insurance,3,2 Claims,50294.0,1018,18729,Sibling:73;Sibling:57;Sibling:69
+35,Female,Good,Married,Endowment,0,No Claims,103311.0,3575,39987,None
+47,Female,Fair,Single,ULIP,3,No Claims,59090.0,2168,30736,Spouse:31;Parent:67;Sibling:50;Child:15
+50,Female,Excellent,Divorced,Endowment,2,3+ Claims,54608.0,2150,30361,Child:14
+58,Male,Fair,Married,Term Life,0,2 Claims,75211.0,1892,25632,Spouse:40;Parent:73;Sibling:67;Spouse:34
+58,Female,Fair,Widowed,Endowment,1,No Claims,138624.0,5254,90489,Parent:56;Child:10;Sibling:78
+53,Male,Excellent,Married,None,3,1 Claim,57925.0,2576,40256,Spouse:44;Spouse:52;Parent:72
+28,Male,Fair,Single,Health Insurance,4,2 Claims,61564.0,3056,33266,Spouse:25;Spouse:43
+41,Female,Poor,Single,Endowment,3,2 Claims,48536.0,1443,16582,None
+59,Female,Fair,Divorced,None,4,3+ Claims,69965.0,1838,38989,None
+37,Female,Fair,Single,Term Life,1,3+ Claims,,1455,30727,Sibling:52;Child:18;Child:22;Parent:79
+65,Male,Poor,Married,Health Insurance,2,No Claims,101303.0,3252,56135,Child:20
+63,Female,Good,Married,Endowment,4,3+ Claims,89775.0,3845,37205,Parent:64
+39,Male,Good,Married,ULIP,2,2 Claims,46372.0,1732,30211,Sibling:70
+53,Female,Fair,Married,ULIP,3,No Claims,100464.0,3293,38266,None
+53,Female,Good,Divorced,Health Insurance,1,No Claims,102574.0,3052,68630,Parent:69;Child:18;Spouse:31
+35,Male,Good,Widowed,ULIP,4,2 Claims,73144.0,3226,56940,Sibling:55;Child:5
+56,Male,Excellent,Widowed,Endowment,3,No Claims,109413.0,4459,44974,Sibling:68;Parent:74
+26,Male,Fair,Divorced,Endowment,0,1 Claim,49019.0,1177,16382,Child:20;Spouse:39;Spouse:59
+38,Male,Excellent,Single,Health Insurance,3,1 Claim,74447.0,2473,42869,Spouse:44;Spouse:50
+44,Male,Poor,Widowed,Endowment,2,No Claims,67097.0,2423,30870,Sibling:68;Child:22;Spouse:29
+46,Male,Good,Single,None,1,3+ Claims,45853.0,1611,23521,Spouse:53;Spouse:39;Parent:71
+35,Female,Excellent,Widowed,Term Life,1,1 Claim,69384.0,3067,61752,None
+51,Female,Good,Single,ULIP,3,No Claims,84173.0,2705,38369,Child:19;Sibling:75;Parent:53
+27,Male,Excellent,Divorced,None,0,1 Claim,56396.0,2536,42160,Parent:54
+41,Female,Good,Married,Health Insurance,2,3+ Claims,78477.0,4104,76998,None
+68,Male,Poor,Single,ULIP,3,2 Claims,126238.0,4231,76123,None
+52,Female,Fair,Married,None,3,No Claims,77911.0,2709,39175,None
+53,Female,Excellent,Single,Endowment,1,No Claims,63856.0,3087,44630,Sibling:49;Spouse:47;Spouse:29
+45,Male,Excellent,Single,Health Insurance,2,No Claims,70044.0,1808,18681,Child:8;Spouse:41;Parent:45
+40,Male,Fair,Single,Health Insurance,0,No Claims,67263.0,1249,14343,Parent:56
+61,Male,Poor,Single,ULIP,1,No Claims,110671.0,4838,81261,Parent:58;Sibling:62
+44,Female,Good,Single,Endowment,3,No Claims,76133.0,3703,35661,Spouse:39
+30,Male,Good,Married,ULIP,1,3+ Claims,37036.0,1973,24406,Spouse:57
+43,Female,Good,Single,Whole Life,1,2 Claims,89109.0,2077,20315,Spouse:58;Spouse:49
+29,Male,Fair,Married,None,4,3+ Claims,71902.0,1683,28518,Child:21;Child:19
+27,Female,Good,Divorced,Whole Life,1,3+ Claims,59142.0,1494,18247,Parent:55;Parent:55
+25,Female,Excellent,Widowed,None,1,2 Claims,73964.0,2647,32533,Sibling:71;Parent:62;Spouse:54;Parent:77
+62,Male,Excellent,Single,Term Life,2,3+ Claims,114312.0,4834,47523,Parent:46;Child:13;Spouse:26;Sibling:75
+39,Female,Fair,Widowed,Health Insurance,1,1 Claim,61451.0,1842,28948,Sibling:67
+58,Female,Excellent,Married,ULIP,0,3+ Claims,69996.0,1776,25229,Sibling:77;Parent:75;Sibling:58;Sibling:54
+59,Male,Good,Divorced,Term Life,3,No Claims,88762.0,2949,50514,Sibling:55
+49,Female,Good,Divorced,Term Life,2,1 Claim,89732.0,3916,65999,Child:2;Spouse:32
+48,Male,Excellent,Divorced,Health Insurance,1,1 Claim,75892.0,1710,20301,Child:16;Spouse:26
+36,Male,Excellent,Widowed,Health Insurance,0,2 Claims,46231.0,2102,24326,Child:5;Spouse:31;Sibling:64
+42,Male,Fair,Married,None,3,3+ Claims,75253.0,1992,18728,Sibling:57;Sibling:46;Child:3
+39,Male,Fair,Single,Whole Life,2,3+ Claims,28329.0,1114,18064,None
+68,Female,Fair,Single,Endowment,0,1 Claim,91510.0,4228,70900,Sibling:57
+40,Female,Fair,Married,None,1,3+ Claims,87023.0,3013,35330,None
+51,Female,Good,Widowed,Endowment,4,3+ Claims,99108.0,2526,42733,Parent:67;Spouse:31;Child:17;Sibling:72
+32,Male,Fair,Single,Term Life,4,2 Claims,-13195.0,-405,-5186,Sibling:68;Spouse:31;Sibling:78;Sibling:77
+49,Female,Good,Married,Endowment,2,1 Claim,75148.0,3184,65101,Spouse:51;Spouse:38
+41,Female,Good,Single,Whole Life,0,No Claims,82985.0,2217,43056,Parent:63;Parent:56
+53,Male,Poor,Divorced,None,3,1 Claim,59478.0,2175,41485,Spouse:31;Child:24
+32,Male,Excellent,Single,Health Insurance,0,2 Claims,54560.0,2574,41496,Parent:69;Spouse:39
+39,Female,Good,Widowed,Whole Life,4,2 Claims,93154.0,5268,92992,Sibling:63;Child:23
+51,Male,Good,Married,Whole Life,2,2 Claims,71316.0,2350,53805,Sibling:65;Parent:78
+31,Male,Excellent,Widowed,None,1,3+ Claims,92972.0,3859,64060,Sibling:51;Child:10
+27,Male,Excellent,Married,Health Insurance,0,1 Claim,42176.0,2137,31324,Spouse:51;Spouse:47;Child:6
+53,Male,Fair,Divorced,Whole Life,4,3+ Claims,111197.0,3344,48630,Sibling:64
+68,Female,Poor,Married,Health Insurance,3,3+ Claims,98671.0,3326,37648,Sibling:52;Child:5
+48,Male,Good,Single,ULIP,2,1 Claim,60433.0,1392,22053,Spouse:26;Sibling:66
+27,Male,Excellent,Single,ULIP,1,2 Claims,85264.0,2134,28788,Parent:68;Child:12;Parent:61
+44,Male,Excellent,Divorced,ULIP,0,No Claims,49870.0,2489,46947,Parent:53;Spouse:36
+39,Male,Fair,Married,Endowment,3,No Claims,53080.0,2184,30657,Child:21;Sibling:75;Sibling:61
+49,Male,Good,Divorced,Whole Life,1,1 Claim,88798.0,4199,76149,Child:19
+54,Male,Good,Single,None,4,1 Claim,85616.0,3680,59041,Spouse:50
+38,Male,Good,Widowed,None,4,2 Claims,73479.0,3552,52775,Sibling:64;Sibling:48
+31,Male,Good,Divorced,Endowment,3,1 Claim,53633.0,2033,24298,Sibling:69;Spouse:34;Sibling:66
+41,Female,Good,Widowed,None,4,1 Claim,47012.0,963,15515,Sibling:76
+68,Male,Fair,Widowed,ULIP,2,2 Claims,84954.0,3669,59760,Parent:51;Spouse:32;Sibling:65;Spouse:32
+44,Female,Good,Married,Whole Life,3,2 Claims,100407.0,2702,40660,None
+60,Male,Good,Divorced,None,4,3+ Claims,63260.0,2518,41818,None
+33,Male,Good,Widowed,None,0,1 Claim,95889.0,1515,21260,Spouse:52;Sibling:75;Sibling:69
+62,Male,Fair,Widowed,Term Life,4,No Claims,98317.0,4724,69386,Spouse:36;Spouse:55;Spouse:42
+46,Male,Good,Married,Term Life,2,1 Claim,64063.0,2954,35504,Parent:50
+26,Female,Excellent,Married,Term Life,1,No Claims,15958.0,709,10619,None
+48,Male,Good,Single,Whole Life,1,No Claims,40586.0,1237,19760,Child:23;Sibling:46
+32,Male,Excellent,Widowed,ULIP,4,No Claims,54882.0,2055,36393,Parent:73;Parent:49
+35,Female,Fair,Single,Health Insurance,1,3+ Claims,55459.0,1528,17707,Spouse:31;Child:24;Sibling:57
+37,Female,Good,Widowed,ULIP,4,2 Claims,69354.0,1811,24211,Parent:54
+41,Male,Poor,Single,ULIP,2,2 Claims,105382.0,4005,84617,Sibling:60;Parent:59;Sibling:63
+32,Female,Excellent,Married,Whole Life,1,3+ Claims,72751.0,1668,18954,Spouse:59;Spouse:39;Child:16;Spouse:38
+45,Female,Fair,Divorced,Whole Life,0,2 Claims,72426.0,2128,38297,Parent:49;Parent:62;Parent:45;Parent:71
+42,Female,Good,Married,Term Life,4,3+ Claims,96336.0,3470,40781,Spouse:51;Spouse:49;Child:9
+54,Male,Fair,Single,None,1,1 Claim,87013.0,2100,37235,Sibling:58;Child:20;Sibling:64;Spouse:52
+42,Male,Good,Single,Endowment,2,3+ Claims,103994.0,2650,39858,Parent:67;Child:11;Child:24;Spouse:26
+55,Male,Good,Divorced,Endowment,2,2 Claims,71558.0,2061,35037,Sibling:68;Child:23;Sibling:69
+62,Female,Fair,Widowed,Health Insurance,0,2 Claims,69044.0,2291,32788,Child:22;Parent:68;Spouse:39;Sibling:56
+56,Male,Excellent,Single,None,2,1 Claim,45993.0,1890,29421,Spouse:55;Spouse:54
+35,Female,Excellent,Single,Health Insurance,2,3+ Claims,62891.0,2446,32055,None
+69,Male,Good,Single,Term Life,1,1 Claim,,4151,52642,Sibling:52;Sibling:74;Child:3
+49,Male,Good,Divorced,Health Insurance,4,No Claims,54023.0,1272,12307,Sibling:72;Spouse:41;Spouse:36;Sibling:62
+57,Female,Excellent,Married,None,3,3+ Claims,107686.0,4493,84191,Sibling:72;Child:3;Child:19;Child:15
+62,Male,Excellent,Single,None,2,1 Claim,57557.0,1928,28508,None
+65,Female,Excellent,Divorced,Endowment,2,1 Claim,97071.0,3854,41832,None
+32,Female,Fair,Single,Term Life,3,2 Claims,60335.0,2197,26931,Spouse:30;Sibling:67
+35,Male,Good,Widowed,Whole Life,2,3+ Claims,66842.0,2622,26885,None
+46,Female,Fair,Divorced,Health Insurance,1,No Claims,103682.0,4442,86647,Parent:60;Sibling:63;Sibling:57
+48,Male,Poor,Single,Endowment,1,No Claims,61486.0,1920,34536,Child:4;Parent:53
+65,Male,Good,Divorced,Health Insurance,3,3+ Claims,122698.0,3147,47809,None
+41,Female,Excellent,Single,Health Insurance,2,3+ Claims,35795.0,1587,25515,Sibling:75;Parent:75;Parent:63;Sibling:46
+36,Male,Excellent,Married,Whole Life,2,1 Claim,79014.0,2232,29955,Child:11;Child:2;Sibling:45;Parent:65
+56,Female,Excellent,Single,Term Life,4,2 Claims,115527.0,2899,47196,Parent:47;Child:12;Child:7;Child:1
+39,Male,Poor,Divorced,None,2,2 Claims,-12081.0,-269,-4440,None
+40,Male,Good,Widowed,ULIP,1,2 Claims,69292.0,1893,26838,Parent:70
+46,Male,Excellent,Widowed,Health Insurance,0,3+ Claims,73665.0,2389,50923,Parent:75;Child:8;Child:23
+52,Male,Good,Widowed,ULIP,0,2 Claims,83436.0,2618,43089,Parent:69
+44,Male,Good,Single,Term Life,0,1 Claim,108231.0,2943,33378,None
+57,Female,Good,Married,ULIP,0,3+ Claims,71727.0,1507,26304,Spouse:43
+34,Female,Excellent,Single,Health Insurance,2,3+ Claims,40309.0,1763,26457,Parent:50;Sibling:61
+64,Female,Poor,Widowed,Whole Life,2,2 Claims,95582.0,3792,75837,Sibling:52;Parent:53;Sibling:71;Spouse:30
+56,Female,Good,Divorced,ULIP,4,No Claims,108486.0,5084,67733,Spouse:28;Spouse:46;Sibling:71;Child:5
+57,Female,Excellent,Widowed,Term Life,2,No Claims,98172.0,5100,63115,Spouse:33
+26,Female,Fair,Divorced,Term Life,0,1 Claim,56686.0,2748,46960,Spouse:44;Child:20
+57,Male,Excellent,Married,Whole Life,3,2 Claims,82415.0,3367,50913,Parent:58;Child:6
+57,Male,Poor,Divorced,ULIP,3,2 Claims,46861.0,1805,23310,Parent:79;Parent:50;Child:3
+65,Female,Poor,Single,ULIP,1,3+ Claims,106717.0,2896,51034,None
+37,Female,Fair,Single,None,1,3+ Claims,81106.0,3228,40599,Spouse:42;Parent:67;Child:23
+54,Male,Fair,Single,Endowment,2,2 Claims,70153.0,1610,19995,Spouse:30;Parent:61;Sibling:62
+57,Male,Good,Divorced,Term Life,3,3+ Claims,77705.0,3345,63293,Spouse:51
+37,Male,Poor,Single,None,0,2 Claims,46035.0,1749,15654,Child:16;Sibling:69;Child:10
+50,Female,Good,Single,Term Life,0,1 Claim,97362.0,4908,50717,Parent:55;Spouse:27;Sibling:66
+46,Female,Fair,Single,None,0,3+ Claims,68682.0,1364,22149,Sibling:52;Sibling:58;Parent:64
+63,Female,Poor,Married,Endowment,2,2 Claims,90013.0,2859,40469,Spouse:40;Spouse:56;Parent:56
+26,Male,Poor,Divorced,None,2,3+ Claims,68585.0,2026,37427,Child:19;Sibling:49;Child:12
+62,Male,Fair,Divorced,Term Life,4,1 Claim,98539.0,3059,42936,Parent:49;Child:10;Child:17;Parent:52
+63,Female,Good,Widowed,ULIP,0,3+ Claims,104265.0,3274,51792,Sibling:64
+50,Female,Poor,Divorced,Term Life,0,2 Claims,83496.0,1495,18279,Child:16;Spouse:40;Child:10;Child:3
+39,Male,Good,Married,Health Insurance,2,3+ Claims,72942.0,2453,31182,None
+58,Male,Poor,Divorced,Whole Life,2,3+ Claims,91752.0,3364,52644,Spouse:28;Sibling:68;Spouse:43
+66,Male,Good,Married,Whole Life,4,2 Claims,105058.0,4625,74677,Sibling:62;Parent:56
+68,Male,Good,Married,Health Insurance,4,No Claims,108030.0,3833,68092,Parent:56
+64,Female,Good,Divorced,Whole Life,1,3+ Claims,69505.0,2398,29220,Child:6;Child:24
+35,Male,Good,Widowed,Whole Life,3,3+ Claims,53056.0,2708,41133,Parent:77;Spouse:40
+27,Male,Fair,Single,Endowment,0,1 Claim,52932.0,1960,23774,Parent:56
+30,Male,Good,Single,ULIP,0,No Claims,69036.0,2555,34989,None
+33,Female,Good,Divorced,ULIP,4,1 Claim,94948.0,3028,50753,Sibling:57;Child:8;Spouse:27;Child:20
+30,Female,Good,Divorced,Term Life,4,2 Claims,43735.0,1751,22917,Parent:48
+33,Male,Fair,Married,Health Insurance,1,2 Claims,80573.0,2369,38749,Spouse:26;Parent:67;Sibling:63
+63,Male,Good,Divorced,None,3,1 Claim,81621.0,2458,25445,Parent:62
+55,Male,Excellent,Married,Term Life,1,3+ Claims,112410.0,4412,71973,Spouse:48;Parent:45;Child:1
+56,Female,Excellent,Widowed,Term Life,3,No Claims,124246.0,3260,50068,Child:11;Spouse:42;Child:16
+65,Female,Excellent,Divorced,Term Life,0,1 Claim,60039.0,3358,32423,None
+36,Female,Good,Single,Term Life,1,1 Claim,59473.0,1888,38432,Sibling:48
+32,Male,Excellent,Single,ULIP,4,2 Claims,14995.0,566,7095,Sibling:59;Spouse:26
+32,Female,Excellent,Divorced,None,1,3+ Claims,28203.0,1181,23685,Parent:75;Child:9
+52,Male,Poor,Married,Term Life,1,No Claims,49449.0,1536,16031,Child:21
+44,Male,Fair,Single,ULIP,0,1 Claim,86481.0,4566,79641,None
+31,Male,Good,Married,Term Life,4,No Claims,69739.0,2831,39576,Parent:49;Parent:58
+35,Female,Poor,Divorced,Whole Life,4,No Claims,81024.0,2955,41964,Parent:46
+44,Male,Excellent,Divorced,Term Life,2,1 Claim,86158.0,3602,75352,Parent:73
+40,Female,Good,Single,Health Insurance,2,No Claims,79701.0,1877,18802,Child:21;Sibling:64;Spouse:32;Spouse:50
+28,Female,Good,Divorced,Health Insurance,2,2 Claims,60237.0,2944,28711,Parent:48;Sibling:77;Child:22;Child:6
+30,Male,Good,Widowed,Term Life,0,3+ Claims,57382.0,1544,31786,None
+46,Male,Good,Widowed,Endowment,1,3+ Claims,96391.0,2760,43403,Spouse:48;Parent:48;Sibling:46
+50,Female,Good,Single,Whole Life,4,3+ Claims,80245.0,2091,33337,Spouse:35;Sibling:79;Parent:54;Parent:54
+27,Male,Good,Widowed,None,4,2 Claims,67503.0,2097,20917,Spouse:47;Parent:78;Sibling:76;Sibling:60
+65,Female,Fair,Married,Term Life,1,2 Claims,48394.0,1410,22785,Spouse:52;Parent:58;Child:12
+66,Male,Excellent,Single,None,4,2 Claims,72498.0,3027,39985,Parent:65;Spouse:40;Spouse:26
+38,Female,Excellent,Single,Whole Life,1,3+ Claims,87604.0,4870,72478,Child:14;Spouse:33;Spouse:31;Child:12
+35,Female,Excellent,Married,Term Life,0,No Claims,51631.0,1381,20709,Child:17;Sibling:53;Spouse:30;Child:12
+42,Female,Excellent,Widowed,Endowment,0,2 Claims,44092.0,976,20218,Sibling:54;Spouse:33;Child:12
+36,Female,Good,Widowed,ULIP,0,1 Claim,78825.0,3640,46132,None
+47,Male,Excellent,Widowed,Endowment,1,2 Claims,77026.0,2883,44480,Spouse:43
+36,Male,Fair,Single,Endowment,1,1 Claim,57861.0,1630,21105,None
+37,Female,Excellent,Single,ULIP,3,3+ Claims,97182.0,3316,60698,Sibling:67
+49,Female,Excellent,Widowed,ULIP,4,1 Claim,105748.0,3716,48043,Parent:53
+69,Male,Good,Divorced,Health Insurance,4,2 Claims,95243.0,3290,43703,Spouse:40;Spouse:26;Spouse:55;Spouse:43
+43,Male,Excellent,Widowed,ULIP,3,2 Claims,87447.0,3677,55400,Child:11;Parent:58;Spouse:49
+60,Male,Good,Married,Term Life,3,No Claims,45225.0,1650,18316,Child:24;Parent:69
+69,Male,Good,Single,None,0,3+ Claims,120867.0,2826,38421,Sibling:58;Sibling:73;Sibling:71
+32,Male,Excellent,Married,Health Insurance,3,1 Claim,40268.0,1970,24550,Sibling:78;Sibling:65;Parent:55;Spouse:57
+53,Male,Excellent,Married,Health Insurance,1,3+ Claims,53957.0,1879,25585,Sibling:68;Spouse:35;Spouse:43
+56,Female,Good,Single,None,2,2 Claims,50294.0,1444,20260,None
+68,Male,Excellent,Divorced,Health Insurance,1,No Claims,60748.0,1391,23594,None
+42,Male,Excellent,Widowed,ULIP,3,2 Claims,93606.0,2103,38230,Spouse:39
+30,Female,Excellent,Married,Endowment,4,2 Claims,72622.0,2557,40297,None
+42,Male,Excellent,Single,Whole Life,1,2 Claims,56682.0,1125,14231,Spouse:31
+43,Male,Good,Married,ULIP,4,1 Claim,90097.0,3189,50400,Spouse:36
+46,Male,Good,Widowed,Endowment,1,2 Claims,64100.0,1253,30664,Parent:73
+61,Male,Good,Divorced,Endowment,4,3+ Claims,97472.0,3200,51946,Spouse:31;Parent:71;Parent:56;Spouse:44
+56,Male,Excellent,Divorced,Health Insurance,1,3+ Claims,76353.0,3159,35976,None
+65,Female,Excellent,Divorced,Term Life,4,No Claims,92600.0,3475,56059,Parent:67
+27,Male,Fair,Single,Term Life,2,3+ Claims,38836.0,1777,27079,Sibling:75
+52,Female,Good,Single,Health Insurance,0,2 Claims,66803.0,3235,50853,Sibling:54;Sibling:63;Spouse:43
+34,Female,Fair,Divorced,Health Insurance,1,2 Claims,74881.0,2859,42365,Sibling:67;Child:12;Child:9
+59,Male,Good,Widowed,None,2,3+ Claims,103095.0,3373,32288,Child:20;Sibling:48;Parent:77;Child:16
+53,Female,Good,Widowed,None,0,No Claims,74717.0,2283,47708,None
+39,Male,Good,Single,Whole Life,1,No Claims,38489.0,1788,24355,Parent:47;Parent:56;Spouse:53;Child:23
+57,Female,Good,Divorced,Whole Life,2,3+ Claims,136424.0,2872,38949,Spouse:55;Spouse:26;Spouse:46;Sibling:66
+31,Female,Good,Widowed,Whole Life,2,1 Claim,61733.0,1852,20441,None
+36,Male,Good,Widowed,Whole Life,2,1 Claim,72242.0,2660,37195,Spouse:38;Parent:73;Child:3
+54,Male,Excellent,Widowed,Endowment,3,1 Claim,58773.0,2178,39360,Parent:53
+45,Male,Good,Single,Endowment,4,1 Claim,99304.0,4330,71283,Child:24;Sibling:71
+55,Male,Fair,Divorced,None,0,3+ Claims,112357.0,3372,64869,Child:17
+48,Male,Poor,Married,Term Life,4,No Claims,43839.0,1194,11347,Child:1;Child:11;Child:5;Parent:53
+44,Female,Good,Divorced,Health Insurance,4,2 Claims,71952.0,2938,66653,Child:19
+61,Female,Good,Divorced,Term Life,4,2 Claims,87391.0,1933,33204,Spouse:49;Child:5;Spouse:53
+28,Female,Excellent,Single,ULIP,2,3+ Claims,105768.0,2235,33977,Sibling:69;Spouse:39
+52,Female,Good,Widowed,Endowment,4,2 Claims,110872.0,4199,77336,Parent:58;Spouse:41;Parent:65
+68,Female,Good,Widowed,Whole Life,3,1 Claim,68984.0,3307,58218,Spouse:33
+44,Female,Poor,Single,Whole Life,1,No Claims,59438.0,2699,35785,Child:11
+48,Female,Good,Single,ULIP,2,3+ Claims,60140.0,2690,58595,Sibling:68;Parent:58
+56,Male,Good,Single,Term Life,0,No Claims,93433.0,2466,39108,Parent:50;Child:18;Child:22;Spouse:42
+65,Male,Good,Single,Whole Life,1,3+ Claims,126444.0,3349,65378,Parent:46;Spouse:56
+60,Female,Fair,Single,Term Life,1,3+ Claims,92183.0,2168,50240,None
+58,Female,Good,Married,Health Insurance,1,3+ Claims,98023.0,3919,71612,Child:1;Parent:53;Sibling:57
+60,Male,Good,Divorced,ULIP,4,3+ Claims,76713.0,2649,42887,Sibling:74;Parent:75;Parent:67
+26,Male,Poor,Divorced,Term Life,4,No Claims,65916.0,1464,22676,Child:10
+39,Male,Excellent,Divorced,Health Insurance,2,2 Claims,59561.0,1725,33683,None
+58,Male,Fair,Widowed,Term Life,4,3+ Claims,55184.0,1978,18721,Parent:70;Parent:70;Sibling:57
+60,Female,Excellent,Married,Term Life,4,1 Claim,98617.0,3589,59613,None
+30,Male,Fair,Divorced,Whole Life,4,3+ Claims,59802.0,2360,31783,Child:23;Spouse:59;Parent:55
+63,Female,Good,Widowed,None,2,No Claims,71056.0,1988,34174,Child:9;Child:15;Sibling:49
+66,Female,Good,Married,Endowment,2,3+ Claims,128907.0,3890,70270,Parent:55;Parent:53
+36,Female,Fair,Married,Term Life,3,1 Claim,,1498,18748,Child:18;Parent:71
+27,Male,Excellent,Widowed,Term Life,3,No Claims,69182.0,2314,21667,Sibling:56;Sibling:53;Sibling:72;Parent:57
+69,Male,Excellent,Married,Term Life,3,3+ Claims,91749.0,1839,24541,Parent:57;Sibling:71;Spouse:50
+42,Female,Good,Widowed,None,3,1 Claim,102871.0,4035,62771,Child:22;Spouse:33;Parent:68;Child:10
+64,Female,Good,Divorced,Health Insurance,1,No Claims,,2124,46248,Child:6;Parent:75
+45,Female,Good,Widowed,ULIP,1,3+ Claims,41507.0,2324,30768,Spouse:39;Spouse:56;Spouse:53;Spouse:58
+39,Male,Excellent,Married,Whole Life,3,1 Claim,85200.0,2399,25849,None
+57,Female,Excellent,Divorced,None,3,No Claims,117790.0,4187,49100,Sibling:50;Child:5
+59,Male,Excellent,Divorced,Health Insurance,0,3+ Claims,80447.0,2216,40287,Spouse:33;Parent:63;Sibling:67;Child:9
+50,Female,Excellent,Single,Term Life,1,No Claims,93577.0,3737,53255,Parent:60;Sibling:70;Child:6
+32,Female,Good,Single,Health Insurance,0,1 Claim,64588.0,2090,37229,None
+60,Female,Fair,Married,None,0,3+ Claims,82345.0,4176,49785,Parent:49;Child:7
+54,Male,Poor,Widowed,None,4,3+ Claims,100815.0,4229,73938,None
+47,Male,Fair,Widowed,None,2,3+ Claims,60999.0,2956,41054,None
+66,Female,Excellent,Married,ULIP,1,1 Claim,96649.0,4166,57887,Sibling:48;Spouse:52;Sibling:58;Parent:77
+68,Male,Good,Divorced,Endowment,3,2 Claims,103147.0,2232,43518,Spouse:35;Child:7;Child:4
+38,Female,Excellent,Married,Whole Life,3,3+ Claims,72421.0,3054,50176,None
+38,Male,Excellent,Married,ULIP,2,1 Claim,52491.0,2492,31961,Child:1
+26,Male,Good,Divorced,ULIP,1,No Claims,97192.0,4754,92698,None
+61,Male,Excellent,Widowed,Endowment,3,No Claims,116244.0,2759,44908,Sibling:49;Child:7
+29,Female,Excellent,Married,ULIP,3,1 Claim,78808.0,3312,37404,None
+62,Male,Poor,Widowed,None,4,2 Claims,120664.0,3687,47738,Child:9
+69,Male,Good,Married,None,0,1 Claim,100375.0,2562,47370,Child:12;Sibling:75;Parent:55
+65,Female,Good,Divorced,Health Insurance,3,No Claims,87574.0,3565,63618,Spouse:46;Child:1;Sibling:48;Child:4
+38,Female,Excellent,Divorced,Term Life,1,No Claims,46219.0,2091,28398,None
+63,Female,Excellent,Single,ULIP,2,3+ Claims,78931.0,3043,47844,Spouse:28;Parent:57;Parent:69
+49,Female,Fair,Divorced,Term Life,4,2 Claims,58719.0,2528,40488,Child:23;Spouse:56
+44,Male,Excellent,Single,Whole Life,1,1 Claim,63437.0,1316,23736,None
+26,Male,Good,Married,None,4,No Claims,61529.0,1441,14535,Child:2;Parent:49
+63,Male,Excellent,Widowed,Health Insurance,0,No Claims,111280.0,3152,71175,Sibling:57;Sibling:67;Sibling:75;Spouse:59
+30,Male,Good,Divorced,Whole Life,3,No Claims,77727.0,2582,27514,None
+41,Male,Excellent,Divorced,Health Insurance,1,1 Claim,47569.0,2119,38899,Spouse:37;Parent:51
+49,Female,Fair,Divorced,Endowment,2,1 Claim,92782.0,2820,49235,Spouse:53;Parent:52;Parent:52;Child:22
+52,Male,Fair,Married,None,0,2 Claims,104877.0,3146,37999,Sibling:67;Sibling:76
+26,Male,Fair,Single,Whole Life,0,3+ Claims,50915.0,2042,24100,Parent:48;Spouse:54;Parent:49;Sibling:47
+59,Male,Excellent,Married,Endowment,4,3+ Claims,112955.0,3475,46932,Child:22;Sibling:66;Parent:78
+61,Female,Fair,Widowed,Whole Life,0,3+ Claims,108516.0,5418,79929,Parent:57;Sibling:51;Sibling:54;Spouse:52
+29,Female,Good,Married,Health Insurance,1,No Claims,33708.0,1234,15775,Child:22;Sibling:64;Child:16
+25,Male,Good,Widowed,Endowment,4,3+ Claims,98834.0,2993,54686,Child:6;Spouse:33;Parent:72
+64,Female,Good,Divorced,Endowment,0,No Claims,79687.0,3400,70399,Child:7;Child:18;Child:14;Child:22
+36,Female,Excellent,Widowed,None,2,2 Claims,85148.0,2687,43713,Parent:68;Spouse:32;Child:15;Sibling:50
+60,Female,Excellent,Widowed,Term Life,1,No Claims,108424.0,4456,82321,None
+69,Female,Fair,Single,Health Insurance,2,2 Claims,74519.0,2018,23557,Parent:67;Spouse:34;Sibling:53;Sibling:57
+47,Female,Excellent,Widowed,Health Insurance,2,2 Claims,80579.0,1987,40254,None
+55,Female,Good,Widowed,Endowment,4,3+ Claims,103178.0,5257,68833,Sibling:45;Child:1
+35,Female,Good,Married,Endowment,3,3+ Claims,40307.0,2207,21433,Child:8;Sibling:62;Spouse:55;Child:22
+34,Male,Fair,Divorced,None,4,No Claims,65992.0,1940,27018,None
+27,Male,Poor,Married,Term Life,1,1 Claim,76853.0,3030,46835,Spouse:33;Child:22;Child:24
+38,Female,Fair,Married,Health Insurance,1,3+ Claims,89144.0,4758,76654,Child:20;Spouse:34;Child:24
+40,Male,Excellent,Divorced,ULIP,4,3+ Claims,62058.0,1791,18696,Spouse:26;Child:22
+34,Male,Excellent,Divorced,ULIP,3,1 Claim,94887.0,1997,33448,Parent:75;Child:1;Sibling:76;Spouse:36
+53,Female,Good,Widowed,Term Life,4,1 Claim,109110.0,3737,73012,Parent:47
+34,Male,Excellent,Widowed,Whole Life,1,3+ Claims,68824.0,1631,27354,Spouse:50;Child:14;Sibling:56;Sibling:70
+36,Female,Excellent,Single,None,3,1 Claim,52820.0,1549,21679,Sibling:52;Child:17;Child:17;Sibling:72
+54,Female,Good,Married,Term Life,1,No Claims,60682.0,2757,31877,Child:9;Child:4;Parent:52;Child:10
+65,Female,Good,Divorced,ULIP,3,2 Claims,102550.0,2089,24342,Parent:79
+25,Male,Poor,Widowed,Endowment,3,2 Claims,84290.0,3591,69372,Sibling:66
+29,Male,Excellent,Divorced,ULIP,4,3+ Claims,56056.0,2130,30588,Spouse:29;Child:16;Sibling:59;Sibling:71
+44,Male,Excellent,Widowed,Endowment,4,3+ Claims,56818.0,2121,25843,None
+32,Male,Excellent,Single,None,4,No Claims,78498.0,2835,56576,Child:6;Spouse:42;Spouse:59
+67,Female,Poor,Single,Endowment,3,1 Claim,100490.0,2989,61615,None
+36,Female,Fair,Divorced,Term Life,3,3+ Claims,76318.0,1433,27797,Child:5;Sibling:78
+25,Male,Fair,Single,Endowment,1,2 Claims,44494.0,942,13101,Child:15;Spouse:42
+44,Female,Poor,Divorced,Whole Life,2,No Claims,66602.0,3064,43657,Child:24;Sibling:57;Spouse:25;Spouse:42
+52,Female,Good,Widowed,Term Life,4,No Claims,71400.0,2153,33359,None
+67,Male,Good,Married,None,1,1 Claim,,2382,24548,Spouse:30;Sibling:61
+61,Female,Good,Single,Term Life,1,3+ Claims,84212.0,4390,52173,Child:14;Spouse:54;Sibling:64
+61,Male,Good,Widowed,Whole Life,0,3+ Claims,102848.0,5017,66808,Sibling:48
+36,Female,Good,Married,None,4,No Claims,53572.0,1809,25400,Parent:64
+61,Male,Good,Married,ULIP,1,2 Claims,100950.0,2156,26636,Spouse:59;Sibling:54;Child:15
+68,Female,Poor,Married,Whole Life,0,3+ Claims,112075.0,5532,58359,Sibling:45;Sibling:66;Parent:71
+52,Female,Poor,Widowed,None,4,2 Claims,88630.0,3943,40595,Spouse:39;Sibling:54;Child:20;Parent:66
+39,Male,Fair,Widowed,Endowment,3,No Claims,,2353,22486,Sibling:53
+30,Male,Fair,Divorced,Term Life,0,3+ Claims,50370.0,1318,16426,Child:17;Spouse:43
+68,Male,Good,Married,None,3,2 Claims,111852.0,5363,75344,Parent:78;Sibling:54
+44,Male,Excellent,Married,Term Life,2,No Claims,78666.0,2995,57615,Parent:65;Child:22;Spouse:58;Spouse:33
+38,Female,Excellent,Married,Endowment,2,2 Claims,51805.0,2475,32645,Spouse:36
+26,Female,Good,Divorced,None,2,3+ Claims,17859.0,458,6570,Spouse:44;Sibling:50;Child:18;Parent:56
+33,Male,Fair,Married,ULIP,2,1 Claim,29136.0,900,11915,None
+61,Female,Excellent,Widowed,Whole Life,1,2 Claims,46832.0,1516,25937,Sibling:60
+44,Male,Poor,Married,None,2,1 Claim,82522.0,2046,24241,None
+50,Male,Excellent,Single,Endowment,1,3+ Claims,73504.0,1940,19086,Parent:45;Spouse:59;Child:13
+53,Female,Excellent,Widowed,None,1,1 Claim,84744.0,2099,31141,Sibling:75
+25,Female,Good,Divorced,Term Life,4,No Claims,51391.0,1546,38678,Parent:51;Parent:77;Sibling:72
+59,Male,Excellent,Married,Health Insurance,1,1 Claim,100633.0,3727,46110,Parent:64
+30,Male,Excellent,Single,None,1,2 Claims,72218.0,3488,65660,None
+61,Male,Good,Divorced,ULIP,2,2 Claims,91858.0,3986,53630,Parent:58
+29,Female,Fair,Divorced,None,1,1 Claim,61068.0,3228,42023,Sibling:73;Child:15;Sibling:61
+57,Female,Good,Widowed,Whole Life,3,No Claims,89867.0,4007,68508,Sibling:53;Child:17
+38,Female,Good,Divorced,None,2,3+ Claims,95835.0,2632,27347,Parent:72;Sibling:48;Parent:65;Parent:78
+36,Female,Good,Divorced,Health Insurance,0,1 Claim,25908.0,704,9494,Parent:48;Sibling:76
+66,Male,Excellent,Divorced,Term Life,2,2 Claims,82589.0,2440,59579,Child:16;Spouse:36;Child:9;Sibling:60
+44,Male,Poor,Divorced,None,1,2 Claims,91305.0,2211,28122,None
+48,Male,Excellent,Married,ULIP,3,1 Claim,100158.0,5253,46255,Child:23;Spouse:56;Child:21
+67,Male,Poor,Married,Endowment,2,1 Claim,105544.0,1938,23628,Sibling:53;Parent:66;Spouse:36
+58,Male,Good,Married,None,3,1 Claim,84317.0,2540,50699,Child:4;Sibling:51;Spouse:41
+49,Male,Poor,Married,None,0,3+ Claims,116231.0,4266,87757,None
+53,Female,Excellent,Single,Whole Life,0,2 Claims,86556.0,2991,44135,Spouse:50;Child:13;Sibling:60
+63,Female,Good,Married,ULIP,4,2 Claims,93615.0,3558,39573,Sibling:69;Spouse:55;Spouse:40;Parent:58
+55,Male,Excellent,Divorced,Health Insurance,4,2 Claims,111635.0,4151,76268,None
+67,Male,Excellent,Married,Endowment,2,3+ Claims,106511.0,3095,37373,Child:3;Parent:71;Spouse:43
+47,Female,Good,Married,Term Life,4,No Claims,95796.0,2593,37045,Spouse:31;Sibling:60
+68,Female,Excellent,Widowed,None,3,2 Claims,119139.0,5557,95969,None
+62,Female,Good,Divorced,Health Insurance,4,2 Claims,84550.0,2323,30529,Sibling:55;Parent:64;Spouse:42;Child:5
+44,Female,Excellent,Married,Endowment,3,No Claims,109354.0,3399,50766,Sibling:76;Sibling:73;Spouse:28
+47,Male,Good,Married,Term Life,4,3+ Claims,27757.0,941,18057,Child:20;Parent:78
+69,Male,Fair,Married,Health Insurance,4,No Claims,59406.0,1446,25618,Child:7;Spouse:57;Child:15
+40,Male,Good,Single,ULIP,4,No Claims,56395.0,1979,26018,Child:22;Spouse:53;Parent:69
+66,Male,Good,Married,ULIP,1,No Claims,87532.0,3617,41449,Child:14;Spouse:59;Child:2;Spouse:49
+32,Male,Good,Widowed,Endowment,1,No Claims,69252.0,2877,37298,Parent:79;Sibling:67
+45,Female,Fair,Divorced,Term Life,4,3+ Claims,61211.0,2738,33419,Parent:79;Sibling:73;Sibling:49;Child:22
+25,Male,Good,Divorced,ULIP,3,3+ Claims,54761.0,1193,20787,Spouse:30;Spouse:47
+32,Female,Good,Married,Endowment,2,No Claims,57897.0,1870,26075,Spouse:42
+53,Male,Poor,Married,ULIP,0,1 Claim,123089.0,2763,31795,Parent:55;Parent:45;Parent:54;Parent:70
+56,Male,Fair,Married,ULIP,1,1 Claim,69900.0,1272,15579,None
+62,Male,Good,Divorced,Health Insurance,4,1 Claim,58339.0,1632,29044,Child:24;Child:18
+29,Male,Good,Divorced,Health Insurance,0,1 Claim,81380.0,2259,38094,Sibling:46;Sibling:45;Spouse:25
