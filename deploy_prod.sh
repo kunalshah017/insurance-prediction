@@ -1,17 +1,18 @@
 #!/bin/bash
 
-#!/bin/bash
-
 echo "🚀 Starting deployment..."
+
+# Error handling
+set -e
 
 # Navigate to client directory and install dependencies
 echo "📦 Installing client dependencies..."
-cd client
+cd client || exit
 npm install
 
-# Build the client application
+# Build the client application using npx
 echo "🛠️ Building client application..."
-npm run build
+npx vite build
 
 # Navigate back to root
 cd ..
