@@ -9,9 +9,8 @@ const Login = () => {
       <div className="relative w-[350px] h-[500px] bg-cover bg-center rounded-lg shadow-lg overflow-hidden" style={{ backgroundImage: 'url("1.jpg")' }}>
         {/* Sign-Up Form */}
         <div
-          className={`absolute inset-0 bg-gray-200 rounded-[20px] transform transition-transform duration-1000 ease-in-out ${
-            isSignUp ? "translate-y-0" : "-translate-y-full"
-          }`}
+          className={`absolute inset-0 bg-gray-200 rounded-[20px] transform transition-transform duration-1000 ease-in-out ${isSignUp ? "translate-y-0" : "-translate-y-full"
+            }`}
         >
           <form className="flex flex-col items-center justify-center h-full px-6">
             <label
@@ -49,9 +48,8 @@ const Login = () => {
 
         {/* Login Form */}
         <div
-          className={`absolute inset-0 bg-transparent transform transition-transform duration-1000 ease-in-out ${
-            isSignUp ? "translate-y-full" : "translate-y-0"
-          }`}
+          className={`absolute inset-0 bg-transparent transform transition-transform duration-1000 ease-in-out ${isSignUp ? "translate-y-full" : "translate-y-0"
+            }`}
         >
           <form className="flex flex-col items-center justify-center h-full px-6">
             <label

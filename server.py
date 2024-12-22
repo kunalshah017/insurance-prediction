@@ -1,9 +1,15 @@
+import os
 from flask import Flask, send_from_directory
 from flask_cors import CORS
-import os
+
+from flask_pymongo import PyMongo
+
 
 app = Flask(__name__, static_folder='client/dist')
 CORS(app)
+
+app.config["MONGO_URI"] = "mongodb://localhost:27017/myDatabase"
+mongo = PyMongo(app)
 
 # Serve API routes
 
