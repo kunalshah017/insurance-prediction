@@ -9,10 +9,11 @@ set -e
 echo "📦 Installing client dependencies..."
 cd client || exit
 npm install
+npm install vite @vitejs/plugin-react --save-dev
 
-# Build the client application using npx
+# Build the client application
 echo "🛠️ Building client application..."
-npx vite build
+npm run build
 
 # Navigate back to root
 cd ..
