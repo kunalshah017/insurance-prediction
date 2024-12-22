@@ -8,6 +8,7 @@ from flask_pymongo import PyMongo
 app = Flask(__name__, static_folder='client/dist')
 CORS(app)
 
+
 app.config["MONGO_URI"] = "mongodb://localhost:27017/myDatabase"
 mongo = PyMongo(app)
 
@@ -34,7 +35,3 @@ def serve_path(path):
     if os.path.isfile(file_path):
         return send_from_directory(app.static_folder, path)
     return send_from_directory(app.static_folder, 'index.html')
-
-
-if __name__ == '__main__':
-    app.run(debug=True, port=5000)
