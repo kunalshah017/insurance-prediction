@@ -5,15 +5,20 @@ echo "🚀 Starting deployment..."
 # Error handling
 set -e
 
+# Install bun
+echo " Installing bun..."
+curl -fsSL https://bun.sh/install | bash
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
+
 # Navigate to client directory and install dependencies
 echo "📦 Installing client dependencies..."
 cd client || exit
-npm install
-npm install vite @vitejs/plugin-react --save-dev
+bun install
 
 # Build the client application
 echo "🛠️ Building client application..."
-npm run build
+bun run build
 
 # Navigate back to root
 cd ..
