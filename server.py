@@ -19,19 +19,20 @@ mongo = PyMongo(app)
 def test():
     return {'message': 'API is working'}
 
-# Serve React App
+# Serve React App - Handle all routes
 
 
-@app.route('/')
-def serve():
-    return send_from_directory(app.static_folder, 'index.html')
-
-# Catch all routes to serve React Router paths
-
-
+@app.route('/', defaults={'path': ''})
 @app.route('/<path:path>')
-def serve_path(path):
-    file_path = os.path.join(app.static_folder, path)
-    if os.path.isfile(file_path):
+def serve(path):
+    if path != "" and os.path.exists(os.path.join(app.static_folder, path)):
         return send_from_directory(app.static_folder, path)
+    else:
+        return send_from_directory(app.static_folder, 'index.html')
+
+# Error handler for 404
+
+
+@app.errorhandler(404)
+def not_found(e):
     return send_from_directory(app.static_folder, 'index.html')
